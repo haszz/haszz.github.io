@@ -1,0 +1,306 @@
+{
+    "surah_name": "AL-MOURSALÂT",
+    "surah_number": 77,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "وَٱلۡمُرۡسَلَٰتِ عُرۡفٗا",
+            "explanation": "Allah prête serment par les vents qui se suivent comme les poils de la crinière d’un cheval.",
+            "arabic_explanation": "أقسم الله بالرياح المتتابعة مثل عُرف الفرس."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+            "explanation": "Par les vents tempétueux.",
+            "arabic_explanation": "وأقسم بالرياح الشديدة الهبوب."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "وَٱلنَّٰشِرَٰتِ نَشۡرٗا",
+            "explanation": "Par les vents qui dispersent les pluies.",
+            "arabic_explanation": "وأقسم بالرياح التي تنشر المطر."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+            "explanation": "Par les anges qui descendent révéler ce qui distingue le vrai du faux.",
+            "arabic_explanation": "وأقسم بالملائكة التي تنزل بما يفرق بين الحق والباطل."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "فَٱلۡمُلۡقِيَٰتِ ذِكۡرًا",
+            "explanation": "Par les anges qui descendent avec la Révélation.",
+            "arabic_explanation": "وأقسم بالملائكة التي تنزل بالوحي."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "عُذۡرًا أَوۡ نُذۡرًا",
+            "explanation": "Les anges qui descendent avec la Révélation, en guise d’excuse qu’Allah donne aux gens, et d’avertissement qu’Il leur fait contre Son châtiment.",
+            "arabic_explanation": "تنزل بالوحي إعذارًا من الله إلى الناس، وإنذارًا للناس من عذاب الله."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+            "explanation": "La Ressuscitation, la Reddition des Comptes et la Rétribution qui vous ont été promis sont inéluctables.",
+            "arabic_explanation": "إن الذي توعدون به من البعث والحساب والجزاء لواقع لا محالة."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "فَإِذَا ٱلنُّجُومُ طُمِسَتۡ",
+            "explanation": "Lorsque la lumière des étoiles sera effacée et que leur lueur s’éteindra.",
+            "arabic_explanation": "فإذا النجوم مُحِيَ نورها وذهب ضوؤها."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ",
+            "explanation": "Lorsque le Ciel sera fendu pour que les anges en descendent.",
+            "arabic_explanation": "وإذا السماء شُقَّت لتنزّل الملائكة منها."
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+            "explanation": "Lorsque les montagnes seront arrachées de leurs emplacements et seront émiettées.",
+            "arabic_explanation": "وإذا الجبال اقتُلِعت من مكانها فَفُتِّتَتْ حتى تصير هباءً."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+            "explanation": "Lorsque les messagers seront rassemblés pour un terme fixé.",
+            "arabic_explanation": "وإذا الرسل جُمِعت لوقت محدد."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "لِأَيِّ يَوۡمٍ أُجِّلَتۡ",
+            "explanation": "Ils seront réunis pour témoigner contre leurs peuples durant un jour éminent qui a été reporté.",
+            "arabic_explanation": "ليوم عظيم أُجِّلت للشهادة على أممها."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+            "explanation": "Le Jour de la Décision (yawmu l-faşli) où il sera tranché entre les serviteurs. Les tenants de la vérité se distingueront des tenants du faux et le bienheureux si distinguera du malheureux.",
+            "arabic_explanation": "ليوم الفصل بين العباد، فيتبين المحق من المبطل، والسعيد من الشقي."
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "وَمَآ أَدۡرَىٰكَ مَا يَوۡمُ ٱلۡفَصۡلِ",
+            "explanation": "Ô Messager, que sais-tu du Jour de la Décision?",
+            "arabic_explanation": "وما أعلمك - أيها الرسول - ما يوم الفصل؟!"
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Il sera fait d’anéantissement, de châtiment et de perdition pour les dénégateurs qui traitent de mensonge ce que les messagers apportent de la part d’Allah.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين الذين يكذبون بما جاءت به الرسل من عند الله."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+            "explanation": "N’avons-Nous pas anéanti les anciens peuples lorsqu’ils mécrurent en Allah et traitèrent leurs messagers de menteurs?",
+            "arabic_explanation": "ألم نهلك الأمم السابقة لما كفرت بالله وكذبت رسلها؟!"
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "ثُمَّ نُتۡبِعُهُمُ ٱلۡأٓخِرِينَ",
+            "explanation": "Ne les avons-nous pas fait suivre par les dernières générations que Nous avons anéanties comme leurs prédécesseurs?",
+            "arabic_explanation": "ثم نتبعهم المكذبين من المتأخرين، فنهلكهم كما أهلكناهم."
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+            "explanation": "C’est ainsi que Nous anéantissons les criminels qui traitent ce mensonge ce que Muħammad leur a apporté.",
+            "arabic_explanation": "مثل الإهلاك لتلك الأمم نهلك المجرمين المكذبين بما جاء به محمد صلى الله عليه وسلم."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Ce Jour-là sera fait d’anéantissement, de châtiment et de perdition pour les dénégateurs qui traitent de mensonge la promesse qu’a faite Allah aux criminels de les punir.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بوعيد الله بالعقاب للمجرمين."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "أَلَمۡ نَخۡلُقكُّم مِّن مَّآءٖ مَّهِينٖ",
+            "explanation": "Ô gens, ne Nous avons-Nous pas créés d’une petite quantité d'eau vile, qui est le sperme?",
+            "arabic_explanation": "ألم نخلقكم - أيها الناس - من ماء حقير قليل وهو النُّطْفة."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ",
+            "explanation": "Nous avons fait en sorte que cette eau vile soit déposée dans un lieu sûr, qui est l’utérus de la femme.",
+            "arabic_explanation": "فجعلنا ذلك الماء المَهِين في مكان مَحْروز وهو رحم المرأة."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+            "explanation": "Puis y reste pendant une durée connue.",
+            "arabic_explanation": "إلى مُدّة معلومة هي مدّة الحمل."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "فَقَدَرۡنَا فَنِعۡمَ ٱلۡقَٰدِرُونَ",
+            "explanation": "Nous déterminons les caractéristiques du nouveau-né, son destin, sa couleur et d’autres encore et quel Meilleur Emetteur de décrets que Nous.",
+            "arabic_explanation": "فقدَّرنا صفة المولود وقَدْرَه ولونه وغير ذلك، فنعم القادرون لذلك كله نحن."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent, ce jour-là, sur ceux qui traitent le décret d’Allah de mensonge.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بقدرة الله."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ كِفَاتًا",
+            "explanation": "N’avons-Nous pas fait en sorte que la Terre soit assez spacieuse pour contenir tous les gens?",
+            "arabic_explanation": "ألم نجعل الأرض تضمّ الناس جميعًا."
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+            "explanation": "Elle porte aussi bien les vivants, qui l'habitent et l’entretiennent, que les morts qui y sont enterrés.",
+            "arabic_explanation": "تضمّ أحياءهم بالسكن عليها وعمارتها، وأمواتهم بالدفن فيها."
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+            "explanation": "Nous y avons mis des montagnes très hautes et bien enracinées qui l’empêchent de tanguer et Nous vous avons abreuvés, ô gens, d’une eau douce. Celui qui a le pouvoir de créer cela n’est donc pas impuissant lorsqu’il s’agira de vous ressusciter.",
+            "arabic_explanation": "وجعلنا فيها جبالًا ثوابتَ، تمنعها من الاضطراب، عاليات، وأسقيناكم - أيها الناس - ماءً عذبًا، فمن خلق ذلك ليس عاجزًا عن بعثكم."
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là sur ceux qui traitent de mensonges les bienfaits dont Allah leur a fait don",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بنعم الله عليهم."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+            "explanation": "On dira à ceux qui traitaient ce que leur apportaient leurs messagers de mensonge:\nÔ dénégateurs, marchez vers le châtiment que vous traitiez de mensonge.",
+            "arabic_explanation": "ويقال للمكذبين بما جاءت به رسلهم: سيروا - أيها المكذبون - إلى ما كنتم به تكذبون من العذاب."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "ٱنطَلِقُوٓاْ إِلَىٰ ظِلّٖ ذِي ثَلَٰثِ شُعَبٖ",
+            "explanation": "Marchez vers une ombre, partagée en trois branche, causée par la fumée de l'Enfer.",
+            "arabic_explanation": "سيروا إلى ظل من دخان النار مفترق ثلاث فرق."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+            "explanation": "Cette ombre n’est pas rafraîchissante et ne sera pas un rempart entre vous et les flammes du Feu.",
+            "arabic_explanation": "ليس فيه برد الظلال، ولا يمنع لهيب النار وحرّها أن ينفذ إليكم."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "إِنَّهَا تَرۡمِي بِشَرَرٖ كَٱلۡقَصۡرِ",
+            "explanation": "Le Feu projette ses étincelles aussi volumineuses que des châteaux.",
+            "arabic_explanation": "إن النار تقذف بشرارات، كل شرارة مثل القصر في عظمها."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "كَأَنَّهُۥ جِمَٰلَتٞ صُفۡرٞ",
+            "explanation": "Aussi sombres et énormes que des dromadaires noirs.",
+            "arabic_explanation": "كأن الشرارات التي تقذف بها في سوادها وضخامتها جِمال سود."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonges le châtiment d’Allah.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بعذاب الله."
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+            "explanation": "Ce Jour-là, ils ne diront mot.",
+            "arabic_explanation": "هذا يوم لا يتكلمون فيه بشيء."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "وَلَا يُؤۡذَنُ لَهُمۡ فَيَعۡتَذِرُونَ",
+            "explanation": "On ne leur permettra pas de s’excuser auprès de leur Seigneur pour leur mécréance et leurs péchés.",
+            "arabic_explanation": "ولا يُؤْذَن لهم أن يعتذروا إلى ربهم من كفرهم وسيئاتهم، فيعتذرون إليه."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonges les nouvelles de ce Jour.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بأخبار هذا اليوم."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِۖ جَمَعۡنَٰكُمۡ وَٱلۡأَوَّلِينَ",
+            "explanation": "Ce sera le Jour où on tranchera entre les créatures et où Nous vous réunirons avec les peuples du passé dans le même espace.",
+            "arabic_explanation": "هذا يوم الفصل بين الخلائق، جمعناكم والأمم السابقة في صعيد واحد."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+            "explanation": "Si vous disposez d’une ruse pour échapper au châtiment d’Allah, usez-en contre moi.",
+            "arabic_explanation": "فإن كانت لكم حيلة تحتالون بها للنجاة من عذاب الله فاحتالوا عليّ."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonges le Jour de la Décision.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بيوم الفصل."
+        },
+        {
+            "verse_number": 41,
+            "verse_text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+            "explanation": "Ceux qui craignent leur Seigneur en se conformant à Ses commandements et en délaissant Ses interdits seront sous l’ombre des arbres verdoyant du Paradis et auront à leur disposition des sources d’eau douce ruisselante.",
+            "arabic_explanation": "إن المتقين لربهم بامتثال أوامره واجتناب نواهيه، في ظلال أشجار الجنة الوارفة، وعيون الماء العذبة الجارية."
+        },
+        {
+            "verse_number": 42,
+            "verse_text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+            "explanation": "Ils obtiendront également les fruits qu’ils désirent manger.",
+            "arabic_explanation": "وفواكه مما يشتهون أكله."
+        },
+        {
+            "verse_number": 43,
+            "verse_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+            "explanation": "On leur dira: Mangez des nourritures agréables et buvez des boissons exquises en récompense pour les bonnes œuvres que vous avez accomplies dans le bas monde.",
+            "arabic_explanation": "ويقال لهم: كلوا من الطيبات، واشربوا شرابًا هنيئًا لا مُنَغِّص فيه؛ بما كنتم تعملون في الدنيا من الأعمال الصالحات."
+        },
+        {
+            "verse_number": 44,
+            "verse_text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+            "explanation": "C’est ainsi que Nous rétribuons ceux qui excellent dans leurs œuvres.",
+            "arabic_explanation": "إنا مثل هذا الجزاء الذي جزيناكم به نجزي المحسنين لأعمالهم."
+        },
+        {
+            "verse_number": 45,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonges ce qu’Allah réserve aux pieux.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بما أعد الله للمتقين."
+        },
+        {
+            "verse_number": 46,
+            "verse_text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+            "explanation": "On dira à ces dénégateurs: Mangez et jouissez des plaisirs du bas monde durant une courte période. Par votre mécréance et votre démenti de ce que les messagers apportent de la part d’Allah, vous vous rendez coupables de crimes.",
+            "arabic_explanation": "ويقال للمكذبين: كلوا وتمتعوا بملذات الحياة وقتًا قليلًا في الدنيا، إنكم بكفركم بالله وتكذيبكم رسله مجرمون."
+        },
+        {
+            "verse_number": 47,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonge ce qu’Allah réserve aux pieux.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين بجزائهم يوم الدين."
+        },
+        {
+            "verse_number": 48,
+            "verse_text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+            "explanation": "Lorsqu’on dit à ces dénégateurs « Priez afin de satisfaire Allah », ils ne prient pas.",
+            "arabic_explanation": "وإذا قيل لهؤلاء المكذبين: صلّوا لله لا يصلّون له."
+        },
+        {
+            "verse_number": 49,
+            "verse_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+            "explanation": "Que l’anéantissement, le châtiment et la perdition s’abattent ce jour-là, sur ceux qui traitent de mensonge ce que les messagers apportent de la part d’Allah.",
+            "arabic_explanation": "هلاك وعذاب وخسران في ذلك اليوم للمكذبين الذين يكذبون بما جاءت به الرسل من عند الله."
+        },
+        {
+            "verse_number": 50,
+            "verse_text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+            "explanation": "S’ils ne croient pas à ce Coran révélé par leur Seigneur, en quelle autre parole croiront-ils donc?",
+            "arabic_explanation": "فإذا لم يؤمنوا بهذا القرآن المنزل من ربهم فبأي حديث غيره يؤمنون؟!"
+        }
+    ]
+}

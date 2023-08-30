@@ -1,0 +1,36 @@
+{
+    "surah_name": "AL-FALAQ",
+    "surah_number": 113,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ",
+            "explanation": "Ô Messager, dis: Je me prémunis par le Seigneur de l’aube et je cherche refuge auprès de Lui",
+            "arabic_explanation": "قل - أيها الرسول -: أعتصم بربّ الصبح، وأستجير به."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "مِن شَرِّ مَا خَلَقَ",
+            "explanation": "contre le mal des créatures malfaisantes,",
+            "arabic_explanation": "من شرّ ما يؤذي من المخلوقات."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+            "explanation": "contre les maux de la nuit provenant des animaux et des voleurs,",
+            "arabic_explanation": "وأعتصم بالله من الشرور التي تظهر في الليل من دواب ولصوص."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ",
+            "explanation": "contre le mal des sorcières qui soufflent dans les nœuds,",
+            "arabic_explanation": "وأعتصم به من شرّ السواحر اللائي يَنْفُثْن في العُقَد."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+            "explanation": "et contre le mal de l’envieux lorsque son envie le pousse à l’action.",
+            "arabic_explanation": "وأعتصم به من شرّ حاسد إذا عمل بما يدفعه إليه الحسد."
+        }
+    ]
+}

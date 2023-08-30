@@ -1,0 +1,816 @@
+{
+    "surah_name": "TÂ-HÂ",
+    "surah_number": 20,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "طه",
+            "explanation": "Ṭâ-Hâ: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.",
+            "arabic_explanation": "(طه) تقدم الكلام على نظائرها في بداية سورة البقرة."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "مَآ أَنزَلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ لِتَشۡقَىٰٓ",
+            "explanation": "Ô Messager, Nous ne t’avons pas révélé le Coran pour que le refus des tiens de croire en toi t’abatte moralement.",
+            "arabic_explanation": "ما أنزلنا عليك - أيها الرسول - القرآن ليكون سببًا في إرهاق نفسك أسفًا على إعراض قومك عن الإيمان بك."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "إِلَّا تَذۡكِرَةٗ لِّمَن يَخۡشَىٰ",
+            "explanation": "Nous ne l’avons révélé que pour qu’il soit un rappel adressé à ceux à qui Il a facilité de Le craindre.",
+            "arabic_explanation": "ما أنزلناه إلا ليكون تذكيرًا لمن وفقهم الله لخشيته."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "تَنزِيلٗا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَٰوَٰتِ ٱلۡعُلَى",
+            "explanation": "C’est Allah, le Créateur de la Terre et des très haut Cieux, qui te l’a révélé. Il s’agit d’un Livre éminent puisque révélé par l’Etre Suprême",
+            "arabic_explanation": "نزّله الله الذي خلق الأرض، وخلق السماوات المرتفعة، فهو قرآن عظيم؛ لأنه منزل من عند عظيم."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "ٱلرَّحۡمَٰنُ عَلَى ٱلۡعَرۡشِ ٱسۡتَوَىٰ",
+            "explanation": "Le Tout Miséricordieux s’est élevé, d’une manière qui sied à Sa Majesté, au-dessus du Trône.",
+            "arabic_explanation": "الرحمن علا وارتفع على العرش علوًّا يليق بجلاله سبحانه وتعالى."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا وَمَا تَحۡتَ ٱلثَّرَىٰ",
+            "explanation": "A Lui, exalté soit-Il, revient la possession de ce que contiennent les Cieux et la Terre ainsi que toutes les créatures vivant sous terre. Il crée, possède et se charge de gérer tout cela.",
+            "arabic_explanation": "له سبحانه وحده ما في السماوات وما في الأرض وما تحت التراب من مخلوقات، خلقًا وملكًا وتدبيرًا."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "وَإِن تَجۡهَرۡ بِٱلۡقَوۡلِ فَإِنَّهُۥ يَعۡلَمُ ٱلسِّرَّ وَأَخۡفَى",
+            "explanation": "Ô Messager, que tu manifestes tes pensées ou les dissimules, Allah les connaîtra car Il connaît ce qui est secret et ce qui est encore plus dissimulé que les secrets, comme l’état d’esprit d’une personne par exemple, et rien ne Lui échappe.",
+            "arabic_explanation": "وإن تعلن - أيها الرسول - القول، أو تخفه فإنه سبحانه يعلم ذلك كله، فهو يعلم السر وما هو أخفى من السر مثل خواطر النفس، لا يخفى عليه شيء من ذلك."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ",
+            "explanation": "Il n’existe pas de divinité méritant d’être adorée hormis Allah et c’est Lui Seul qui détient les Plus Beaux Noms.",
+            "arabic_explanation": "الله لا معبود بحق غيره، له وحده الأسماء البالغة الكمال في الحسن."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "وَهَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ",
+            "explanation": "Ô Messager, connais-tu le récit de Moïse ?",
+            "arabic_explanation": "ولقد جاءك - أيها الرسول - خبر موسى بن عمران عليه السلام."
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
+            "explanation": "Lorsqu’il aperçut un feu durant son voyage, il dit à sa famille: Restez ici ! J’ai aperçu un feu au loin. Peut-être que je vous apporterai de quoi allumer un foyer ou trouverai-je quelqu’un qui puisse me montrer mon chemin.",
+            "arabic_explanation": "حين عاين في سفره نارًا، فقال لأهله: أقيموا في مكانكم هذا، إني أبصرت نارًا لعلي آتيكم من هذه النار بشعلة، أو أجد من يهديني إلى الطريق."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "فَلَمَّآ أَتَىٰهَا نُودِيَ يَٰمُوسَىٰٓ",
+            "explanation": "Arrivé près du feu, Allah l’appela: O Moïse !",
+            "arabic_explanation": "فلما جاء النار ناداه الله سبحانه بقوله: يا موسى."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "إِنِّيٓ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَيۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوٗى",
+            "explanation": "C’est Moi ton Seigneur. Déchausse-toi avant de converser avec Moi. Tu es dans la vallée pure nommée Ṭuwâ.",
+            "arabic_explanation": "إني أنا ربك فانزع نعليك استعدادًا لمناجاتي، إنك بالوادي المُطَهَّر (طُوَى)."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "وَأَنَا ٱخۡتَرۡتُكَ فَٱسۡتَمِعۡ لِمَا يُوحَىٰٓ",
+            "explanation": "Ô Moïse, c’est Moi qui t’ai choisi afin de transmettre Mon Message. Ecoute donc ce qui t’es révélé.",
+            "arabic_explanation": "وأنا اصطفيتك - يا موسى - لتبليغ رسالتي، فاستمع لما أوحيه إليك."
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِيٓ",
+            "explanation": "Je suis Allah, il n’existe pas de divinité digne d’être adorée en dehors de Moi. Adore-Moi Seul et accomplis la prière de manière complète afin de M’évoquer par cette adoration.",
+            "arabic_explanation": "إنني أنا الله لا معبود بحق غيري، فاعبدني وحدي، وأدّ الصلاة على أكمل وجه لتذكُرني فيها."
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
+            "explanation": "L’Heure surviendra indubitablement. Certes, Je garde secret le moment où elle aura lieu mais les gens en connaissent les indices que le Prophète leur a mentionné. Elle aura lieu afin que chacun d’eux soit rétribué pour le bien ou le mal qu’il aura fait.",
+            "arabic_explanation": "إن الساعة آتية لا محالة وواقعة، أكاد أخفيها فلا يعلم وقتها مخلوق، ولكن يعرفون علاماتها بإخبار النبي لهم؛ لكي تُجَازَى كل نفس بما عملته، خيرًا كان أو شرًّا."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ",
+            "explanation": "Ne sois donc pas détourné, par les mécréants qui rejettent la réalité de l’Heure et suivent leurs passions, des bonnes œuvres que tu accomplis afin de te préparer à ce jour. Sinon, tu serais voué à la perdition.",
+            "arabic_explanation": "فلا يصرفنّك عن التصديق بها والاستعداد لها بالعمل الصالح من لا يؤمن بها من الكفار، واتبع ما تهواه نفسه من المحرمات، فتهلك بسبب ذلك."
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "وَمَا تِلۡكَ بِيَمِينِكَ يَٰمُوسَىٰ",
+            "explanation": "Qu’y a-t-il dans ta main droite, ô Moïse ?",
+            "arabic_explanation": "وما تلك التي بيدك اليمنى يا موسى؟"
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "قَالَ هِيَ عَصَايَ أَتَوَكَّؤُاْ عَلَيۡهَا وَأَهُشُّ بِهَا عَلَىٰ غَنَمِي وَلِيَ فِيهَا مَـَٔارِبُ أُخۡرَىٰ",
+            "explanation": "Moïse répondit: Ceci est mon bâton sur lequel je m’appuie lorsque je marche. Je m’en sers aussi pour faire tomber les feuilles des arbres afin que mes moutons s’en nourrissent et j’en fais d’autres usages encore.",
+            "arabic_explanation": "قال موسى عليه السلام: هي عصاي؛ أعتمد عليها في المشي، وأخبط بها الشجر ليسقط ورقها لغنمي، ولي فيها منافع غير ما ذكرت."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "قَالَ أَلۡقِهَا يَٰمُوسَىٰ",
+            "explanation": "Jette-le à terre, ordonna Allah à Moïse.",
+            "arabic_explanation": "قال الله: ألقها يا موسى."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "فَأَلۡقَىٰهَا فَإِذَا هِيَ حَيَّةٞ تَسۡعَىٰ",
+            "explanation": "Moïse jeta son bâton et voici qu’il se transforma en serpent qui se déplaçait avec rapidité et vivacité.",
+            "arabic_explanation": "فألقاها موسى، فانقلبت حية تمشي بسرعة وخفّة."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "قَالَ خُذۡهَا وَلَا تَخَفۡۖ سَنُعِيدُهَا سِيرَتَهَا ٱلۡأُولَىٰ",
+            "explanation": "Allah dit ensuite à Moïse: Reprends ton bâton et ne sois pas apeuré par sa transformation en serpent car lorsque tu voudras le saisir, il redeviendra un bâton.",
+            "arabic_explanation": "قال الله لموسى عليه السلام: خذ العصا، ولا تخف من انقلابها حية، سنعيدها إذا أخذتها إلى حالتها الأولى."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ ءَايَةً أُخۡرَىٰ",
+            "explanation": "Puis ramène ta main sous ton aisselle et elle sortira blanche sans être atteinte par la lèpre. Ceci constituera le deuxième de Nos signes.",
+            "arabic_explanation": "واضمم يدك إلى جنبك تخرج بيضاء من غير برص؛ علامة ثانية لك."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى",
+            "explanation": "Ô Moïse, Nous t’avons montré ces deux signes afin que tu sois témoin des plus grands miracles prouvant Notre pouvoir et prouvant que tu es un messager envoyé par Allah",
+            "arabic_explanation": "أريناك هاتين العلامتين لنريك -يا موسى- من آياتنا العظمى الدالة على قدرتنا، وعلى أنك رسول من عند الله."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "ٱذۡهَبۡ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+            "explanation": "Ô Moïse, rends-toi auprès de Pharaon car il a mécru et s’est rebellé contre Allah, dépassant ainsi toute limite.",
+            "arabic_explanation": "سر - يا موسى - إلى فرعون، فإنه تجاوز الحد في الكفر والتمرّد على الله."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "قَالَ رَبِّ ٱشۡرَحۡ لِي صَدۡرِي",
+            "explanation": "Moïse demanda à Allah: Ô Seigneur, rends-moi plus tolérant aux offenses.",
+            "arabic_explanation": "قال موسى عليه السلام: رب، وسّع لي صدري لأتحمّل الأذى."
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "وَيَسِّرۡ لِيٓ أَمۡرِي",
+            "explanation": "Facilite ma tâche.",
+            "arabic_explanation": "وسهّل لي أمري."
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي",
+            "explanation": "Rends-moi capable de parler sans défaut d’élocution.",
+            "arabic_explanation": "وأقدرني على النطق بالفصيح من الكلام."
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "يَفۡقَهُواْ قَوۡلِي",
+            "explanation": "Afin qu’ils comprennent le Message que je leur transmets.",
+            "arabic_explanation": "ليفهموا كلامي إذا بلّغتهم رسالتك."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي",
+            "explanation": "Donne-moi pour aide quelqu’un de ma famille afin qu’il m’assiste dans ma mission.",
+            "arabic_explanation": "واجعل لي معينًا من أهلي يعينني في أموري."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "هَٰرُونَ أَخِي",
+            "explanation": "Que cet aide soit mon frère, Aaron fils de ‘Imrân.",
+            "arabic_explanation": "هارون بن عمران أخي."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "ٱشۡدُدۡ بِهِۦٓ أَزۡرِي",
+            "explanation": "Protège, par lui, mes arrières.",
+            "arabic_explanation": "قوِّ به ظهري."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "وَأَشۡرِكۡهُ فِيٓ أَمۡرِي",
+            "explanation": "Fais de lui mon partenaire dans la transmission du Message.",
+            "arabic_explanation": "واجعله شريكًا لي في الرسالة."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "كَيۡ نُسَبِّحَكَ كَثِيرٗا",
+            "explanation": "Afin que Nous Te glorifiions souvent.",
+            "arabic_explanation": "لكي نسبّحك تسبيحًا كثيرًا."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "وَنَذۡكُرَكَ كَثِيرًا",
+            "explanation": "Et que Nous Te mentionnions souvent.",
+            "arabic_explanation": "ونذكرك ذكرًا كثيرًا."
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "إِنَّكَ كُنتَ بِنَا بَصِيرٗا",
+            "explanation": "Car Tu vois tout de nous et rien ne T’échappe.",
+            "arabic_explanation": "إنك كنت بنا بصيرًا، لا يخفى عليك شيء من أمرنا."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "قَالَ قَدۡ أُوتِيتَ سُؤۡلَكَ يَٰمُوسَىٰ",
+            "explanation": "Allah lui répondit: Nous t’accordons ce que tu demandes, ô Moïse.",
+            "arabic_explanation": "قال الله: قد أعطيناك ما طلبت يا موسى."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "وَلَقَدۡ مَنَنَّا عَلَيۡكَ مَرَّةً أُخۡرَىٰٓ",
+            "explanation": "Ce présent don suit un don précédent de Notre part.",
+            "arabic_explanation": "ولقد أنعمنا عليك مرة أخرى."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "إِذۡ أَوۡحَيۡنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+            "explanation": "Rappelle-toi que Nous avons inspiré à ta mère de te préserver contre l’intrigue de Pharaon.",
+            "arabic_explanation": "إذ ألهمنا أمك ما ألهمناها مما حفظك الله به من مكر فرعون."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "أَنِ ٱقۡذِفِيهِ فِي ٱلتَّابُوتِ فَٱقۡذِفِيهِ فِي ٱلۡيَمِّ فَلۡيُلۡقِهِ ٱلۡيَمُّ بِٱلسَّاحِلِ يَأۡخُذۡهُ عَدُوّٞ لِّي وَعَدُوّٞ لَّهُۥۚ وَأَلۡقَيۡتُ عَلَيۡكَ مَحَبَّةٗ مِّنِّي وَلِتُصۡنَعَ عَلَىٰ عَيۡنِيٓ",
+            "explanation": "Nous lui avons en effet inspiré de te mettre à l’eau après t’avoir mis dans un couffin. Nous ordonnerons alors à l’eau de faire échouer ce couffin sur le rivage et l’un de Nos ennemis et des ennemis du nourrisson le récupèrera. Il s’agit de Pharaon. Ô Moïse, Je t’ai enveloppé de Mon amour, ce qui amena de ce fait les gens à t’aimer, afin que tu sois élevé sous Ma garde et préservé par Ma sollicitude.",
+            "arabic_explanation": "فقد أمرناها حين ألهمناها: أن ارميه بعد ولادته في الصندوق، واطرحي الصندوق في البحر، فسيطرحه البحر بالشاطئ بأمر منّا، فيأخذه عدو لي وله، وهو فرعون، ووضعت عليك محبّة منّي، فأحبّك الناس، ولتتربّى على عيني وفي حفظي ورعايتي."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "إِذۡ تَمۡشِيٓ أُخۡتُكَ فَتَقُولُ هَلۡ أَدُلُّكُمۡ عَلَىٰ مَن يَكۡفُلُهُۥۖ فَرَجَعۡنَٰكَ إِلَىٰٓ أُمِّكَ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَۚ وَقَتَلۡتَ نَفۡسٗا فَنَجَّيۡنَٰكَ مِنَ ٱلۡغَمِّ وَفَتَنَّٰكَ فُتُونٗاۚ فَلَبِثۡتَ سِنِينَ فِيٓ أَهۡلِ مَدۡيَنَ ثُمَّ جِئۡتَ عَلَىٰ قَدَرٖ يَٰمُوسَىٰ",
+            "explanation": "Ta sœur sortit suivre le couffin qui te contenait et dit à ceux qui te recueillirent: Voulez-vous que je vous indique des gens capables de le protéger, de l’allaiter et de l’élever ? Nous t’avons alors fait la faveur de te rendre à ta mère afin qu’elle soit réjouie par ton retour et qu’elle soit moins attristée. Plus tard, tu as tué un Copte en le frappant et Nous t’avons alors fait la faveur de te sauver de la punition. C‘est ainsi que Nous t’avons sauvegardé à chaque épreuve. Par la suite, tu as vécu longtemps chez les Madyan( ).",
+            "arabic_explanation": "إذ خرجت أختك تسير كلما سار التابوت تتابعه، فقالت لمن أخذوه: هل أُرْشِدكم إلى من يحفظه ويرضعه ويربيه؟ فمننّا عليك بإرجاعك إلى أمّك لتسرّ برجوعك إليها، ولا تحزن من أجلك، وقتلت القِبْطِي الذي وَكَزْتَه، فمننّا عليك بإنجائك من العقوبة، وخلصناك مرة بعد مرة من كل امتحان تعرّضت له، فخرجت ومكثت أعوامًا في أهل مَدْين، ثم أتيت في الوقت الذي قُدِّر لك أن تأتي فيه لتكليمك يا موسى."
+        },
+        {
+            "verse_number": 41,
+            "verse_text": "وَٱصۡطَنَعۡتُكَ لِنَفۡسِي",
+            "explanation": "Puis Je t’ai choisi afin que tu sois le messager que J’envoie aux gens afin de transmettre ce que je Lui révèle.",
+            "arabic_explanation": "واخترتك لتكون رسولًا عنّي تبلّغ الناس ما أوحيت به إليك."
+        },
+        {
+            "verse_number": 42,
+            "verse_text": "ٱذۡهَبۡ أَنتَ وَأَخُوكَ بِـَٔايَٰتِي وَلَا تَنِيَا فِي ذِكۡرِي",
+            "explanation": "Ô Moïse, pars avec ton frère Aaron accompagnés de Nos signes prouvant le pouvoir et l’Unicité d’Allah et ne faiblissez pas lorsque vous prêchez Mon Message et Me mentionnez.",
+            "arabic_explanation": "اذهب أنت - يا موسى - وأخوك هارون، بآياتنا الدالة على قدرة الله ووحدانيته، ولا تضعفا عن الدعوة إليّ، وعن ذكري."
+        },
+        {
+            "verse_number": 43,
+            "verse_text": "ٱذۡهَبَآ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+            "explanation": "Rendez-vous auprès de Pharaon car sa mécréance et sa rébellion ont outrepassé les limites.",
+            "arabic_explanation": "اذهبا إلى فرعون، فإنه تجاوز الحد في الكفر والتمرّد على الله."
+        },
+        {
+            "verse_number": 44,
+            "verse_text": "فَقُولَا لَهُۥ قَوۡلٗا لَّيِّنٗا لَّعَلَّهُۥ يَتَذَكَّرُ أَوۡ يَخۡشَىٰ",
+            "explanation": "Dites-lui des paroles douces sans agressivité, peut-être qu’il se rappellera, Me craindra et finira par se repentir.",
+            "arabic_explanation": "فقولا له قولًا لطيفًا لا عنف فيه؛ رجاء أن يتذكر، ويخاف الله فيتوب."
+        },
+        {
+            "verse_number": 45,
+            "verse_text": "قَالَا رَبَّنَآ إِنَّنَا نَخَافُ أَن يَفۡرُطَ عَلَيۡنَآ أَوۡ أَن يَطۡغَىٰ",
+            "explanation": "Inquiets, Moïse et Aaron dirent à Allah: Nous craignons que Pharaon s’empresse de nous punir alors avant que nous ayons terminé de lui communiquer le message ou qu’il soit extrêmement injuste avec nous en nous mettant à mort ou en nous infligeant un autre supplice.",
+            "arabic_explanation": "قال موسى وهارون عليهما السلام: إننا نخاف أن يعجّل بالعقوبة قبل إتمام دعوته، أو أن يتجاوز الحد في ظلمنا بالقتل أو غيره."
+        },
+        {
+            "verse_number": 46,
+            "verse_text": "قَالَ لَا تَخَافَآۖ إِنَّنِي مَعَكُمَآ أَسۡمَعُ وَأَرَىٰ",
+            "explanation": "Allah leur répondit: Il n’y a pas lieu d’avoir peur, car Je vous accompagne par Mon soutien et Mon assistance. J’entendrai et je verrai ce qui se produira lorsque vous serez auprès de lui.",
+            "arabic_explanation": "قال الله لهما: لا تخافا؛ إنني معكما بالنصر والتأييد، أسمع وأرى ما يحدث بينكما وبينه."
+        },
+        {
+            "verse_number": 47,
+            "verse_text": "فَأۡتِيَاهُ فَقُولَآ إِنَّا رَسُولَا رَبِّكَ فَأَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ وَلَا تُعَذِّبۡهُمۡۖ قَدۡ جِئۡنَٰكَ بِـَٔايَةٖ مِّن رَّبِّكَۖ وَٱلسَّلَٰمُ عَلَىٰ مَنِ ٱتَّبَعَ ٱلۡهُدَىٰٓ",
+            "explanation": "Allez donc à lui et dites: Ô Pharaon, nous sommes les messagers d’Allah. Laisse donc les Israélites partir en notre compagnie et cesse de tuer leurs enfants et de réduire leurs femmes en esclavage. Nous t’avons fourni la preuve manifeste de ton Seigneur qui prouve la véracité de nos propos. Que le châtiment d’Allah soit épargné à ceux qui croient et suivent la guidée d’Allah!",
+            "arabic_explanation": "فأْتياه، فقولا له: إنا رسولا ربك - يا فرعون - فابعث معنا بني إسرائيل، ولا تعذبهم بقتل أبنائهم، واستحياء نسائهم، قد أتيناك ببرهان من ربك على صدقنا، والأمان من عذاب الله لمن آمن، واتبع هدى الله."
+        },
+        {
+            "verse_number": 48,
+            "verse_text": "إِنَّا قَدۡ أُوحِيَ إِلَيۡنَآ أَنَّ ٱلۡعَذَابَ عَلَىٰ مَن كَذَّبَ وَتَوَلَّىٰ",
+            "explanation": "En effet, il nous a été révélé que le châtiment s’abat dans le bas monde sur ceux qui démentent les signes d’Allah et se détournent de ce que leur apportent les messagers.",
+            "arabic_explanation": "إنا قد أوحى الله إلينا أن العذاب في الدنيا والآخرة على من كذَّب بآيات الله، وأعرض عما جاءت به الرسل."
+        },
+        {
+            "verse_number": 49,
+            "verse_text": "قَالَ فَمَن رَّبُّكُمَا يَٰمُوسَىٰ",
+            "explanation": "Rejetant avec orgueil ce à quoi il a été invité, Pharaon dit: Ö Moïse, qui est donc ce Seigneur dont vous prétendez qu’Il vous a envoyés à moi?",
+            "arabic_explanation": "قال فرعون منكرًا لما جاءا به: فمن ربكما الذي زعمتما أنه أرسلكما إليّ يا موسى؟"
+        },
+        {
+            "verse_number": 50,
+            "verse_text": "قَالَ رَبُّنَا ٱلَّذِيٓ أَعۡطَىٰ كُلَّ شَيۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ",
+            "explanation": "Moïse rétorqua: C’est notre Seigneur qui a donné à chaque chose l’apparence et la forme qui lui sied, puis guide les créatures vers la finalité de leur création.",
+            "arabic_explanation": "قال موسى: ربنا هو الذي أعطى كل شيء صورته وشكله المناسب له، ثم هدى المخلوقات لما خلقها له."
+        },
+        {
+            "verse_number": 51,
+            "verse_text": "قَالَ فَمَا بَالُ ٱلۡقُرُونِ ٱلۡأُولَىٰ",
+            "explanation": "Pharaon interrogea Moïse de nouveau: Quel a été le sort des peuples mécréants du passé ?",
+            "arabic_explanation": "قال فرعون: فما شأن الأمم السابقة التي كانت على الكفر؟"
+        },
+        {
+            "verse_number": 52,
+            "verse_text": "قَالَ عِلۡمُهَا عِندَ رَبِّي فِي كِتَٰبٖۖ لَّا يَضِلُّ رَبِّي وَلَا يَنسَى",
+            "explanation": "Moïse dit à Pharaon: C’est mon Seigneur qui détient la connaissance de ce qu’il est advenu d’eux et Il l’a consignée dans la Table Préservée. Mon Seigneur ne commet pas d’erreur dans ce qu’Il connaît et Il ne l’oublie pas.",
+            "arabic_explanation": "قال موسى عليه السلام لفرعون: عِلْمُ ما كانت عليه تلك الأمم عند ربي، مثبت في اللوح المحفوظ، لا يخطئ ربي في علمها، ولا ينسى ما علمه منها."
+        },
+        {
+            "verse_number": 53,
+            "verse_text": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَسَلَكَ لَكُمۡ فِيهَا سُبُلٗا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّن نَّبَاتٖ شَتَّىٰ",
+            "explanation": "Celui qui détient cette connaissance est Celui même qui a préparé la Terre de manière à ce que vous puissiez y vivre et vous y a dessiné des chemins servant à vos déplacements. Il a aussi fait descendre du Ciel l’eau de la pluie et a fait sortir de terre grâce à cette eau diverses variétés de plantes.",
+            "arabic_explanation": "عند ربي الذي صيَّر لكم الأرض مُمَهَّدة للعيش عليها، وجعل لكم فيها طرقًا صالحة للسير عليها، وأنزل من السماء ماء المطر، فأخرجنا بذلك الماء أصنافًا من النباتات مختلفة."
+        },
+        {
+            "verse_number": 54,
+            "verse_text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+            "explanation": "Ô gens, mangez des bonnes nourritures que Nous avons créées pour vous et faites paître vos bêtes. Ces bienfaits mentionnés constituent assurément des preuves du pouvoir et de l’Unicité d’Allah adressées aux gens doués de raison.",
+            "arabic_explanation": "كلوا - أيها الناس - مما أخرجنا لكم من الطيبات، وارعوا أنعامكم، إن في ذلك المذكور من النعم لدلائل على قدرة الله ووحدانيته لأصحاب العقول."
+        },
+        {
+            "verse_number": 55,
+            "verse_text": "۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ",
+            "explanation": "C’est de la poussière de cette Terre que Nous avons créé votre père Adam et c’est d’elle que Nous vous ferons revenir lorsque vous serez enterrés après votre mort. Puis Nous vous en ferons ressortir lorsque Nous vous ressusciterons le Jour de la Résurrection.",
+            "arabic_explanation": "من تراب الأرض خلقنا أباكم آدم عليه السلام، وفيها نرجعكم بالدفن إذا مُتُّم، ومنها نخرجكم مرة أخرى للبعث يوم القيامة."
+        },
+        {
+            "verse_number": 56,
+            "verse_text": "وَلَقَدۡ أَرَيۡنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+            "explanation": "Nous avons montré à Pharaon Nos neuf signes dans leur totalité. Il en fut témoin mais il les rejeta et refusa de croire en Allah.",
+            "arabic_explanation": "ولقد أظهرنا لفرعون آياتنا التسع كلها، وشاهدها فكذّب بها، وامتنع أن يستجيب إلى الإيمان بالله."
+        },
+        {
+            "verse_number": 57,
+            "verse_text": "قَالَ أَجِئۡتَنَا لِتُخۡرِجَنَا مِنۡ أَرۡضِنَا بِسِحۡرِكَ يَٰمُوسَىٰ",
+            "explanation": "Pharaon dit: Es-tu venu nous expulser d’Egypte par la magie que tu apportes, ô Moïse, afin que tu en deviennes le souverain ?",
+            "arabic_explanation": "قال فرعون: أجئتنا لتخرجنا من مصر بما جئت به من السحر -يا موسى- ليبقى لك ملكها؟"
+        },
+        {
+            "verse_number": 58,
+            "verse_text": "فَلَنَأۡتِيَنَّكَ بِسِحۡرٖ مِّثۡلِهِۦ فَٱجۡعَلۡ بَيۡنَنَا وَبَيۡنَكَ مَوۡعِدٗا لَّا نُخۡلِفُهُۥ نَحۡنُ وَلَآ أَنتَ مَكَانٗا سُوٗى",
+            "explanation": "Ô Moïse, nous t’apporterons une magie aussi impressionnante que la tienne. Fixe-nous donc un rendez-vous sur lequel nous nous accorderons et que le lieu de notre rendez-vous soit un lieu neutre.",
+            "arabic_explanation": "فلنأتينّك - يا موسى - بسحر مثل سحرك، فاجعل بيننا وبينك موعدًا في زمان معلوم ومكان محدد، لا نتخلّف نحن ولا تتخلف أنت عنه، وليكن المكان وسطًا بين الفريقين معتدلًا."
+        },
+        {
+            "verse_number": 59,
+            "verse_text": "قَالَ مَوۡعِدُكُمۡ يَوۡمُ ٱلزِّينَةِ وَأَن يُحۡشَرَ ٱلنَّاسُ ضُحٗى",
+            "explanation": "Moïse dit à Pharaon: Nous nous rencontrerons à l’aube du jour où les gens se rassemblent pour célébrer leur fête.",
+            "arabic_explanation": "قال موسى عليه السلام لفرعون: الموعد بيننا وبينكم يوم العيد حيث يجتمع الناس محتفلين بعيدهم ضحى."
+        },
+        {
+            "verse_number": 60,
+            "verse_text": "فَتَوَلَّىٰ فِرۡعَوۡنُ فَجَمَعَ كَيۡدَهُۥ ثُمَّ أَتَىٰ",
+            "explanation": "Pharaon s’éloigna alors afin de mettre au point son stratagème et sa ruse puis vint le jour du rendez-vous.",
+            "arabic_explanation": "فأدبر فرعون منصرفًا، فجمع مَكْرَهُ وحِيَلَه، ثم جاء في الزمان والمكان المحددين للمُغَالبة."
+        },
+        {
+            "verse_number": 61,
+            "verse_text": "قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبٗا فَيُسۡحِتَكُم بِعَذَابٖۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ",
+            "explanation": "Moïse dit aux magiciens de Pharaon en guise de conseil: Prenez garde et n’inventez pas de mensonge sur Allah en pratiquant la magie par laquelle vous trompez les gens. Il vous anéantirait alors en abattant sur vous Son châtiment. Est perdu celui qui invente des mensonges sur Allah.",
+            "arabic_explanation": "قال موسى يعظ سحرة فرعون: احذروا، لا تختلقوا على الله كذبًا بما تخدعون به الناس من السحر فيستأصلكم بعذاب من عنده، وقد خسر من اختلق على الله الكذب."
+        },
+        {
+            "verse_number": 62,
+            "verse_text": "فَتَنَٰزَعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ وَأَسَرُّواْ ٱلنَّجۡوَىٰ",
+            "explanation": "Suite au conseil de Moïse, les magiciens se regardèrent puis se mirent à parler à voix basse.",
+            "arabic_explanation": "فتناظر السحرة لما سمعوا كلام موسى عليه السلام، وتناجوا بينهم سرًّا."
+        },
+        {
+            "verse_number": 63,
+            "verse_text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
+            "explanation": "Ils se dirent: Moïse et Aaron sont des magiciens qui veulent vous expulser d’Egypte grâce à leur magie et faire disparaître votre beau mode de vie et votre confession qui est la meilleure.",
+            "arabic_explanation": "قال بعض السحرة لبعضهم سرًّا: إن موسى وهارون ساحران، يريدان أن يخرجاكم من مصر بسحرهما الذي جاءا به، ويذهبا بسُنَّتكم العليا في الحياة، ومذهبكم الأرقى."
+        },
+        {
+            "verse_number": 64,
+            "verse_text": "فَأَجۡمِعُواْ كَيۡدَكُمۡ ثُمَّ ٱئۡتُواْ صَفّٗاۚ وَقَدۡ أَفۡلَحَ ٱلۡيَوۡمَ مَنِ ٱسۡتَعۡلَىٰ",
+            "explanation": "Soyez unis et ne divergez pas puis avancez en rangs et accomplissez de concert vos tours de magie. Sachez que celui qui sort vainqueur aujourd’hui remportera ce qu’il désire.",
+            "arabic_explanation": "فأحكموا أمركم، ولا تختلفوا فيه، ثم تقدموا مُصْطَفِّين، وارموا ما عندكم دفعة واحدة، وقد ظفر بالمطلوب اليوم من غلب خصمه."
+        },
+        {
+            "verse_number": 65,
+            "verse_text": "قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ",
+            "explanation": "Les magiciens dirent à Moïse: Ô Moïse, choisis: soit c’est toi qui commence ton numéro soit c’est nous qui commençons.",
+            "arabic_explanation": "قال السحرة لموسى عليه السلام: يا موسى، اختر أحد أمرين: أن تكون البادئ بإلقاء ما لديك من سحر، أو نكون نحن البادئين بذلك."
+        },
+        {
+            "verse_number": 66,
+            "verse_text": "قَالَ بَلۡ أَلۡقُواْۖ فَإِذَا حِبَالُهُمۡ وَعِصِيُّهُمۡ يُخَيَّلُ إِلَيۡهِ مِن سِحۡرِهِمۡ أَنَّهَا تَسۡعَىٰ",
+            "explanation": "Moïse leur répondit: Commencez plutôt. Puis les magiciens jetèrent leurs cordes et leurs bâtons. L’effet de la magie fit apparaitre à Moïse que ces cordes et ces bâtons étaient des serpents qui se tortillaient frénétiquement.",
+            "arabic_explanation": "قال موسى عليه السلام: بل اطرحوا أنتم ما لديكم أوّلًا، فطرحوا ما عندهم، فإذا حبالهم وعصيّهم التي طرحوها يُخَيّل إلى موسى من سحرهم أنها ثعابين تتحرك بسرعة."
+        },
+        {
+            "verse_number": 67,
+            "verse_text": "فَأَوۡجَسَ فِي نَفۡسِهِۦ خِيفَةٗ مُّوسَىٰ",
+            "explanation": "Il dissimula la peur que lui inspira ce tour d’illusion.",
+            "arabic_explanation": "فأسرّ موسى في نفسه الخوف مما صنعوا."
+        },
+        {
+            "verse_number": 68,
+            "verse_text": "قُلۡنَا لَا تَخَفۡ إِنَّكَ أَنتَ ٱلۡأَعۡلَىٰ",
+            "explanation": "C’est alors qu’Allah lui dit afin de le rassurer: Ne sois pas apeuré par ce que tu crois voir car c’est toi, ô Moïse, qui les vaincra.",
+            "arabic_explanation": "قال الله لموسى عليه السلام مطمئنًا إياه: لا تخف مما خُيِّل إليك، إنك - يا موسى - أنت المُسْتَعْلِي عليهم بالغلبة والنصر."
+        },
+        {
+            "verse_number": 69,
+            "verse_text": "وَأَلۡقِ مَا فِي يَمِينِكَ تَلۡقَفۡ مَا صَنَعُوٓاْۖ إِنَّمَا صَنَعُواْ كَيۡدُ سَٰحِرٖۖ وَلَا يُفۡلِحُ ٱلسَّاحِرُ حَيۡثُ أَتَىٰ",
+            "explanation": "Jette le bâton qui est dans ta main droite et il se muera alors en un serpent qui avalera tout le produit de leur magie. Or leur magie n’a produit qu’une illusion et son auteur ne réussit dans aucune de ses entreprises.",
+            "arabic_explanation": "واطرح العصا التي بيدك اليمنى تنقلب حية تبتلع ما صنعوه من السحر، فما صنعوه ليس إلا كيدًا سحريًّا، ولا يظفر الساحر بمطلوب أين كان."
+        },
+        {
+            "verse_number": 70,
+            "verse_text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سُجَّدٗا قَالُوٓاْ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ",
+            "explanation": "Obéissant à Allah, Moïse jeta son bâton qui se transforma en un serpent et avala l’œuvre des magiciens adverses. Ces derniers se prosternèrent alors à Allah lorsqu’ils comprirent que Moïse ne pratiquait pas la magie mais apportait plutôt des signes d’Allah. Puis ils dirent: Nous croyons au Seigneur de Moïse et de Aaron, le Seigneur de toutes les créatures.",
+            "arabic_explanation": "فطرح موسى عصاه فانقلبت حية، وابتلعت ما صنعه السحرة، فسجد السحرة لله لما علموا أن ما عند موسى ليس سحرًا، إنما هو من عند الله، قالوا: آمنا برب موسى وهارون، رب جميع المخلوقات."
+        },
+        {
+            "verse_number": 71,
+            "verse_text": "قَالَ ءَامَنتُمۡ لَهُۥ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّهُۥ لَكَبِيرُكُمُ ٱلَّذِي عَلَّمَكُمُ ٱلسِّحۡرَۖ فَلَأُقَطِّعَنَّ أَيۡدِيَكُمۡ وَأَرۡجُلَكُم مِّنۡ خِلَٰفٖ وَلَأُصَلِّبَنَّكُمۡ فِي جُذُوعِ ٱلنَّخۡلِ وَلَتَعۡلَمُنَّ أَيُّنَآ أَشَدُّ عَذَابٗا وَأَبۡقَىٰ",
+            "explanation": "Pharaon, réprouvant le comportement des magiciens et leur conversion à la foi, leur dit sur un ton menaçant: Avez-vous cru en Moïse avant que je ne vous l’autorise ? Il doit être votre chef qui vous a appris vos tours de magie. Je vous punirai en amputant chacun de vous un pied et une main des côtés opposés et je vous crucifierai aux troncs des palmiers jusqu’à ce que mort s’ensuive. Vous servirez ainsi d’exemple à d’autres et vous saurez qui de moi ou du Seigneur de Moïse châtie le plus sévèrement.",
+            "arabic_explanation": "قال فرعون منكِرًا على السحرة إيمانهم ومتوعّدًا: هل آمنتم بموسى قبل أن آذن لكم بذلك؟! إن موسى لهو رئيسكم - أيها السحرة - الذي علّمكم السحر، فلأقطّعنّ من كل واحد منكم رِجْلًا ويدًا مخالفًا بين جهتيهما، ولأصلّبنّ أبدانكم على جذوع النخل حتى تموتوا، وتكونوا عبرة لغيركم، ولتعلمنّ عند ذلك أينا أقوى عذابًا، وأدوم: أنا أو رب موسى؟!"
+        },
+        {
+            "verse_number": 72,
+            "verse_text": "قَالُواْ لَن نُّؤۡثِرَكَ عَلَىٰ مَا جَآءَنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلَّذِي فَطَرَنَاۖ فَٱقۡضِ مَآ أَنتَ قَاضٍۖ إِنَّمَا تَقۡضِي هَٰذِهِ ٱلۡحَيَوٰةَ ٱلدُّنۡيَآ",
+            "explanation": "Les magiciens rétorquèrent à Pharaon: Ô Pharaon, nous ne préférerons pas te suivre et faire fi des signes clairs qui nous sont parvenus. Nous ne te préfèrerons pas à Allah qui nous a créés. Prononce donc contre nous la sentence que tu veux car ton autorité sur nous ne se limite qu’à ce bas monde éphémère et prendra fin tôt ou tard.",
+            "arabic_explanation": "قال السحرة لفرعون: لن نفضّل اتّباعك - يا فرعون - على اتّباع ما جاءنا من الآيات الواضحات، ولن نفضّلك على الله الذي خلقنا، فاصنع ما أنت صانع بنا، ما لك سلطان علينا إلا في هذه الحياة الفانية، وسيزول سلطانك."
+        },
+        {
+            "verse_number": 73,
+            "verse_text": "إِنَّآ ءَامَنَّا بِرَبِّنَا لِيَغۡفِرَ لَنَا خَطَٰيَٰنَا وَمَآ أَكۡرَهۡتَنَا عَلَيۡهِ مِنَ ٱلسِّحۡرِۗ وَٱللَّهُ خَيۡرٞ وَأَبۡقَىٰٓ",
+            "explanation": "Nous croyons en notre Seigneur afin que, peut-être, il efface notre mécréance et nos péchés passés, dont fait partie la magie que tu nous as contraints de pratiquer et de nous en servir au détriment de Moïse. Allah détient une rétribution meilleure que celle que tu nous as promise et son châtiment est plus durable que celui dont tu nous menaces.",
+            "arabic_explanation": "إنا آمنّا بربنا رجاء أن يمحو عنّا معاصينا السالفة من الكفر وغيره، ويمحو عنا ذنب السحر الذي أجبرتنا على تعلّمه وممارسته ومغالبة موسى به، والله خير جزاءً مما وعدتنا به، وأدْوَم عذابًا مما توعّدتنا به من العذاب."
+        },
+        {
+            "verse_number": 74,
+            "verse_text": "إِنَّهُۥ مَن يَأۡتِ رَبَّهُۥ مُجۡرِمٗا فَإِنَّ لَهُۥ جَهَنَّمَ لَا يَمُوتُ فِيهَا وَلَا يَحۡيَىٰ",
+            "explanation": "En conclusion, celui qui se présente à son Seigneur le Jour de la Résurrection alors qu’il a mécru en Lui dans le bas monde ira en Enfer et y demeurera éternellement. Il n’y connaîtra ni la mort salvatrice ni n’y vivra une vie agréable.",
+            "arabic_explanation": "إن الشأن والحاصل أن من يأتي ربه يوم القيامة كافرًا به فإنَّ له نار جهنم يدخلها ماكثًا فيها أبدًا، لا يموت فيها فيستريح من عذابها، ولا يحيا حياة طيبة."
+        },
+        {
+            "verse_number": 75,
+            "verse_text": "وَمَن يَأۡتِهِۦ مُؤۡمِنٗا قَدۡ عَمِلَ ٱلصَّٰلِحَٰتِ فَأُوْلَٰٓئِكَ لَهُمُ ٱلدَّرَجَٰتُ ٱلۡعُلَىٰ",
+            "explanation": "Quant à celui qui se présentera à son Seigneur le Jour de la Résurrection en ayant cru en Lui dans le bas monde et en ayant accompli de bonnes œuvres, il aura un rang élevé et occupera des degrés supérieurs.",
+            "arabic_explanation": "ومن يأت ربه يوم القيامة مؤمنًا به قد عمل الأعمال الصالحات فأولئك الموصوفون بتلك الصفات العظيمة لهم المنازل الرفيعة، والدرجات العليّة."
+        },
+        {
+            "verse_number": 76,
+            "verse_text": "جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+            "explanation": "Ces degrés supérieurs consisteront en des vergers et des rivières coulant sous leurs palais, et il y séjournera éternellement. Cette rétribution sera celle de tous ceux qui renoncent à la mécréance et aux actes de désobéissance.",
+            "arabic_explanation": "تلك الدرجات هي جنات إقامة تجري الأنهار من تحت قصورها ماكثين فيها أبدًا، وذلك الجزاء المذكور جزاء كل من تطهّر من الكفر والمعاصي."
+        },
+        {
+            "verse_number": 77,
+            "verse_text": "وَلَقَدۡ أَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنۡ أَسۡرِ بِعِبَادِي فَٱضۡرِبۡ لَهُمۡ طَرِيقٗا فِي ٱلۡبَحۡرِ يَبَسٗا لَّا تَخَٰفُ دَرَكٗا وَلَا تَخۡشَىٰ",
+            "explanation": "Nous avons révélé à Moïse de sortir Mes serviteurs d’Egypte de nuit afin que personne ne s’en rende compte et de frapper l’eau de la mer à l’aide de son bâton afin de leur frayer un passage sûr et à sec. Nous lui avons aussi révélé de ne pas craindre que Pharaon et ses notables le suivent et de pas craindre d’être noyé.",
+            "arabic_explanation": "ولقد أوحينا إلى موسى: أن سر بعبادي ليلًا من مصر حتى لا يشعر بهم أحد، واجعل لهم طريقًا في البحر يابسًا بعد ضرب البحر بالعصا، آمنًا لا تخاف أن يلحق بك فرعون وملؤه، ولا تخشى من الغرق في البحر."
+        },
+        {
+            "verse_number": 78,
+            "verse_text": "فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلۡيَمِّ مَا غَشِيَهُمۡ",
+            "explanation": "Pharaon accompagné de ses soldats les poursuivirent mais ils furent tous submergés par des trombes d’eau dont Allah seul connaît l’immensité. Ils se noyèrent ainsi tous et moururent tandis que Moïse et ceux qui l’accompagnaient furent sauvés.",
+            "arabic_explanation": "فتبعهم فرعون مصحوبًا بجنوده، فغمره وغمر جنوده من البحر ما غمرهم مما لا يعلم حقيقته إلا الله، فغرقوا جميعًا وهلكوا، ونجا موسى ومن معه."
+        },
+        {
+            "verse_number": 79,
+            "verse_text": "وَأَضَلَّ فِرۡعَوۡنُ قَوۡمَهُۥ وَمَا هَدَىٰ",
+            "explanation": "Pharaon a assurément égaré son peuple en lui imposant la mécréance qu’il leur a embellie et le faux par lequel il les a trompés et il ne les a certainement pas orientés vers le chemin de la guidée.",
+            "arabic_explanation": "وأضلّ فرعون قومه بما حسّنه لهم من الكفر، وخدعهم به من الباطل، ولم يرشدهم إلى طريق الهداية."
+        },
+        {
+            "verse_number": 80,
+            "verse_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
+            "explanation": "Après les avoir sauvés de Pharaon et de ses soldats, Nous dîmes aux Israélites: Ô enfants d’Israël, Nous vous avons sauvés de votre ennemi et Nous avons promis de parler à Moïse sur le versant droit de la vallée située à côté du mont Aṭ-Ṭûr. Nous avons de plus fait descendre sur vous, durant votre errance dans le désert, certains de Nos bienfaits, dont une boisson aussi sucrée que le miel et un petit oiseau à la viande succulent ressemblant à la caille.",
+            "arabic_explanation": "وقلنا لبني إسرائيل بعد أن أنقذناهم من فرعون وجنوده: يا بني إسرائيل، قد أنقذناكم من عدوّكم، وواعدناكم أن نكلّم موسى بالجهة اليمنى من الوادي الواقع بجانب جبل الطور، ونزّلنا عليكم في التِّيه من نعمنا شرابًا حلوًا مثل العسل وطائرًا صغيرًا طيب اللحم يشبه السُّمانى."
+        },
+        {
+            "verse_number": 81,
+            "verse_text": "كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ وَلَا تَطۡغَوۡاْ فِيهِ فَيَحِلَّ عَلَيۡكُمۡ غَضَبِيۖ وَمَن يَحۡلِلۡ عَلَيۡهِ غَضَبِي فَقَدۡ هَوَىٰ",
+            "explanation": "Mangez des nourritures succulentes et licites dont Nous vous avons fait don et n’approchez pas ce que Nous vous avons rendu illicite car Ma colère s’abattrait sur vous. Or ceux qui encourent ma colère sont anéantis et connaissent le malheur dans ce bas monde et dans l’au-delà.",
+            "arabic_explanation": "كلوا من المستلذّات ممّا رزقناكم من الأطعمة الحلال، ولا تتجاوزوا ما أبحناه لكم إلى ما حرّمناه عليكم، فينزل عليكم غضبي، ومن ينزل عليه غضبي فقد هلك وشقي في الدنيا والآخرة."
+        },
+        {
+            "verse_number": 82,
+            "verse_text": "وَإِنِّي لَغَفَّارٞ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا ثُمَّ ٱهۡتَدَىٰ",
+            "explanation": "Cependant, Je pardonne et absous généreusement ceux qui se repentent à Moi, croient en Moi, accomplissent de bonnes œuvres puis restent fidèles à la vérité",
+            "arabic_explanation": "وإني لكثير المغفرة والعفو لمن تاب إليّ وآمن، وعمل عملًا صالحًا، ثم استقام على الحق."
+        },
+        {
+            "verse_number": 83,
+            "verse_text": "۞ وَمَآ أَعۡجَلَكَ عَن قَوۡمِكَ يَٰمُوسَىٰ",
+            "explanation": "Ô Moïse, quelle est la raison qui t’a fait prématurément quitter les tiens et marcher devant eux sans désigner personne à leur tête pour te remplacer?",
+            "arabic_explanation": "وما الذي جعلك تعجل عن قومك - يا موسى - فتتقدمهم تاركًا إياهم خلفك؟"
+        },
+        {
+            "verse_number": 84,
+            "verse_text": "قَالَ هُمۡ أُوْلَآءِ عَلَىٰٓ أَثَرِي وَعَجِلۡتُ إِلَيۡكَ رَبِّ لِتَرۡضَىٰ",
+            "explanation": "Moïse répondit: Ils ne sont pas loin derrière moi et sont sur le point de me rattraper. Je ne me suis mis à marcher devant eux et empressé de venir à Ta rencontre que pour obtenir Ton agrément.",
+            "arabic_explanation": "قال موسى عليه السلام: ها هم ورائي وسيلحقونني، وسبقت قومي إليك لترضى عني بمسارعتي إليك."
+        },
+        {
+            "verse_number": 85,
+            "verse_text": "قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِيُّ",
+            "explanation": "Allah lui dit: Sache que Nous avons éprouvé le peuple que tu as laissé derrière toi par un Veau que le Samaritain (`as-sâmiriyyu)  les a invités à adorer et ce dernier les égara.",
+            "arabic_explanation": "قال الله: فإنا قد ابتلينا قومك الذين خلّفتهم وراءك بعبادة العجل، فقد دعاهم إلى عبادته السامري، فأضلّهم بذلك."
+        },
+        {
+            "verse_number": 86,
+            "verse_text": "فَرَجَعَ مُوسَىٰٓ إِلَىٰ قَوۡمِهِۦ غَضۡبَٰنَ أَسِفٗاۚ قَالَ يَٰقَوۡمِ أَلَمۡ يَعِدۡكُمۡ رَبُّكُمۡ وَعۡدًا حَسَنًاۚ أَفَطَالَ عَلَيۡكُمُ ٱلۡعَهۡدُ أَمۡ أَرَدتُّمۡ أَن يَحِلَّ عَلَيۡكُمۡ غَضَبٞ مِّن رَّبِّكُمۡ فَأَخۡلَفۡتُم مَّوۡعِدِي",
+            "explanation": "Moïse retourna alors auprès des siens, plein de colère et de tristesse pour eux. Arrivés auprès d’eux, il leur dit:\nÔ mon peuple, Allah ne vous a-t-il pas fait la promesse agréable de vous révéler la Torah et de vous faire entrer au Paradis? Le temps qui s’est écoulé depuis a-t-il été long au point que vous ayez oublié ou voulez-vous que la colère et le châtiment de votre Seigneur s’abattent sur vous à cause d’un tel comportement ? Est-ce pour cela que vous avez manqué à votre promesse de rester obéissants à Allah jusqu’à mon retour ?",
+            "arabic_explanation": "فعاد موسى إلى قومه غضبان لعبادتهم العجل، حزينًا عليهم، قال موسى عليه السلام: يا قوم، أَمَا وعدكم الله وعدًا حسنًا أن ينزل عليكم التوراة، ويدخلكم الجنة، أفطال عليكم الزمان فنسيتم؟ أم أردتّم بفعلكم هذا أن ينزل عليكم غضب من ربكم، ويقع عليكم عذابه، فلذلك أخلفتم موعدي بالثبات على الطاعة حتى أرجع إليكم؟!"
+        },
+        {
+            "verse_number": 87,
+            "verse_text": "قَالُواْ مَآ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلَٰكِنَّا حُمِّلۡنَآ أَوۡزَارٗا مِّن زِينَةِ ٱلۡقَوۡمِ فَقَذَفۡنَٰهَا فَكَذَٰلِكَ أَلۡقَى ٱلسَّامِرِيُّ",
+            "explanation": "Les compatriotes de Moïse répondirent: Ô Moïse, nous n’avons pas manqué délibérément à cette promesse. Nous y avons plutôt été contraints. En effet, nous avons rassemblé quantité de bijoux appartenant aux gens de Pharaon et les avons jetés dans un trou afin de nous en défaire mais le Samaritain jeta par-dessus de la terre provenant du sabot de la jument de Gabriel.",
+            "arabic_explanation": "قال قوم موسى: ما أخلفنا موعدك - يا موسى - باختيار منّا، بل باضطرار، فقد حملنا أحمالًا وأثقالًا من حُلِيِّ قوم فرعون، فرميناها في حفرة للتخلص منها، فكما رميناها في الحفرة رمى السامريّ ما كان معه من تربة حافر فرس جبريل عليه السلام."
+        },
+        {
+            "verse_number": 88,
+            "verse_text": "فَأَخۡرَجَ لَهُمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٞ فَقَالُواْ هَٰذَآ إِلَٰهُكُمۡ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
+            "explanation": "Ensuite, le Samaritain a façonné grâce à ces bijoux le corps sans vie d’un veau… qui mugissait comme un vrai veau, et le présenta aux Israélites. Ceux qui ont été charmés par l’œuvre du Samaritain dirent: Ceci est votre dieu adoré et le dieu de Moïse mais celui-ci l’a oublié et l’a laissé ici.",
+            "arabic_explanation": "فأخرج السامري من تلك الحلي لبني إسرائيل جَسَدَ عجل لا روح فيه، له صوت كصوت البقر، فقال المفتونون منهم بعمل السامريّ: هذا هو معبودكم ومعبود موسى، نسيه وتركه هنا."
+        },
+        {
+            "verse_number": 89,
+            "verse_text": "أَفَلَا يَرَوۡنَ أَلَّا يَرۡجِعُ إِلَيۡهِمۡ قَوۡلٗا وَلَا يَمۡلِكُ لَهُمۡ ضَرّٗا وَلَا نَفۡعٗا",
+            "explanation": "Ces gens qui ont été tentés par le Veau et l’ont adoré ne voyaient-ils pas qu’il ne leur parlait pas, ne leur répondait pas, n’éloignait pas d'eux, ni de quiconque d’autre, le mal et ne leur procurait aucun bien à eux ni à personne ?",
+            "arabic_explanation": "أفلا يرى هؤلاء الذين فُتِنوا بالعجل فعبدوه أن العجل لا يكلّمهم ولا يجيبهم، ولا يقدر على دفع ضر عنهم ولا عن غيرهم، ولا جلب نفع له، أو لغيره؟!"
+        },
+        {
+            "verse_number": 90,
+            "verse_text": "وَلَقَدۡ قَالَ لَهُمۡ هَٰرُونُ مِن قَبۡلُ يَٰقَوۡمِ إِنَّمَا فُتِنتُم بِهِۦۖ وَإِنَّ رَبَّكُمُ ٱلرَّحۡمَٰنُ فَٱتَّبِعُونِي وَأَطِيعُوٓاْ أَمۡرِي",
+            "explanation": "Aaron leur avait pourtant bien dit avant le retour de Moïse: Le façonnement de ce veau à partir de bijoux et le fait qu’il émette des mugissements ne font partie que d’un test qui distinguera parmi vous les croyants des mécréants. Ô gens, c’est votre Seigneur qui détient le pouvoir de vous faire miséricorde et non celui qui n’a ni le pouvoir d’être utile ni le pouvoir d’être nuisible, et donc, à plus forte raison, ne peut en aucun cas vous faire miséricorde.",
+            "arabic_explanation": "ولقد قال لهم هارون قبل رجوع موسى إليهم: ما في صياغة العجل من الذهب وخُوَارِه إلا اختبار لكم ليظهر المؤمن من الكافر، وإن ربّكم - يا قوم - هو من يملك الرحمة لا من لا يملك لكم ضرًّا ولا نفعًا فضلًا عن أن يرحمكم، فاتبعوني في عبادته وحده، وأطيعوا أمري بترك عبادة غيره."
+        },
+        {
+            "verse_number": 91,
+            "verse_text": "قَالُواْ لَن نَّبۡرَحَ عَلَيۡهِ عَٰكِفِينَ حَتَّىٰ يَرۡجِعَ إِلَيۡنَا مُوسَىٰ",
+            "explanation": "Ceux qui ont été tentés par l’adoration du Veau dirent: Nous ne cesserons de l’adorer jusqu’à ce que Moïse revienne auprès de nous.",
+            "arabic_explanation": "قال المفتونون بعبادة العجل: لن نزال مقيمين على عبادته حتى يعود إلينا موسى."
+        },
+        {
+            "verse_number": 92,
+            "verse_text": "قَالَ يَٰهَٰرُونُ مَا مَنَعَكَ إِذۡ رَأَيۡتَهُمۡ ضَلُّوٓاْ",
+            "explanation": "Après son retour, Moïse dit à son frère: Quelle raison t’a empêchée, lorsque tu les as vus s’égarer en adorant le Veau au lieu d’Allah.",
+            "arabic_explanation": "قال موسى لأخيه هارون: ما الذي منعك حين رأيتهم ضلّوا بعبادة العجل من دون الله."
+        },
+        {
+            "verse_number": 93,
+            "verse_text": "أَلَّا تَتَّبِعَنِۖ أَفَعَصَيۡتَ أَمۡرِي",
+            "explanation": "de les délaisser et de me rattraper ? As-tu donc désobéi à mon ordre de me remplacer à leur tête ?",
+            "arabic_explanation": "أن تتركهم وتلحق بي؟! أفعصيت أمري لك حين استخلفتك عليهم؟!"
+        },
+        {
+            "verse_number": 94,
+            "verse_text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
+            "explanation": "C’est alors que Moïse empoigna la barbe et la tête de son frère et le tira vers lui en signe de réprobation. Aaron protesta en ces termes afin de le calmer: Ne me saisis ni par la barbe ni par les cheveux car je suis resté parmi eux pour une excuse valable: j’ai en effet craint que si je les laisse livrés à eux-mêmes, ils ne se divisent. Tu m’aurais alors reproché cette division et d’avoir manqué à la promesse que je t’avais faite.",
+            "arabic_explanation": "ولما أخذ موسى بلحية أخيه ورأسه يسحبه إليه مستنكرًا عليه صنيعه قال له هارون مستعطفًا إياه: لا تمسك بلحيتي ولا بشعر رأسي، فإن لي عذرًا في بقائي معهم، فقد خفت إن تركتهم وحدهم أن يتفرّقوا، فتقول: إني فرقت بينهم، وإني لم أحفظ وصيّتك فيهم."
+        },
+        {
+            "verse_number": 95,
+            "verse_text": "قَالَ فَمَا خَطۡبُكَ يَٰسَٰمِرِيُّ",
+            "explanation": "Puis Moïse dit au Samaritain: Pourquoi avoir agi ainsi ?",
+            "arabic_explanation": "قال موسى عليه السلام للسامري: فما شأنك أنت يا سامري؟ وما الذي دفعك إلى ما صنعت؟"
+        },
+        {
+            "verse_number": 96,
+            "verse_text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
+            "explanation": "Il répondit: Je voyais ce qu’ils ne voyaient pas puisque j’ai vu Gabriel sur sa jument et j’ai prélevé une poignée de terre de la trace laissée par les sabots de la jument puis l’ai jetée sur les bijoux qui ont été fondus afin d’en façonner la forme d’un veau. C’est alors que le corps mugissant d’un veau prit forme et c’est ce résultat que mon âme m’a embelli.",
+            "arabic_explanation": "قال السامري لموسى عليه السلام: رأيت ما لم يروه، فقد رأيت جبريل على فرس، فأخذت قبضة من تراب من أثر فرسه، فطرحتها على الحليّ المذاب المسبوك على صورة عجل، فنشأ عن ذلك جَسَد عجل له خُوَار، وكذلك حسّنت لي نفسي ما صنعته."
+        },
+        {
+            "verse_number": 97,
+            "verse_text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
+            "explanation": "Moïse dit au Samaritain: Pars donc. Ta punition sera que tu dises ta vie durant « Je ne toucherai personne et personne ne me touchera ». Tu vivras ainsi rejeté et de surcroît, il t’est fixé un rendez-vous le Jour de la Résurrection, afin que tu rendes des comptes et que tu sois puni et Allah ne manquera pas ce rendez-vous. Regarde maintenant le veau que tu as pris comme divinité et que tu adorais à la place d’Allah: nous le brûlerons jusqu’à ce qu’il fonde dans sa totalité puis nous disperserons ses restes dans la mer jusqu’à ce qu’il n’en reste aucune trace.",
+            "arabic_explanation": "قال موسى عليه السلام للسامري: فاذهب أنت فإن لك أن تقول ما دمت حيًّا: لا أَمَسّ ولا أُمَسّ، فتعيش منبوذًا، وإن لك موعدًا يوم القيامة تُحَاسَب فيه وتُعَاقَب، لن يخلفك الله هذا الموعد، وانظر إلى عجلك الذي اتخذته معبودك، وأقمت على عبادته من دون الله، لنشعلنّ عليه نارًا حتى ينصهر، ثم لنَذْرِينّه في البحر حتى لا يبقى له أثر."
+        },
+        {
+            "verse_number": 98,
+            "verse_text": "إِنَّمَآ إِلَٰهُكُمُ ٱللَّهُ ٱلَّذِي لَآ إِلَٰهَ إِلَّا هُوَۚ وَسِعَ كُلَّ شَيۡءٍ عِلۡمٗا",
+            "explanation": "Ô gens, le seul Dieu méritant d’être adoré est Allah et aucune autre divinité. Il enveloppe tout de Sa connaissance et rien ne Lui échappe.",
+            "arabic_explanation": "إنما معبودكم بحق - أيها الناس - هو الله الذي لا معبود بحق غيره، أحاط بكل شيء علمًا، فلا يفوته سبحانه علم شيء."
+        },
+        {
+            "verse_number": 99,
+            "verse_text": "كَذَٰلِكَ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآءِ مَا قَدۡ سَبَقَۚ وَقَدۡ ءَاتَيۡنَٰكَ مِن لَّدُنَّا ذِكۡرٗا",
+            "explanation": "Ô Messager, tout comme Nous t’avons raconté le récit de Moïse, Pharaon et leurs peuples respectifs, Nous te racontons les récits des prophètes et des peuples qui t’ont précédé afin de te consoler. Nous t’avons de plus, donné le Coran qui sert de rappel à ceux qui veulent se rappeler.",
+            "arabic_explanation": "مثل ما قصصنا عليك - أيها الرسول - خبر موسى وفرعون، وخبر قومهما نقصّ عليك أخبار من سبقوك من الأنبياء والأمم لتكون تسلية لك، وقد أعطيناك من عندنا قرآنًا يتذكر به من تذكر."
+        },
+        {
+            "verse_number": 100,
+            "verse_text": "مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ يَحۡمِلُ يَوۡمَ ٱلۡقِيَٰمَةِ وِزۡرًا",
+            "explanation": "Celui qui se détourne de ce Coran qui t’a été révélé et n’y croit pas, se présentera le Jour de la Résurrection coupable d’un péché grave qui lui vaudra d’être châtié douloureusement.",
+            "arabic_explanation": "من أعرض عن هذا القرآن المنزل عليك فلم يؤمن به، ولم يعمل بما فيه؛ فإنه يأتي يوم القيامة حاملًا إثمًا عظيمًا، ومستحقًّا عقابًا أليمًا."
+        },
+        {
+            "verse_number": 101,
+            "verse_text": "خَٰلِدِينَ فِيهِۖ وَسَآءَ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ حِمۡلٗا",
+            "explanation": "De tels gens subiront ce châtiment pour l’éternité et comme est mauvaise, cette charge qu’est ce grave péché, qu’ils porteront le jour de la Résurrection",
+            "arabic_explanation": "ماكثين في ذلك العذاب دائمًا، وبئس الحمل الذي يحملونه يوم القيامة."
+        },
+        {
+            "verse_number": 102,
+            "verse_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ زُرۡقٗا",
+            "explanation": "Lorsque le deuxième souffle dans la Trompe effectué par l’ange annoncera la Ressuscitation, Nous rassemblerons ce jour-là les mécréants et ces derniers deviendront bleus tellement ils seront impressionnés par ce qu’ils verront de terrifiant dans l’au-delà.",
+            "arabic_explanation": "يوم ينفخ المَلَك في الصور النفخة الثانية للبعث، ونحشر الكفار في ذلك اليوم زُرْقًا لتغيّر ألوانهم وعيونهم من شدة ما لاقوه من أهوال الآخرة."
+        },
+        {
+            "verse_number": 103,
+            "verse_text": "يَتَخَٰفَتُونَ بَيۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرٗا",
+            "explanation": "Ils se chuchoteront les uns aux autres: Vous êtes restés dans le monde intermédiaire (`al-barzakhu) dix jours seulement.",
+            "arabic_explanation": "يتهامسون بقولهم: ما لبثتم في البَرْزَخ بعد الموت إلا عشر ليال."
+        },
+        {
+            "verse_number": 104,
+            "verse_text": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَ إِذۡ يَقُولُ أَمۡثَلُهُمۡ طَرِيقَةً إِن لَّبِثۡتُمۡ إِلَّا يَوۡمٗا",
+            "explanation": "Nous sommes le mieux au fait de ce qu’ils se diront en secret et rien ne Nous en échappera, particulièrement lorsque le plus raisonnable parmi eux dira: Vous n’êtes restés dans le monde intermédiaire qu’un seul jour.",
+            "arabic_explanation": "نحن أعلم بما يتسارُّون به، لا يفوتنا منه شيء، إذ يقول أوفرهم عقلًا: ما لبثتم في البَرْزَخ إلا يومًا واحدًا لا أكثر."
+        },
+        {
+            "verse_number": 105,
+            "verse_text": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ يَنسِفُهَا رَبِّي نَسۡفٗا",
+            "explanation": "Ô Messager, les mécréants t’interrogent au sujet de ce qu’il adviendra des montagnes le Jour de la Résurrection. Réponds-leur: Allah les déracinera et les pulvérisera.",
+            "arabic_explanation": "ويسألونك - أيها الرسول - عن حال الجبال يوم القيامة، فقل لهم: الجبال يقتلعها ربي من أصولها ويُذْرِيها، فتكون هباءً."
+        },
+        {
+            "verse_number": 106,
+            "verse_text": "فَيَذَرُهَا قَاعٗا صَفۡصَفٗا",
+            "explanation": "Il ne restera alors qu’une terre plane qui les portait et cette terre sera dépourvue de plantes et de constructions.",
+            "arabic_explanation": "فيترك الأرض التي كانت تحملها مستوية لا بناء عليها ولا نبات."
+        },
+        {
+            "verse_number": 107,
+            "verse_text": "لَّا تَرَىٰ فِيهَا عِوَجٗا وَلَآ أَمۡتٗا",
+            "explanation": "Ô toi qui la verra, tu n’apercevras aucune élévation ni aucune dépression sur cette Terre aplanie.",
+            "arabic_explanation": "لا ترى - أيها الناظر إليها - في الأرض من تمام استوائها ميلًا ولا ارتفاعًا ولا انخفاضًا."
+        },
+        {
+            "verse_number": 108,
+            "verse_text": "يَوۡمَئِذٖ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسٗا",
+            "explanation": "Les gens suivront la voix de celui qui les appellera au rassemblement et ils n’auront d’autre choix que de le suivre. Toutes les voix se tairont par crainte du Tout Miséricordieux et tu n’entendras que de légers bruits.",
+            "arabic_explanation": "في ذلك اليوم يتبع الناس صوت الداعي إلى المحشر، لا معدل لهم عن اتباعه، وسكتت الأصوات للرحمن رهبة، فلا تسمع في ذلك اليوم إلا صوتًا خفيًّا."
+        },
+        {
+            "verse_number": 109,
+            "verse_text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
+            "explanation": "Durant ce Jour terrible, aucune intercession n’aura d’effet sauf si Allah l’autorise à son auteur et agrée ce qu’il dira.",
+            "arabic_explanation": "في ذلك اليوم العظيم لا تنفع الشفاعة من أي شافع إلا شافعًا أذن له الله أن يشفع، ورضي قوله في الشفاعة."
+        },
+        {
+            "verse_number": 110,
+            "verse_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
+            "explanation": "Allah sait ce que vivront les gens lorsque surviendra l’Heure et sait aussi ce qu’ils vivent dans le bas monde tandis que Ses serviteurs n’ont aucune connaissance de Son Etre et de Ses attributs.",
+            "arabic_explanation": "يعلم الله سبحانه ما يستقبله الناس من أمر الساعة، ويعلم ما استدبروه في دنياهم، ولا يحيط جميع العباد بذات الله وصفاته علمًا."
+        },
+        {
+            "verse_number": 111,
+            "verse_text": "۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمٗا",
+            "explanation": "Les visages des serviteurs s’humilieront devant le Vivant qui ne meurt pas, Celui qui gère les affaires de Ses serviteurs et leur donne le cours qu’Il veut. Ceux qui se seront chargés de péchés seront perdants puisqu’ils se seront exposés eux-mêmes à l’anéantissement.",
+            "arabic_explanation": "وذلّت وجوه العباد، واستكانت للحي الذي لا يموت، القائم بأمور عباده بتدبيرها وتصريفها، وقد خسر من حمل الإثم بإيراده نفسه موارد الهلاك."
+        },
+        {
+            "verse_number": 112,
+            "verse_text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا",
+            "explanation": "Quiconque accomplit de bonnes œuvres tout en croyant en Allah et en Ses messagers obtiendra la totalité de sa rétribution et il n’aura pas à craindre d’être injustement châtié pour un péché qu’il n’a pas commis ni que l’on diminue une part de la récompense méritée pour ses bonnes œuvres.",
+            "arabic_explanation": "ومن يعمل الأعمال الصالحة وهو مؤمن بالله ورسله فسينال جزاءه وافيًا، ولا يخاف ظلمًا بأن يعذّب بذنب لم يفعله، ولا نقصًا لثواب عمله الصالح."
+        },
+        {
+            "verse_number": 113,
+            "verse_text": "وَكَذَٰلِكَ أَنزَلۡنَٰهُ قُرۡءَانًا عَرَبِيّٗا وَصَرَّفۡنَا فِيهِ مِنَ ٱلۡوَعِيدِ لَعَلَّهُمۡ يَتَّقُونَ أَوۡ يُحۡدِثُ لَهُمۡ ذِكۡرٗا",
+            "explanation": "Tout comme Nous révélons les récits des anciens, Nous révélons ce Coran en une langue arabe claire et y exposons de multiples menaces et avertissements afin que, peut-être, ils craignent Allah et tirent des leçons du Coran.",
+            "arabic_explanation": "ومثل ما أنزلنا من قصص السابقين أنزلنا هذا القرآن بلسان عربي مبين، وبيَّنا فيه أنواع الوعيد من تهديد وتخويف؛ رجاء أن يخافوا الله، أو ينشئ لهم القرآن موعظة واعتبارًا."
+        },
+        {
+            "verse_number": 114,
+            "verse_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمٗا",
+            "explanation": "Qu’Allah soit donc élevé et sanctifié ! Il est le Roi dont la souveraineté s’étend à toute chose et la Vérité dont la parole est toute vérité. Qu’il soit élevé au-dessus de ce que Lui attribuent les polythéistes. Ô Messager, ne t’empresse pas de réciter le Coran de concert avec Gabriel avant qu’il ne t’ait transmis la totalité des versets révélés et dis: Ô Seigneur, ajoute davantage de connaissances à celles que je détiens déjà.",
+            "arabic_explanation": "فتعالى الله وتقدّس وجَلَّ، الملك الذي له ملك كل شيء، الذي هو حق وقوله حق، تعالى عما يصفه به المشركون، ولا تسرع - أيها الرسول - بقراءة القرآن مع جبريل قبل أن ينهي إليك إبلاغه، وقل: رب زدني علمًا إلى ما علّمتني."
+        },
+        {
+            "verse_number": 115,
+            "verse_text": "وَلَقَدۡ عَهِدۡنَآ إِلَىٰٓ ءَادَمَ مِن قَبۡلُ فَنَسِيَ وَلَمۡ نَجِدۡ لَهُۥ عَزۡمٗا",
+            "explanation": "Nous avons auparavant fait une recommandation à Adam: celle de ne pas manger des fruits de l’arbre défendu et l’avons informé des conséquences s’il désobéissait. Seulement, il oublia cette recommandation et ne put se retenir de manger des fruits de cet arbre. Il n’avait en effet pas pris la ferme résolution d’obéir.",
+            "arabic_explanation": "ولقد وصينا آدم من قبل بعدم الأكل من الشجرة، ونهيناه عن ذلك، وبيّنا له عاقبته، فنسي الوصية وأكل من الشجرة، ولم يصبر عنها، ولم نر له قوة عزم على حفظ ما وصيناه به."
+        },
+        {
+            "verse_number": 116,
+            "verse_text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ",
+            "explanation": "Ô Messager, rappelle-toi lorsque Nous dîmes aux anges: Prosternez-vous devant Adam en guise de salutation. Tous se prosternèrent, excepté `Iblîs qui était présent mais qui n’est pas un ange. Poussé par son orgueil, il refusa de se prosterner.",
+            "arabic_explanation": "واذكر - أيها الرسول - إذ قلنا للملائكة: اسجدوا لآدم سجود تحية، فسجدوا كلهم إلا إبليس - الذي كان معهم ولم يكن منهم - امتنع من السجود تكبرًا."
+        },
+        {
+            "verse_number": 117,
+            "verse_text": "فَقُلۡنَا يَٰٓـَٔادَمُ إِنَّ هَٰذَا عَدُوّٞ لَّكَ وَلِزَوۡجِكَ فَلَا يُخۡرِجَنَّكُمَا مِنَ ٱلۡجَنَّةِ فَتَشۡقَىٰٓ",
+            "explanation": "Nous dîmes alors: Ô Adam, `Iblîs est ton ennemi et celui de ton épouse. Qu’il ne vous fasse pas sortir du Paradis par ses insufflations, tu subirais alors les conséquences d’avoir obéi à ce qu’il vous insuffle.",
+            "arabic_explanation": "فقلنا: يا آدم، إن إبليس عدوّ لك وعدو لزوجك، فلا يخرجنّك أنت وزوجك من الجنة بطاعته فيما يوسوس به، فتتحمّل أنت المشاقّ والمكاره."
+        },
+        {
+            "verse_number": 118,
+            "verse_text": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعۡرَىٰ",
+            "explanation": "Dans le Paradis, Allah se charge de te préserver de la faim en te nourrissant et de te préserver de la nudité en te vêtissant.",
+            "arabic_explanation": "إن لك على الله أن يطعمك في الجنة فلا تجوع، ويكسوك فلا تعرى."
+        },
+        {
+            "verse_number": 119,
+            "verse_text": "وَأَنَّكَ لَا تَظۡمَؤُاْ فِيهَا وَلَا تَضۡحَىٰ",
+            "explanation": "Il se charge aussi de te préserver de la soif en t’abreuvant et de préserver de la chaleur du soleil en t’abritant.",
+            "arabic_explanation": "وأن يسقيك فلا تعطش، ويظلك فلا يصيبك حر الشمس."
+        },
+        {
+            "verse_number": 120,
+            "verse_text": "فَوَسۡوَسَ إِلَيۡهِ ٱلشَّيۡطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكٖ لَّا يَبۡلَىٰ",
+            "explanation": "C’est alors que Satan insuffla à Adam ce qui suit: Veux-tu que je te montre un arbre qui, si tu mangeais de ses fruits, te permettrait de ne jamais mourir, te ferait vivre pour l’éternité, et te mettrait à la tête d’un royaume invincible.",
+            "arabic_explanation": "فوسوس الشيطان إلى آدم، وقال له: هل أرشدك إلى شجرة مَنْ أكل منها لا يموت أبدًا، بل يبقى حيًّا مُخَلَّدًا، ويملك ملكًا مستمرًّا لا ينقطع ولا ينتهي؟!"
+        },
+        {
+            "verse_number": 121,
+            "verse_text": "فَأَكَلَا مِنۡهَا فَبَدَتۡ لَهُمَا سَوۡءَٰتُهُمَا وَطَفِقَا يَخۡصِفَانِ عَلَيۡهِمَا مِن وَرَقِ ٱلۡجَنَّةِۚ وَعَصَىٰٓ ءَادَمُ رَبَّهُۥ فَغَوَىٰ",
+            "explanation": "Adam et Eve mangèrent alors des fruits de l’arbre qui leur avait été défendu et ils prirent conscience de leur nudité. Ils se mirent à la couvrir à l’aide des feuilles des arbres du Paradis. C’est ainsi qu’Adam désobéit à l’ordre de son Seigneur et outrepassa la limite de ce qui lui était permis.",
+            "arabic_explanation": "فأكل آدم وحواء من الشجرة التي نُهِيا عن الأكل منها، فظهرت لهما عوراتهما بعد أن كانت مستورة، وشرَعا ينزعان من أوراق شجر الجنة، ويستران بها عوراتهما، وخالف آدم أمر ربه إذ لم يمتثل أمره باجتناب الأكل من الشجرة، فتعدّى إلى ما لا يجوز له."
+        },
+        {
+            "verse_number": 122,
+            "verse_text": "ثُمَّ ٱجۡتَبَٰهُ رَبُّهُۥ فَتَابَ عَلَيۡهِ وَهَدَىٰ",
+            "explanation": "Puis Allah l’a élu, accepta son repentir et lui facilita de se guider dans le droit chemin.",
+            "arabic_explanation": "ثم اختاره الله وقبل توبته، ووفّقه إلى الرشاد."
+        },
+        {
+            "verse_number": 123,
+            "verse_text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
+            "explanation": "Ensuite, Allah dit à Adam et à Eve: Descendez, vous et `Iblîs, du Paradis. Il sera votre ennemi et vous serez les siens. Quand vous parviendra un appel à Ma guidée: celui qui le suit et le met en pratique sans en dévier ne s’égarera pas de la vérité ni ne sera malheureux dans l’au-delà. Et au lieu d’entrer en Enfer, il entrera plutôt au Paradis.",
+            "arabic_explanation": "قال الله لآدم وحواء: انزلا من الجنة أنتما وإبليس، فهو عدو لكما وأنتما عدوان له، فإن جاءكم مني بيان لسبيلي: فمن اتبع منكم بيان سبيلي وعمل به ولم ينحرف عنه؛ فلا يضلّ عن الحق، ولا يشقى في الآخرة بالعذاب، بل يدخله الله الجنة."
+        },
+        {
+            "verse_number": 124,
+            "verse_text": "وَمَنۡ أَعۡرَضَ عَن ذِكۡرِي فَإِنَّ لَهُۥ مَعِيشَةٗ ضَنكٗا وَنَحۡشُرُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ أَعۡمَىٰ",
+            "explanation": "Tandis que celui qui se détournera de Mon Rappel et n’y répondra pas favorablement, il mènera une vie pénible dans le bas monde et dans le monde intermédiaire. De plus, Nous le convoquerons au Rassemblement après l’avoir rendu aveugle et dépourvu d’argument.",
+            "arabic_explanation": "ومن تولّى عن ذكري ولم يقبله، ولم يستجب له فإن له معيشة ضيقة في الدنيا وفي البَرْزَخ، ونسوقه إلى المحشر يوم القيامة فاقد البصر والحجة."
+        },
+        {
+            "verse_number": 125,
+            "verse_text": "قَالَ رَبِّ لِمَ حَشَرۡتَنِيٓ أَعۡمَىٰ وَقَدۡ كُنتُ بَصِيرٗا",
+            "explanation": "Cet homme dira: Ô Seigneur, tu m’as rendu aveugle alors que j’étais voyant dans le bas monde.",
+            "arabic_explanation": "يقول هذا المُعْرِض عن الذكر: يا رب، لم حشرتني اليوم أعمى، وقد كنت في الدنيا بصيرًا."
+        },
+        {
+            "verse_number": 126,
+            "verse_text": "قَالَ كَذَٰلِكَ أَتَتۡكَ ءَايَٰتُنَا فَنَسِيتَهَاۖ وَكَذَٰلِكَ ٱلۡيَوۡمَ تُنسَىٰ",
+            "explanation": "Allah répondra à cet homme: Tout comme tu as dédaigné et délaissé nos signes dans le bas monde, tu seras délaissé aujourd’hui et abandonné au châtiment.",
+            "arabic_explanation": "قال الله تعالى ردًّا عليه: مثل ذلك فعلتَه في الدنيا، فقد جاءتك آياتنا فأعرضت عنها وتركتها، وكذلك فإنك تُتْرَك اليوم في العذاب."
+        },
+        {
+            "verse_number": 127,
+            "verse_text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
+            "explanation": "C’est ainsi que Nous rétribuons celui qui est absorbé par les plaisirs illicites et refuse de croire aux indices clairs lui provenant de son Seigneur. Le châtiment d’Allah dans l’au-delà sera plus horrible encore, plus sévère et plus durable que la vie pénible du bas monde et de la vie intermédiaire.",
+            "arabic_explanation": "ومثل هذا الجزاء نجزي من انهمك في الشهوات المحرَّمة، وأعرض عن الإيمان بالدلائل الواضحة من ربه. ولعذاب الله في الآخرة أفظع وأقوى من المعيشة الضَّنْك في الدنيا والبَرْزَخ وأدوم."
+        },
+        {
+            "verse_number": 128,
+            "verse_text": "أَفَلَمۡ يَهۡدِ لَهُمۡ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ يَمۡشُونَ فِي مَسَٰكِنِهِمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+            "explanation": "Les polythéistes n’ont-ils pas acquis la certitude que Nous avons anéanti de nombreux peuples avant eux ? Ils déambulent pourtant entre les demeures de ces peuples et voient de leurs yeux leurs ruines ! L’anéantissement et la destruction de ces nombreux peuples représentent des enseignements adressés à ceux qui sont doués de raison.",
+            "arabic_explanation": "أفلم يتبيّن للمشركين كثرة الأمم التي أهلكناها من قبلهم، يمشون في مساكن تلك الأمم المُهْلَكة، ويعاينون آثار ما أصابهم؟ إن فيما أصاب تلك الأمم الكثيرة من الهلاك والدمار لعبرًا لأصحاب العقول."
+        },
+        {
+            "verse_number": 129,
+            "verse_text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+            "explanation": "Ô Messager, si Allah n’avait pas décrété qu’Il ne châtierait personne avant de lui avoir explicité Son argument, Il se serait hâté de châtier ces polythéistes qui le méritent.",
+            "arabic_explanation": "ولولا كلمة سبقت من ربك - أيها الرسول - أنه لا يعذّب أحدًا قبل إقامة الحجة عليه، ولولا أجل مُقَدَّر عنده لهم لعاجلهم العذاب؛ لاستحقاقهم إياه."
+        },
+        {
+            "verse_number": 130,
+            "verse_text": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ غُرُوبِهَاۖ وَمِنۡ ءَانَآيِٕ ٱلَّيۡلِ فَسَبِّحۡ وَأَطۡرَافَ ٱلنَّهَارِ لَعَلَّكَ تَرۡضَىٰ",
+            "explanation": "Ô Messager, endure patiemment les médisances des dénégateurs et célèbre la louange de ton Seigneur durant la prière de l’aube avant le lever du soleil, durant la prière de l’après-midi, durant la prière du coucher du soleil, durant la prière du soir lorsqu’il fait nuit et durant la prière de midi lorsque le soleil dépasse son zénith. Célèbre Sa louange aussi lorsque le jour commence et finit afin d’obtenir d’Allah la récompense qui te satisfait.",
+            "arabic_explanation": "فاصبر - أيها الرسول - على ما يقوله المكذبون بك من أوصاف باطلة، وسبّح بحمد ربك في صلاة الفجر قبل طلوع الشمس، وفي صلاة العصر قبل غروبها، وفي صلاة المغرب والعشاء من ساعات الليل، وفي صلاة الظهر عند الزوال بعد نهاية الطرف الأول من النهار وفي صلاة المغرب بعد نهاية الطرف الثاني منه؛ رجاء أن تنال عند الله من الثواب ما ترضى به."
+        },
+        {
+            "verse_number": 131,
+            "verse_text": "وَلَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ زَهۡرَةَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا لِنَفۡتِنَهُمۡ فِيهِۚ وَرِزۡقُ رَبِّكَ خَيۡرٞ وَأَبۡقَىٰ",
+            "explanation": "Ne regarde pas les plaisirs de ce bas monde dont Nous laissons les dénégateurs jouir afin de les éprouver car ce que Nous leur accordons est éphémère tandis que la récompense que te promet ton Seigneur afin de te satisfaire est meilleure et plus durable. Elle ne s’interrompra jamais.",
+            "arabic_explanation": "ولا تنظر إلى ما جعلناه لأصناف هؤلاء المكذبين متعة يتمتعون بها من زهرة الحياة الدنيا لنختبرهم، فإن ما جعلناه لهم من ذلك زائل، وثواب ربّك الذي وعدك به حتى ترضى خير مما متّعهم به في الدنيا من متع زائلة وأدوم؛ لأنه لا ينقطع."
+        },
+        {
+            "verse_number": 132,
+            "verse_text": "وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ عَلَيۡهَاۖ لَا نَسۡـَٔلُكَ رِزۡقٗاۖ نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَٰقِبَةُ لِلتَّقۡوَىٰ",
+            "explanation": "Ô Messager, ordonne à ta famille d’accomplir la prière et efforce-toi d’y être persévérant. Nous ne te demandons ni à toi ni à quiconque de te pourvoir car Nous nous chargeons de ta subsistance et la fin heureuse dans ce bas monde et dans l’au-delà sera pour les pieux qui craignent Allah en se conformant à Ses commandements et en renonçant à Ses interdits.",
+            "arabic_explanation": "وأْمُرْ - أيها الرسول - أهلك بأداء الصلاة، واصطبر أنت على أدائها، لا نطلب منك رزقًا لنفسك ولا لغيرك، نحن نتكفّل برزقك، والعاقبة المحمودة في الدنيا والآخرة لأصحاب التقوى الذين يخافون الله، فيمتثلون أوامره، ويجتنبون نواهيه."
+        },
+        {
+            "verse_number": 133,
+            "verse_text": "وَقَالُواْ لَوۡلَا يَأۡتِينَا بِـَٔايَةٖ مِّن رَّبِّهِۦٓۚ أَوَلَمۡ تَأۡتِهِم بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+            "explanation": "Ces mécréants qui démentent le Prophète lui disent: Si Muħammad nous apportais de son Seigneur un signe démontrant qu’il dit vrai lorsqu’il prétend être un messager? Ces dénégateurs n’ont-ils pas reçu le Coran qui confirme les livres révélés par le passé ?",
+            "arabic_explanation": "وقال هؤلاء الكفار المكذبون بالنبي صلى الله عليه وسلم: هلَّا يأتينا محمد بعلامة من ربه تدلّ على صدقه وأنه رسول، أَوَلم يأت هؤلاء المكذبين القرآنُ الذي هو تصديق للكتب السماوية من قبله؟!"
+        },
+        {
+            "verse_number": 134,
+            "verse_text": "وَلَوۡ أَنَّآ أَهۡلَكۡنَٰهُم بِعَذَابٖ مِّن قَبۡلِهِۦ لَقَالُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبۡلِ أَن نَّذِلَّ وَنَخۡزَىٰ",
+            "explanation": "Si Nous avions anéantis ces mécréants qui démentent le Prophète et les avions châtiés pour leur entêtement à mécroire avant même de leur envoyer un messager et de leur révéler un livre, ils auraient justifié leur mécréance le Jour de la Résurrection en ces termes: Ô notre Seigneur, pourquoi ne pas nous avoir envoyé un messager dans le bas monde ? Nous aurions alors cru en lui et aurions accordé du crédit aux signes qu’il nous aurait apporté avant que Ton châtiment ne nous couvre d’opprobre.",
+            "arabic_explanation": "ولو أنَّا أهلكنا هؤلاء المكذبين بالنبي صلى الله عليه وسلم بإنزال عذاب عليهم لكفرهم وعنادهم قبل أن نرسل إليهم رسولًا، وننزل عليهم كتابًا لقالوا يوم القيامة معتذرين عن كفرهم: هلَّا أرسلت - ربنا - إلينا رسولًا في الدنيا، فنؤمن به ونتبع ما جاء به من آيات من قبل أن يحلّ بنا الهوان والخزي بسبب عذابك؟!"
+        },
+        {
+            "verse_number": 135,
+            "verse_text": "قُلۡ كُلّٞ مُّتَرَبِّصٞ فَتَرَبَّصُواْۖ فَسَتَعۡلَمُونَ مَنۡ أَصۡحَٰبُ ٱلصِّرَٰطِ ٱلسَّوِيِّ وَمَنِ ٱهۡتَدَىٰ",
+            "explanation": "Ô Messager, dis à ces dénégateurs: Chacun de nous et de vous est dans l’attente de ce que décrète Allah. Attendez donc et vous saurez certainement qui de nous ou de vous est sur le droit chemin et a été guidé.",
+            "arabic_explanation": "قل - أيها الرسول - لهؤلاء المكذبين: كل واحد منّا ومنكم منتظر ما يُجْرِيه الله، فانتظروا أنتم، فستعلمون - لا محالة - مَن أصحاب الطريق المستقيم، ومَن المهتدون: نحن أم أنتم؟"
+        }
+    ]
+}

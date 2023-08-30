@@ -1,0 +1,30 @@
+{
+    "surah_name": "QOURAYCH",
+    "surah_number": 106,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "لِإِيلَٰفِ قُرَيۡشٍ",
+            "explanation": "En raison de l’habitude et de la coutume des quraychites",
+            "arabic_explanation": "لأجل عادة قريش وإلْفِهم."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+            "explanation": "de voyager l’hiver vers le Yémen et l’été vers la Syrie,",
+            "arabic_explanation": "رحلةَ الشتاء إلى اليمن، ورحلة الصيف إلى الشام آمنين."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+            "explanation": "qu’ils adorent le Seigneur unique de cette Maison qui leur a facilité ces voyages et qu’ils ne Lui associent rien.",
+            "arabic_explanation": "فليعبدوا الله ربّ هذا البيت الحرام وحده، الذي يسَّر لهم هذه الرحلة، ولا يشركوا به أحدًا."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "ٱلَّذِيٓ أَطۡعَمَهُم مِّن جُوعٖ وَءَامَنَهُم مِّنۡ خَوۡفِۭ",
+            "explanation": "Leur Seigneur qui les a nourris contre la faim et rassurés contre la crainte, par ce qu’Il a inspiré aux Arabes comme respect du Sanctuaire et de ses habitants.",
+            "arabic_explanation": "الذي أطعمهم من جوع، وآمنهم من خوف؛ بما وضع في قلوب العرب من تعظيم الحرم، وتعظيم سكانه."
+        }
+    ]
+}

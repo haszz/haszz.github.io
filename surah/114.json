@@ -1,0 +1,42 @@
+{
+    "surah_name": "AN-NÂS",
+    "surah_number": 114,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+            "explanation": "Ô Messager, dis: Je me prémunis par le Seigneur des gens et je cherche refuge auprès de Lui,",
+            "arabic_explanation": "قل - أيها الرسول -: أعتصم برب الناس، وأستجير به."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "مَلِكِ ٱلنَّاسِ",
+            "explanation": "le Souverain des gens dont Il dispose comme Il le veut et qui n’ont pas d’autre souverain que Lui,",
+            "arabic_explanation": "ملك الناس، يتصرّف فيهم بما يشاء، لا ملك لهم غيره."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "إِلَٰهِ ٱلنَّاسِ",
+            "explanation": "le Dieu des gens qui n’ont d’autre dieu que Lui,",
+            "arabic_explanation": "معبودهم بحقّ، لا معبود لهم بحق غيره."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+            "explanation": "contre le mal du démon qui harcèle l’être humain d’insufflations lorsque ce dernier oublie d’évoquer Allah ou l’évoque tardivement.",
+            "arabic_explanation": "من شرّ الشيطان الذي يلقي وسوسته إلى الإنسان إذا غفل عن ذكر الله، ويتأخر عنه إذا ذكره."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+            "explanation": "Le démon insuffle le mal dans les cœurs des gens",
+            "arabic_explanation": "يلقي بوسوسته إلى قلوب الناس."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+            "explanation": "et peut être un être humain comme il peut être un djinn.",
+            "arabic_explanation": "وهو يكون من الإنس كما يكون من الجن."
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "surah_name": "AD-DOUKHÂN",
+    "surah_number": 44,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "حمٓ",
+            "explanation": "Ħâ, Mîm: Il a déjà été question de telles lettres séparées au début de Sourate Al-Baqarah.",
+            "arabic_explanation": "(حم) تقدم الكلام على نظائرها في بداية سورة البقرة."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+            "explanation": "Allah prête serment sur le Coran qui explicite la voie de la guidée vers la vérité.",
+            "arabic_explanation": "أقسم الله بالقرآن الموضح لطريق الهداية إلى الحق."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
+            "explanation": "Nous avons révélé le Coran la Nuit du Destin, une nuit bénie, et Nous énonçons des avertissements par le biais de ce Coran.",
+            "arabic_explanation": "إنا أنزلنا القرآن في ليلة القدر، وهي ليلة كثيرة الخيرات، إنا كنا مخوِّفين بهذا القرآن."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
+            "explanation": "C’est durant cette nuit qu’est tranchés toute affaire ferme en rapport avec les subsistances, les termes des vies et autres évènements survenant au cours de l’année.",
+            "arabic_explanation": "في هذه الليلة يفصل كل أمر محكم يتعلق بالأرزاق والآجال وغيرهما مما يحدثه الله تلك السنة."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
+            "explanation": "Nous tranchons par nos soins toute affaire fermement décidée et c’est Nous qui envoyons des messagers.",
+            "arabic_explanation": "نفصل كل أمر محكم من عندنا، إنا كنا باعثين الرسل."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+            "explanation": "Ô Messager, Nous envoyons des messagers, et cela est une miséricorde que ton Seigneur fait aux peuples à qui ils sont envoyés. Il entend le mieux les paroles de Ses serviteurs, connaît le mieux leurs agissements et leurs intentions et rien de tout cela ne Lui échappe.",
+            "arabic_explanation": "نبعث الرسل رحمة من ربك -أيها الرسول - لمن أرسلوا إليهم، إنه سبحانه هو السميع لأقوال عباده، العليم بأفعالهم ونياتهم، لا يخفى عليه شيء من ذلك."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
+            "explanation": "Il est le Seigneur des Cieux, de la Terre et de ce qui se trouve entre les deux et si vous êtes persuadés de cela, croyez donc en Mes messagers.",
+            "arabic_explanation": "رب السماوات ورب الأرض ورب ما بينهما إن كنتم موقنين بذلك فآمنوا برسولي."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+            "explanation": "Il n’existe pas de dieu méritant d’être adoré hormis Lui et personne d’autre que Lui ne donne la vie ou la mort. Il est votre Seigneur et Celui de vos anciens aïeux.",
+            "arabic_explanation": "لا معبود بحق غيره، يحيي ويميت، لا محيي ولا مميت غيره، ربكم ورب آبائكم المتقدمين."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ",
+            "explanation": "Ces polythéistes ne sont pas persuadés de cela, ils sont plutôt dans le doute et leurs faussetés les distraient de ces vérités.",
+            "arabic_explanation": "ليس هؤلاء المشركون بموقنين بذلك، بل هم في شك منه يلهون عنه بما هم فيه من الباطل."
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانٖ مُّبِينٖ",
+            "explanation": "Ô Messager, prévois un châtiment imminent pour ton peuple, le jour où le Ciel apportera une fumée bien visible qu’ils distingueront parfaitement tellement leur douleur sera grande.",
+            "arabic_explanation": "فانتظر - أيها الرسول - عذاب قومك القريب يوم تأتي السماء بدخان واضح يرونه بأعينهم من شدة الجوع."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمٞ",
+            "explanation": "Cette fumée les englobera et on leur dira: Le châtiment qui s’abat sur vous est un châtiment douloureux.",
+            "arabic_explanation": "يعمّ قومك، ويقال لهم: هذا العذاب الذي أصابكم عذاب موجع."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ",
+            "explanation": "Ils imploreront alors leur Seigneur en ces termes: Ô notre Seigneur, éloigne de nous le châtiment que Tu nous as envoyé. Nous croirons en toi et en ton Messager si Tu l’éloignes de nous.",
+            "arabic_explanation": "فيتضرعون إلى ربهم سائلين: ربنا اصرف عنا العذاب الذي أرسلته علينا، إنا مؤمنون بك وبرسولك إن صرفته عنا."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ",
+            "explanation": "D’où leur vient ce rappel et ce repentir voué à leur Seigneur, alors qu’un Messager leur a apporté un Message clair et qu’ils se sont assurés de sa véracité et de sa loyauté?",
+            "arabic_explanation": "كيف لهم أن يتذكروا وينيبوا إلى ربهم وقد جاءهم رسول بيّن الرسالة، وعرفوا صدقه وأمانته؟!"
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمٞ مَّجۡنُونٌ",
+            "explanation": "Or ils refusèrent de croire en lui et dirent de lui: Il est instruit par quelqu’un et n’est pas un messager. Ils dirent également de lui que c’est un aliéné.",
+            "arabic_explanation": "ثم أعرضوا عن التصديق به، وقالوا عنه: هو معلَّم يُعلِّمه غيره وليس برسول، وقالوا عنه: هو مجنون."
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
+            "explanation": "Seulement, si Nous éloignions un tant soit peu le châtiment de vous, vous vous remettriez aussitôt à mécroire et à démentir.",
+            "arabic_explanation": "إنا حين نصرف عنكم العذاب قليلًا، إنكم عائدون إلى كفركم وتكذيبكم."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ",
+            "explanation": "Ô Messager, observe lorsque Nous ferons usage de violence extrême à l’encontre des mécréants de ton peuple lors de la Bataille de Badr. Nous Nous vengerons d’eux pour avoir mécru en Allah et traité de menteur Son Messager.",
+            "arabic_explanation": "وانتظرهم - أيها الرسول - يوم نبطش بكفار قومك البطشة الكبرى يوم بدر، إنا منتقمون منهم لكفرهم بالله وتكذيبهم رسوله."
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ",
+            "explanation": "Nous avons testé le peuple de Pharaon avant eux. Un noble messager envoyé par Allah les appela à proclamer Son Unicité et à L’adorer. Il s’agit de Moïse.",
+            "arabic_explanation": "ولقد اختبرنا قبلهم قوم فرعون، وجاءهم رسول من الله كريم يدعوهم إلى توحيد الله وعبادته، وهو موسى عليه السلام."
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+            "explanation": "Moïse dit à Pharaon et aux siens: Livrez-moi les Israélites car ce sont les serviteurs d’Allah que vous n’avez aucun droit d’asservir. Je suis un messager qui vous a été envoyé par Allah, habilité à vous transmettre ce qu’Il m’a ordonné de vous transmettre, sans rien y ajouter, ni en soustraire.",
+            "arabic_explanation": "قال موسى لفرعون وقومه: اتركوا لي بني إسرائيل، فهم عباد الله، ليس لكم حق أن تستعبدوهم، إني لكم رسول من الله، أمين على ما أمرني أن أبلغكم، لا أنقص منه شيئًا ولا أزيده."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ",
+            "explanation": "Ne soyez pas arrogants envers Allah en délaissant et en dédaignant Son adoration, car je vous apporte un argument évident.",
+            "arabic_explanation": "وألا تتكبروا على الله بترك عبادته، والاستعلاء على عباده، إني آتيكم بحجة واضحة."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
+            "explanation": "Je cherche refuge auprès de mon Seigneur et le vôtre afin que vous ne me mettiez pas à mort par lapidation.",
+            "arabic_explanation": "وإني اعتصمت بربي وربكم من أن تقتلوني بالرجم بالحجارة."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
+            "explanation": "Si vous ne croyez pas en ce que j’apporte, mettez-moi à l’écart et ne m’approchez pas pour me faire du mal.",
+            "arabic_explanation": "وإن لم تصدقوا بما جئت به فاعتزلوني، ولا تقربوني بسوء."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ",
+            "explanation": "Puis Moïse invoqua Allah en ces termes:\nCes gens, Pharaon et ses notables, sont des criminels qui méritent que leur châtiment soit hâté.",
+            "arabic_explanation": "فدعا موسى عليه السلام ربه: أن هؤلاء القوم - فرعون وملأه - قوم مجرمون يستحقّون تعجيل العقاب."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ",
+            "explanation": "Allah ordonna alors à Moïse de voyager de nuit et l’informa que Pharaon et les siens les prendront en chasse.",
+            "arabic_explanation": "فأمر الله موسى أن يسري بقومه ليلًا، وأخبره أن فرعون وقومه سيتبعونهم."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
+            "explanation": "Il lui ordonna également de laisser la mer telle qu’il l’aura trouvée avant de l’avoir franchie. Pharaon et ses soldats seront certainement noyés dans la mer.",
+            "arabic_explanation": "وأمره إذا اجتاز البحر هو وبنو إسرائيل أن يتركه ساكنًا كما كان، إن فرعون وجنده مهلكون بالغرق في البحر."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "كَمۡ تَرَكُواْ مِن جَنَّٰتٖ وَعُيُونٖ",
+            "explanation": "Qu’ils sont nombreux les vergers et les sources d’eau laissés par Pharaon et les siens derrière eux.",
+            "arabic_explanation": "كم خلَّف فرعون وقومه وراءهم من بساتين وعيون جارية!"
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "وَزُرُوعٖ وَمَقَامٖ كَرِيمٖ",
+            "explanation": "Que les cultures et les demeures grandioses laissées par eux sont nombreuses.",
+            "arabic_explanation": "وكم خلفوا وراءهم من زروع ومجلس حسن!"
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ",
+            "explanation": "Que sont nombreux les plaisirs de la vie qu’ils ont laissés derrière eux.",
+            "arabic_explanation": "وكم خلَّفوا وراءهم من عيشة كانوا فيها متنعّمين!"
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ",
+            "explanation": "C’est ce qu’il advint d’eux et Nous avons fait hérité un autre peuple, les Israélites, de leurs vergers, leurs sources, leurs cultures et leurs demeures.",
+            "arabic_explanation": "هكذا حدث لهم ما وُصِفَ لكم، وأورثنا جناتهم وعيونهم وزروعهم ومقاماتهم قومًا آخرين هم بنو إسرائيل."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
+            "explanation": "Ni le Ciel ni la Terre n’ont pleuré la noyade de Pharaon et des siens et aucun répit ne leur fut accordé pour qu’ils puissent se repentir.",
+            "arabic_explanation": "فما بكت على فرعون وقومه السماء والأرض حين غرقوا، وما كانوا مُمْهَلين حتى يتوبوا."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
+            "explanation": "Nous sauvâmes les Israélites de la persécution humiliante qu’ils subissaient de Pharaon et des siens. Ceux-ci tuaient leurs garçons et gardaient vivantes leurs filles.",
+            "arabic_explanation": "ولقد أنقذنا بني إسرائيل من العذاب المُذِل، حيث كان فرعون وقومه يقتلون أبناءهم، ويستحيون نساءهم."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيٗا مِّنَ ٱلۡمُسۡرِفِينَ",
+            "explanation": "Nous les sauvâmes de la persécution de Pharaon, un homme hautain qui transgressait l’ordre et la religion d’Allah.",
+            "arabic_explanation": "أنقذناهم من عذاب فرعون، إنه كان مستكبرًا من المتجاوزين لأمر الله ودينه."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ",
+            "explanation": "Nous choisîmes les Israélites en connaissance de cause et les avons préférés aux peuples de leurs époques en raison de leurs nombreux prophètes.",
+            "arabic_explanation": "ولقد اخترنا بني إسرائيل على علم منا على عالَمِي زمانهم لكثرة أنبيائهم."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَٰٓؤٞاْ مُّبِينٌ",
+            "explanation": "Nous leur avons donné des preuves évidentes dont a été muni Moïse et qui étaient pour eux des bienfaits manifestes, à l’image de la manne et des cailles.",
+            "arabic_explanation": "وأعطيناهم من الدلائل والبراهين التي أيّدنا بها موسى ما فيه نعمة ظاهرة لهم كالمنّ والسلوى وغيرهما."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ",
+            "explanation": "Ces polythéistes dénégateurs rejettent la réalité de la Ressuscitation en disant:",
+            "arabic_explanation": "إن هؤلاء المشركين المكذبين ليقولون منكرين للبعث:"
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ",
+            "explanation": "Nous ne connaîtrons qu’une première et seule mort et nous ne serons certainement pas ressuscités ensuite.",
+            "arabic_explanation": "ما هي إلا موتتنا الأولى فلا حياة بعدها، وما نحن بمبعوثين بعد هذه الموتة."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
+            "explanation": "Ô Muħammad, apporte donc, toi et tes disciples, nos aïeux qui sont morts et amène-les nous vivants si vous êtes véridiques, lorsque vous prétendez qu’Allah fait revivre les morts afin de leur demander des comptes et de les ressusciter.",
+            "arabic_explanation": "فأت - يا محمد - أنت ومن معك من أتباعك بآبائنا الذين ماتوا أحياء إن كنتم صادقين فيما تدّعونه من أن الله يبعث الموتى أحياء للحساب والجزاء."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+            "explanation": "Ô Messager, ces polythéistes qui te traitent de menteur sont-ils plus forts et plus puissants ou bien le peuple de Tubba’ et ceux qui les ont précédés comme les ‘Âd et les Thamûd. C’était des peuples criminels que Nous avons tous anéantis.",
+            "arabic_explanation": "أهؤلاء المشركون المكذبون بك - أيها الرسول - خير في القوة والمنعة، أم قوم تُبَّع والذين من قبلهم مثل عاد وثمود، أهلكناهم جميعًا، إنهم كانوا مجرمين."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+            "explanation": "Nous n’avons pas créé les Cieux et la Terre afin de Nous divertir.",
+            "arabic_explanation": "وما خلقنا السماوات والأرض وما بينهما لاعبين بخلقها."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+            "explanation": "Nous les avons plutôt créés pour une raison suprême, mais la plupart des polythéistes ne savent pas cela.",
+            "arabic_explanation": "ما خلقنا السماوات والأرض إلا لحكمة بالغة، ولكن معظم المشركين لا يعلمون ذلك."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
+            "explanation": "Le Jour de la Résurrection, durant lequel Allah tranchera entre les serviteurs, est le rendez-vous de tous les gens et Allah les rassemblera ce Jour-là.",
+            "arabic_explanation": "إن يوم القيامة الذي يفصل الله به بين العباد ميعاد للخلائق جميعًا يجمعهم الله فيه."
+        },
+        {
+            "verse_number": 41,
+            "verse_text": "يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلٗى شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+            "explanation": "Le Jour où personne ne sera utile à son proche ou à son ami, ni n’échappera au châtiment d’Allah car la souveraineté appartiendra alors à Allah et personne ne pourra y prétendre.",
+            "arabic_explanation": "يوم لا ينفع قريب قريبه، ولا صديق صديقه، ولا هم يمنعون من عذاب الله؛ لأن الملك يومئذ لله، لا أحد يستطيع ادعاءه."
+        },
+        {
+            "verse_number": 42,
+            "verse_text": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+            "explanation": "Exception faite des gens à qui Allah fera miséricorde qui eux, trouveront de l’utilité dans les bonnes œuvres qu’ils ont accomplies. Allah est le Puissant à qui personne ne tient tête, le Sage dans ce qu’Il crée, détermine et gère.",
+            "arabic_explanation": "إلا من رحمه الله من الناس، فإنه ينتفع بما قدم من عمل صالح، إن الله هو العزيز الذي لا يغلبه أحد، الرحيم بمن تاب من عباده."
+        },
+        {
+            "verse_number": 43,
+            "verse_text": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+            "explanation": "L’arbre Az-Zaqqûm qu’Allah fait pousser au fond de l’Enfer",
+            "arabic_explanation": "إن شجرة الزقوم التي أنبتها الله في أصل الجحيم."
+        },
+        {
+            "verse_number": 44,
+            "verse_text": "طَعَامُ ٱلۡأَثِيمِ",
+            "explanation": "sera la nourriture du grand pécheur, c’est-à-dire du mécréant, qui mangera de ses fruits immondes.",
+            "arabic_explanation": "طعام ذِي الإثم العظيم وهو الكافر يأكل من ثمرها الخبيث."
+        },
+        {
+            "verse_number": 45,
+            "verse_text": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
+            "explanation": "Des fruits ressemblant à une huile noircie et bouillante qui consume leurs entrailles.",
+            "arabic_explanation": "هذا الثمر مثل الزيت الأسود، يغلي في بطونهم من شدة حرارته."
+        },
+        {
+            "verse_number": 46,
+            "verse_text": "كَغَلۡيِ ٱلۡحَمِيمِ",
+            "explanation": "Ces fruits sont aussi chauds qu’une eau portée à ébullition.",
+            "arabic_explanation": "كغلي الماء المتناهي في الحرارة."
+        },
+        {
+            "verse_number": 47,
+            "verse_text": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ",
+            "explanation": "On dira aux gardiens de l’Enfer: Saisissez-vous de lui et trainez-le sans ménagement dans l’Enfer.",
+            "arabic_explanation": "ويقال لزبانية النار: خذوه فجرّوه بعنف وغلظة إلى وسط الجحيم."
+        },
+        {
+            "verse_number": 48,
+            "verse_text": "ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ",
+            "explanation": "Puis versez sur la tête de ce supplicié de l’eau bouillante afin que son châtiment ne connaisse aucune interruption.",
+            "arabic_explanation": "ثم صبوا فوق رأس هذا المُعَذَّب الماء الحار فلا يفارقه العذاب."
+        },
+        {
+            "verse_number": 49,
+            "verse_text": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ",
+            "explanation": "On lui dira sur le ton de la raillerie: Goute à ce châtiment douloureux, toi qui était puissant et noble parmi les tiens.",
+            "arabic_explanation": "ويقال له تهكُّمًا: ذق هذا العذاب الأليم؛ إنك أنت العزيز الذي لا يُضام جنابك الكريم في قومك."
+        },
+        {
+            "verse_number": 50,
+            "verse_text": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ",
+            "explanation": "Ce châtiment, vous doutiez qu’il allait avoir lieu le Jour de la Résurrection et maintenant que vous le voyez, votre doute s’est dissipé.",
+            "arabic_explanation": "إن هذا العذاب هو الذي كنتم تشكّون في وقوعه يوم القيامة، فقد زال عنكم الشك بمعاينته."
+        },
+        {
+            "verse_number": 51,
+            "verse_text": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ",
+            "explanation": "Ceux qui craignent leur Seigneur en se conformant à Ses commandements et en renonçant à Ses interdits occuperont une demeure dans laquelle ils seront à l’abri de tout mal.",
+            "arabic_explanation": "إن المتقين لربهم بامتثال أوامره واجتناب نواهيه في موضع إقامة آمنون من كل مكروه يصيبهم."
+        },
+        {
+            "verse_number": 52,
+            "verse_text": "فِي جَنَّٰتٖ وَعُيُونٖ",
+            "explanation": "Ils seront dans des vergers où coulent des sources.",
+            "arabic_explanation": "في بساتين وعيون جارية."
+        },
+        {
+            "verse_number": 53,
+            "verse_text": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ",
+            "explanation": "Ils auront au Paradis pour vêtement des habits faits de satin fin ou grossier et ils seront les uns face aux autres, personne parmi eux ne tournant le dos à l’autre.",
+            "arabic_explanation": "يلبسون في الجنة رقيق الديباج وغليظه، يقابل بعضهم بعضًا، ولا ينظر أحدهم قفا الآخر."
+        },
+        {
+            "verse_number": 54,
+            "verse_text": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ",
+            "explanation": "En plus de les honorer par tout cela, Nous les marierons à des femmes du Paradis de grande beauté, aux grands yeux dont le blanc est d’un blanc intense et le noir d’un noir intense.",
+            "arabic_explanation": "كما أكرمناهم بذلك المذكور زوجناهم في الجنة بالحسان من النساء واسعات الأعين مع شدّة بياض بياضها وشدّة سواد سوادها."
+        },
+        {
+            "verse_number": 55,
+            "verse_text": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
+            "explanation": "Ils demanderont à leurs serviteurs de les servir en fruits qu’ils désirent sans craindre qu’il n’y en ait pas ou qu’ils leur soient nocifs.",
+            "arabic_explanation": "يدعون خدمهم فيها ليأتوهم بكل فاكهة أرادوها آمنين من انقطاعها، ومن مضارّها."
+        },
+        {
+            "verse_number": 56,
+            "verse_text": "لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+            "explanation": "Ils y demeureront éternellement et ne goûterons plus à la mort, exception faite de la première mort dans le bas monde, et Allah les préservera du châtiment du Feu.",
+            "arabic_explanation": "خالدين فيها، لا يذوقون فيها الموت إلا الموتة الأولى في الحياة الدنيا، ووقاهم ربهم عذاب النار."
+        },
+        {
+            "verse_number": 57,
+            "verse_text": "فَضۡلٗا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+            "explanation": "Ton Seigneur leur fera ainsi don d’une immense grâce et d’une grande bienfaisance. Les faire entrer au Paradis et les préserver du Feu est le succès suprême qui n’est égalé par aucun autre.",
+            "arabic_explanation": "تفضلًا وإحسانًا من ربك بهم، ذلك المذكور - من إدخالهم الجنة، ووقايتهم من النار - هو الفوز العظيم الذي لا يدانيه فوز."
+        },
+        {
+            "verse_number": 58,
+            "verse_text": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+            "explanation": "Ô Messager, Nous n’avons facilité ce Coran en le révélant dans ta langue arabe que pour qu’ils en tirent des enseignements.",
+            "arabic_explanation": "فإنما يسّرنا هذا القرآن وسهَّلناه بإنزاله بلسانك العربي - أيها الرسول - لعلَّهم يتعظون."
+        },
+        {
+            "verse_number": 59,
+            "verse_text": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ",
+            "explanation": "Attends donc la victoire et leur anéantissement. En ce qui les concerne, ils attendent eux que ce soit toi qui soit anéanti.",
+            "arabic_explanation": "فانتظر نصرك وهلاكهم، إنهم منتظرون هلاكك."
+        }
+    ]
+}

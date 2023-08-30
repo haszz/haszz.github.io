@@ -1,0 +1,36 @@
+{
+    "surah_name": "AL-FÎL",
+    "surah_number": 105,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+            "explanation": "Ô Messager, ne sais-tu pas ce que ton Seigneur a fait d’Abrahah et de ses compagnons montés sur des éléphants lorsqu’ils voulurent démolir la Ka’bah?",
+            "arabic_explanation": "ألم تعلم - أيها الرسول - كيف فعل ربك بأبْرَهَة وأصحابه أصحاب الفيل حين أرادوا هدم الكعبة؟!"
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ",
+            "explanation": "Il mit à mal leur stratagème et ils ne purent atteindre leur objectif de détourner les gens de la Ka’bah,",
+            "arabic_explanation": "لقد جعل الله تدبيرهم السيئ لهدمها في ضياع، فما نالوا ما تمنّوه من صرف الناس عن الكعبة، وما نالوا منها شيئًا."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ",
+            "explanation": "en envoyant sur eux des oiseaux qui se sont abattus sur eux volée après volée",
+            "arabic_explanation": "وبَعَث عليهم طيرًا أتتهم جماعات جماعات."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ",
+            "explanation": "et leur lançaient des pierres d’argile durcie.",
+            "arabic_explanation": "ترميهم بحجارة من طين مُتَحَجِّر."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ",
+            "explanation": "Allah les rendit alors semblables à des feuilles de blé mâchées et piétinées par des bêtes.",
+            "arabic_explanation": "فجعلهم الله كورق زرع أكلته الدوابّ وداسته."
+        }
+    ]
+}

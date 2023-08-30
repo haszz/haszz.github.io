@@ -1,0 +1,24 @@
+{
+    "surah_name": "AL-‘ASR",
+    "surah_number": 103,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "وَٱلۡعَصۡرِ",
+            "explanation": "Allah prête serment par l’après-midi, que:",
+            "arabic_explanation": "أقسم سبحانه بوقت العصر."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+            "explanation": "L’être humain va progressivement à sa perte,",
+            "arabic_explanation": "إن الإنسان لفي نقصان وهلاك."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+            "explanation": "excepté ceux qui croient en Allah et en Son Message, accomplissent de bonnes œuvres, s’enjoignent les uns les autres la vérité et la patience dans la fidélité à la vérité. Ceux qui possèdent ces qualités seront sauvés dans leur vie du bas monde et dans l’au-delà.",
+            "arabic_explanation": "إلا الذين آمنوا بالله وبرسله، وعملوا الأعمال الصالحات، وأوصى بعضهم بعضًا بالحق، وبالصبر على الحق؛ فالمتصفون بهذه الصفات ناجون في حياتهم الدنيا والآخرة."
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "surah_name": "AL-IKHLÂS",
+    "surah_number": 112,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+            "explanation": "Ô Messager, dis: Il est Allah, seul détenteur de la divinité, nul dieu hormis Lui.",
+            "arabic_explanation": "قل - أيها الرسول -: هو الله المنفرد بالألوهية، لا إله غيره."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "ٱللَّهُ ٱلصَّمَدُ",
+            "explanation": "Il est le Seigneur qui détient à la perfection les attributs de la beauté et Celui que les créatures implorent",
+            "arabic_explanation": "هو السيّد الذي انتهى إليه السُّؤْدَد في صفات الكمال والجمال، الذي تصمد إليه الخلائق."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+            "explanation": "Il est Celui qui n’a jamais engendré personne ni n’a été engendré par quiconque. Il n’a donc ni progéniture ni géniteur.",
+            "arabic_explanation": "الذي لم يلد أحدًا، ولم يلده أحد، فلا ولد له - سبحانه - ولا والد."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+            "explanation": "Et rien dans Sa création ne Lui est semblable.",
+            "arabic_explanation": "ولم يكن له مماثل في خلقه."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "surah_name": "AL-KAWTHAR",
+    "surah_number": 108,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+            "explanation": "Ô Messager, Nous t’avons certainement accordé un bien immense, dont fait partie le fleuve Al-Kawthar du Paradis.",
+            "arabic_explanation": "إنا آتيناك - أيها الرسول - الخير الكثير، ومنه نهر الكوثر في الجنة."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+            "explanation": "Sois donc reconnaissant envers Allah pour ce bienfait en ne priant que Lui et en n’adressant tes sacrifices qu’à Lui, contrairement aux polythéistes qui adressent leurs sacrifices à leurs idoles.",
+            "arabic_explanation": "فأدّ شكر الله على هذه النعمة، بأن تصلي له وحده وتذبح؛ خلافًا لما يفعله المشركون من التقرّب لأوثانهم بالذبح."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+            "explanation": "Celui qui te hais est celui à qui aucun bien ne sera plus accordé et qui lorsqu’il sera mentionné dans la postérité, sera mentionné en mal.",
+            "arabic_explanation": "إن مُبْغِضك هو المنقطع عن كل خير المَنْسِي الذي إن ذُكِر ذُكِر بسوء."
+        }
+    ]
+}

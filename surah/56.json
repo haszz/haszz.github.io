@@ -1,0 +1,582 @@
+{
+    "surah_name": "AL-WÂQI’AH",
+    "surah_number": 56,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+            "explanation": "Lorsque la Résurrection surviendra irrémédiablement.",
+            "arabic_explanation": "إذا قامت القيامة لا محالة."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+            "explanation": "Aucune âme n’en niera la réalité, contrairement à ce qui se passait dans le bas monde.",
+            "arabic_explanation": "لن توجد نفس تكذّب بها كما كانت تكذّب في الدنيا."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "خَافِضَةٞ رَّافِعَةٌ",
+            "explanation": "Elle abaissera les mécréants pervers en les faisant entrer en Enfer et élèvera les croyants pieux en les faisant entrer au Paradis.",
+            "arabic_explanation": "خافضة للكفار الفجار بإدخالهم في النار، رافعة للمؤمنين المتقين بإدخالهم في الجنة."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+            "explanation": "Lorsque la Terre sera violemment secouée.",
+            "arabic_explanation": "إذا حُرِّكت الأرض تحريكًا عظيمًا."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+            "explanation": "Et que les montagnes seront réduites en miettes.",
+            "arabic_explanation": "وفُتِّتت الجبال تفتيتًا."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+            "explanation": "Au point de devenir une poussière en suspension dans l’air qui ne se fixe pas.",
+            "arabic_explanation": "فكانت من التفتيت غبارًا منتشرًا لا ثبات لها."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+            "explanation": "Ce Jour-là, vous serez partagés en trois catégories:",
+            "arabic_explanation": "وكنتم أصنافًا ثلاثة في ذلك اليوم:"
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+            "explanation": "Les gens de la droite, c’est-à-dire ceux qui prendront leurs livres de la main droite. Que leur rang sera élevé et éminent!",
+            "arabic_explanation": "فأصحاب اليمين الذين يأخذون كتبهم بأيمانهم، ما أعلى وأعظم منزلتهم!"
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+            "explanation": "Les gens de la gauche, c’est-à-dire ceux qui prendront leurs livres de la main gauche. Que leur rang sera vil et mauvais !",
+            "arabic_explanation": "وأصحاب الشمال الذين يأخذون كتبهم بشمائلهم، ما أخسّ وأسوأ منزلتهم!"
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+            "explanation": "Ceux qui étaient les premiers à faire le bien dans le bas monde seront les premiers à entrer au Paradis.",
+            "arabic_explanation": "والسابقون بفعل الخيرات في الدنيا هم السابقون في الآخرة لدخول الجنة."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+            "explanation": "Ceux-là seront les plus rapprochés d’Allah.",
+            "arabic_explanation": "أولئك هم المقربون عند الله."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+            "explanation": "Ils seront dans les Jardins où ils jouiront de nombreux délices.",
+            "arabic_explanation": "في جنات النعيم، يتنعمون بأصناف النعيم."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+            "explanation": "Ils seront issus en grand nombre de cette génération et des générations précédentes.",
+            "arabic_explanation": "جماعة من هذه الأمة ومن الأمم السابقة."
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+            "explanation": "Mais seul un petit nombre des gens de la Fin des Temps compteront parmi ces rapprochés.",
+            "arabic_explanation": "وقليل من الناس في آخر الزمان هم من السابقين المقربين."
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+            "explanation": "Ils seront installés sur des lits ornés d’or.",
+            "arabic_explanation": "على أَسِرّة منسوجة بالذهب."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+            "explanation": "Ils seront accoudés à ces lits, les uns faisant face aux autres, sans que personne parmi eux ne tourne le dos à quiconque.",
+            "arabic_explanation": "متكئين على هذه الأسرّة متقابلين بوجوههم، لا ينظر أحدهم قفا غيره."
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+            "explanation": "Circuleront parmi eux des garçons qui seront à leur service et qui ne connaîtront ni la vieillesse ni la mort.",
+            "arabic_explanation": "يدور عليهم لخدمتهم وِلْدان لا ينالهم هَرَم ولا فناء."
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+            "explanation": "Ils feront passer parmi eux des coupes (dépourvues d’anse), des vases (pourvus d’anse) et un verre de vin provenant d’une source qui coule dans le Paradis sans ne jamais tarir.",
+            "arabic_explanation": "يدورون عليهم بأقداح لا عُرَى لها، وأباريق لها عُرًى، وكأس من خمر جارية في الجنة لا تنقطع."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+            "explanation": "Ce vin ne sera pas semblable au vin du bas monde: il ne provoquera ni maux de tête ni n’altèrera la raison.",
+            "arabic_explanation": "ليست كخمر الدنيا، فلا يلحق شاربها صداع، ولا ذهاب عقل."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+            "explanation": "Ces garçons feront circuler parmi eux des fruits qu’eux-mêmes auront choisis.",
+            "arabic_explanation": "ويدور عليهم هؤلاء الوِلْدان بفاكهة مما يختارون."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+            "explanation": "Ainsi que toute chair d’oiseaux qu’ils désireront.",
+            "arabic_explanation": "ويدورون بلحم طير مما تشتهيه أنفسهم."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "وَحُورٌ عِينٞ",
+            "explanation": "Dans le Paradis, ils auront des femmes aux grands yeux et d’une grande beauté.",
+            "arabic_explanation": "ولهم في الجنة نساء واسعات العيون في جمال."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+            "explanation": "Semblables à des perles préservées dans leurs coquilles.",
+            "arabic_explanation": "كأمثال اللؤلؤ المَصُون في صَدَفه."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+            "explanation": "Ceci, en guise de rétribution pour les œuvres pieuses qu’ils accomplissaient dans le bas monde.",
+            "arabic_explanation": "ثوابًا لهم على ما كانوا يعملونه من الأعمال الصالحات في الدنيا."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+            "explanation": "Dans le Paradis, ils n’entendront pas de paroles obscènes ni de paroles qui valent un péché à leur auteur.",
+            "arabic_explanation": "لا يسمعون في الجنة فاحش كلام، ولا ما يلحق صاحبه إثم."
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+            "explanation": "Ils n’entendront que les salutations que leur adresseront les anges ainsi que celles qu’ils s’adresseront les uns aux autres.",
+            "arabic_explanation": "لا يسمعون إلا سلام الملائكة عليهم، وسلام بعضهم على بعض."
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+            "explanation": "Les gens de la droite, qui sont-ils et quels sont leur éminence et leur rang auprès d’Allah?",
+            "arabic_explanation": "وأصحاب اليمين - الذين يُعطون كتبهم بأيمانهم - ما أعظم مكانتهم وشأنهم عند الله!"
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "فِي سِدۡرٖ مَّخۡضُودٖ",
+            "explanation": "Ils seront parmi des jujubiers dépourvus d’épines et qui ne leur causeront aucun mal.",
+            "arabic_explanation": "في سِدْر مقطوع الشوك، لا أذى فيه."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "وَطَلۡحٖ مَّنضُودٖ",
+            "explanation": "Et parmi des bananiers proches les uns des autres et chargés en fruits.",
+            "arabic_explanation": "وفي موز متراكم مصفوف بعضه إلى بعض."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "وَظِلّٖ مَّمۡدُودٖ",
+            "explanation": "Et sous une ombre étendue et permanente qui ne disparaît jamais.",
+            "arabic_explanation": "وظل ممدود مستمرّ لا يزول."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "وَمَآءٖ مَّسۡكُوبٖ",
+            "explanation": "Près d’eux coulera une eau perpétuelle.",
+            "arabic_explanation": "وماء جار لا يتوقف."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+            "explanation": "Il y aura aussi des fruits abondants aux variétés interminables.",
+            "arabic_explanation": "وفاكهة كثيرة لا تنحصر."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+            "explanation": "Ces fruits seront disponibles à tout moment et n’obéiront à aucune règle de saison. Rien ne pourra donc empêcher ces gens de la droite de se servir en fruits.",
+            "arabic_explanation": "لا تنقطع عنهم أبدًا، فليس لها موسم، ولا يحول دونها مانع في أي وقت أرادوها."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+            "explanation": "Ils seront sur des literies surélevées et déposées sur des lits.",
+            "arabic_explanation": "وفرش مرفوعة عالية توضع على الأسرّة."
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+            "explanation": "Nous avons créé les houris mentionnées d’une manière extraordinaire.",
+            "arabic_explanation": "إنا أنشأنا الحور المذكورات إنشاءً غير مألوف."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+            "explanation": "Nous en avons fait des vierges que personne n’a touchées auparavant.",
+            "arabic_explanation": "فصيّرناهنّ أبكارًا لم يُلْمَسن من قبل."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "عُرُبًا أَتۡرَابٗا",
+            "explanation": "Elles sont douces avec leurs époux et toutes du même âge.",
+            "arabic_explanation": "مُتَحَبِّبات إلى أزواجهنّ، مستويات في السنّ."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+            "explanation": "Nous les avons créées pour les gens de la droite comme signe de leur félicité.",
+            "arabic_explanation": "أنشأناهنّ لأصحاب اليمين الذين يؤخذ بهم ذات اليمين علامة على سعادتهم."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+            "explanation": "Ces gens de la droite sont formés pour une part, de gens appartenant aux communautés des prophètes précédents.",
+            "arabic_explanation": "هم جماعة من أمم الأنبياء السابقين."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+            "explanation": "Et pour une autre part, de gens appartenant à la communauté de Muħammad qui est la dernière communauté.",
+            "arabic_explanation": "وجماعة من أمة محمد صلى الله عليه وسلم وهي آخر الأمم."
+        },
+        {
+            "verse_number": 41,
+            "verse_text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+            "explanation": "Les gens de la gauche, qui sont-ils et quels sont leur situation et leur sort?",
+            "arabic_explanation": "وأصحاب الشمال - الذين يعطون كتبهم بشمالهم - ما أسوأ حالهم ومصيرهم!"
+        },
+        {
+            "verse_number": 42,
+            "verse_text": "فِي سَمُومٖ وَحَمِيمٖ",
+            "explanation": "Ils seront au milieu d’un vent brûlant et d’une eau bouillonnante.",
+            "arabic_explanation": "في رياح شديدة الحرارة، وفي ماء شديد الحرارة."
+        },
+        {
+            "verse_number": 43,
+            "verse_text": "وَظِلّٖ مِّن يَحۡمُومٖ",
+            "explanation": "Ils seront sous une ombre faite de fumée noire.",
+            "arabic_explanation": "وفي ظل دخان مُسْودّ."
+        },
+        {
+            "verse_number": 44,
+            "verse_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+            "explanation": "Une fumée malodorante et hideuse.",
+            "arabic_explanation": "لا طيّب الهبوب، ولا حسن المنظر."
+        },
+        {
+            "verse_number": 45,
+            "verse_text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+            "explanation": "Avant d’être châtiés, ils étaient dans l’aisance dans le bas monde et n’avaient d’autres préoccupations que leurs plaisirs.",
+            "arabic_explanation": "إنهم كانوا قبل ما صاروا إليه من العذاب مُتَنَعِّمين في الدنيا، لا هَمَّ لهم إلا شهواتهم."
+        },
+        {
+            "verse_number": 46,
+            "verse_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+            "explanation": "Ils persistaient à mécroire en Allah et à adorer des idoles en dehors de Lui.",
+            "arabic_explanation": "وكانوا يصممون على الكفر بالله وعبادة الأصنام من دونه."
+        },
+        {
+            "verse_number": 47,
+            "verse_text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+            "explanation": "Ils niaient que la Ressuscitation aura lieu et en excluaient la possibilité, disant sur le ton de la raillerie: Après que nous soyons morts et que nous devenions poussière et ossements poreux, nous serons ressuscités?",
+            "arabic_explanation": "وكانوا ينكرون البعث فيقولون استهزاءً واستبعادًا له: أإذا متنا وصرنا ترابًا وعظامًا نَخِرة أنبعث بعد ذلك؟!"
+        },
+        {
+            "verse_number": 48,
+            "verse_text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+            "explanation": "Nos anciens ancêtres, qui sont morts il y a bien longtemps, seront-ils également ressuscités?",
+            "arabic_explanation": "أَوَ يبعث آباؤنا الأولون الذين ماتوا قبلنا؟!"
+        },
+        {
+            "verse_number": 49,
+            "verse_text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+            "explanation": "Ô Messager, dis à ces gens qui traitent la Ressuscitation de mensonge: Les premières générations comme les dernières",
+            "arabic_explanation": "قل - أيها الرسول - لهؤلاء المنكرين للبعث: إن الأولين من الناس والمتأخرين منهم."
+        },
+        {
+            "verse_number": 50,
+            "verse_text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+            "explanation": "seront sans aucun doute rassemblées le Jour de la Résurrection afin de rendre des comptes et d’être rétribuées.",
+            "arabic_explanation": "سيُجْمعون يوم القيامة لا محالة للحساب والجزاء."
+        },
+        {
+            "verse_number": 51,
+            "verse_text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+            "explanation": "Ô vous qui traitez la Ressuscitation de mensonge et qui vous vous êtes égarés du droit chemin.",
+            "arabic_explanation": "51 - 52 - ثم إنكم - أيها المكذبون بالبعث، الضالون عن الصراط المستقيم - لآكلون يوم القيامة من ثمرِ شجرِ الزَّقُّوم، وهو شرّ ثمر وأخبثه."
+        },
+        {
+            "verse_number": 52,
+            "verse_text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+            "explanation": "Le Jour de la Résurrection, vous mangerez des fruits de l’arbre dénommé Az-Zaqqûm, les pires et les plus nauséabonds des fruits",
+            "arabic_explanation": "51 - 52 - ثم إنكم - أيها المكذبون بالبعث، الضالون عن الصراط المستقيم - لآكلون يوم القيامة من ثمرِ شجرِ الزَّقُّوم، وهو شرّ ثمر وأخبثه."
+        },
+        {
+            "verse_number": 53,
+            "verse_text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+            "explanation": "Vous remplirez vos ventres vides de ces fruits.",
+            "arabic_explanation": "فمالئون من ذلك الشجر المُرِّ بطونكم الخاوية."
+        },
+        {
+            "verse_number": 54,
+            "verse_text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+            "explanation": "Puis vous boirez par-dessus de l’eau bouillante.",
+            "arabic_explanation": "فشاربون عليه من الماء الحار الشديد الحرارة."
+        },
+        {
+            "verse_number": 55,
+            "verse_text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+            "explanation": "Vous en boirez autant que ce que boivent les dromadaires assoiffés.",
+            "arabic_explanation": "فمكثرون من شربه كما تكثر الإبل من الشرب بسبب داء الهُيَام."
+        },
+        {
+            "verse_number": 56,
+            "verse_text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+            "explanation": "C’est avec cette nourriture amère et cette boisson bouillante qu’ils seront accueillis le Jour de la Rétribution.",
+            "arabic_explanation": "هذا المذكور من الطعام المرّ والماء الحارّ هو ضيافتهم التي يُسْتَقبلون بها يوم الجزاء."
+        },
+        {
+            "verse_number": 57,
+            "verse_text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+            "explanation": "Ô dénégateurs, c’est Nous qui vous avons créés à partir de rien. Ne croirez-vous donc pas que Nous vous ressusciterons et vous ferons revivre après votre mort.",
+            "arabic_explanation": "نحن خلقناكم - أيها المكذبون - بعد أن كنتم عدمًا، فهلَّا صدَّقتم بأنا سنبعثكم أحياء بعد موتكم؟!"
+        },
+        {
+            "verse_number": 58,
+            "verse_text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+            "explanation": "Ô gens, voyez-vous le sperme que vous éjaculez dans les utérus de vos épouses?",
+            "arabic_explanation": "أفرأيتم - أيها الناس - ما تقذفونه من المني في أرحام نسائكم؟!"
+        },
+        {
+            "verse_number": 59,
+            "verse_text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+            "explanation": "Est-ce vous qui le créez ou bien Nous?",
+            "arabic_explanation": "أأنتم تخلقون ذلك المني، أم نحن الذين نخلقه؟!"
+        },
+        {
+            "verse_number": 60,
+            "verse_text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+            "explanation": "Nous avons décrété que tous mourrez. Ainsi, chacun de vous vivra un temps déterminé qui ne sera ni allongé ni raccourci, et rien ne Nous empêchera",
+            "arabic_explanation": "نحن قدرنا بينكم الموت، فلكل واحد منكم أجل لا يتقدم عليه ولا يتأخر، وما نحن بعاجزين."
+        },
+        {
+            "verse_number": 61,
+            "verse_text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+            "explanation": "de changer votre création et votre apparence que vous connaissez pour vous créer et vous donner une apparence que vous ne connaissez pas.",
+            "arabic_explanation": "على أن نبدل ما أنتم عليه من الخلق والتصوير مما علمتموه، وننشئكم فيما لا تعلمونه من الخلق والتصوير."
+        },
+        {
+            "verse_number": 62,
+            "verse_text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+            "explanation": "Vous savez comment Nous vous avons créés la première fois. N’en tirez-vous aucun enseignement et ne comprenez-vous pas que Celui qui vous a créés la première fois, a le pouvoir de vous ressusciter après votre mort?",
+            "arabic_explanation": "ولقد علمتم كيف خلقناكم الخلق الأول، أفلا تعتبرون وتعلمون أن الذي خلقكم أول مرة قادر على بعثكم بعد موتكم؟!"
+        },
+        {
+            "verse_number": 63,
+            "verse_text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+            "explanation": "Voyez-vous les graines que vous semez?",
+            "arabic_explanation": "أفرأيتم ما تلقونه من البذر في الأرض؟!"
+        },
+        {
+            "verse_number": 64,
+            "verse_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+            "explanation": "Est-ce vous qui faites germer ces graines ou est-ce Nous?",
+            "arabic_explanation": "أأنتم الذين تنبتون ذلك البذر، أم نحن الذين ننبته؟!"
+        },
+        {
+            "verse_number": 65,
+            "verse_text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+            "explanation": "Si Nous voulions réduire en débris les cultures qui en sortent lorsqu’elles sont sur le point de murir, vous ne cesseriez de vous étonner de cela.",
+            "arabic_explanation": "لو نشاء جعْل ذلك الزرع حطامًا لجعلناه حطامًا بعد أن أوشك على النضج والإدراك، فظللتم بعد ذلك تتعجبون مما أصابه."
+        },
+        {
+            "verse_number": 66,
+            "verse_text": "إِنَّا لَمُغۡرَمُونَ",
+            "explanation": "Vous diriez: Nous avons été punis par la perte de ce que nous avons dépensé.",
+            "arabic_explanation": "تقولون:إنا لمعذبون بخسارة ما أنفقناه."
+        },
+        {
+            "verse_number": 67,
+            "verse_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+            "explanation": "Ou plutôt, nous avons été privés de subsistance.",
+            "arabic_explanation": "بل نحن محرومون من الرزق."
+        },
+        {
+            "verse_number": 68,
+            "verse_text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+            "explanation": "Voyez-vous l’eau que vous buvez lorsque vous avez soif?",
+            "arabic_explanation": "أفرأيتم الماء الذي تشربون منه إذا عطشتم؟!"
+        },
+        {
+            "verse_number": 69,
+            "verse_text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+            "explanation": "Est-ce vous qui la faites descendre des nuages du Ciel ou est-ce Nous?",
+            "arabic_explanation": "أأنتم أنزلتموه من السحاب في السماء، أم نحن الذين أنزلناه؟!"
+        },
+        {
+            "verse_number": 70,
+            "verse_text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+            "explanation": "Si Nous voulions que cette eau soit très salée et inutilisable, ni à la boisson ni à l’irrigation, Nous l’aurions fait. Pourquoi n’êtes-vous pas reconnaissants envers Allah pour avoir, par miséricorde, fait descendre cette eau douce?",
+            "arabic_explanation": "لو نشاء جعْل ذلك الماء شديد الملوحة لا يُنْتَفع به شربًا ولا سقيًا لجعلناه شديد الملوحة، فلولا تشكرون الله على إنزاله عَذْبًا رحمة بكم."
+        },
+        {
+            "verse_number": 71,
+            "verse_text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+            "explanation": "Voyez-vous le feu que vous allumez pour vos besoins?",
+            "arabic_explanation": "أفرأيتم النار التي توقدونها لمنافعكم؟!"
+        },
+        {
+            "verse_number": 72,
+            "verse_text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+            "explanation": "Est-ce vous qui avez créé l’arbre qui lui sert de combustible ou est-ce Nous qui l’avons créé par mansuétude envers vous?",
+            "arabic_explanation": "أأنتم الذين أنشأتم الشجرة التي توقَد منها، أم نحن الذين أنشأناها رفقًا بكم؟!"
+        },
+        {
+            "verse_number": 73,
+            "verse_text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+            "explanation": "C’est Nous qui avons fait que ce feu vous rappelle l’Enfer et qu’il soit utile à ceux qui voyagent.",
+            "arabic_explanation": "نحن صيّرنا هذه النار تذكرة لكم تذكركم بنار الآخرة، وصيّرناها منفعة للمسافرين منكم."
+        },
+        {
+            "verse_number": 74,
+            "verse_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+            "explanation": "Ô Messager, nie ce qui ne sied pas à ton Eminent Seigneur.",
+            "arabic_explanation": "فنزِّه - أيها الرسول - ربك العظيم عما لا يليق به."
+        },
+        {
+            "verse_number": 75,
+            "verse_text": "۞ فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+            "explanation": "Allah prête serment par les lieux et les positions des étoiles.",
+            "arabic_explanation": "أقسم الله بأماكن النجوم ومواقعها."
+        },
+        {
+            "verse_number": 76,
+            "verse_text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+            "explanation": "Or prêter serment par ces lieux et ces positions est sérieux, si vous connaissiez leur éminence et l'infinité des signes qu’ils contiennent.",
+            "arabic_explanation": "وإن القَسَم بهذه المواقع - لو تعلمون عظمه - لعظيم؛ لما فيه من الآيات والعبر التي لا تنحصر."
+        },
+        {
+            "verse_number": 77,
+            "verse_text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+            "explanation": "Ô gens, le Coran qui vous est récité est noble, en raison des avantages éminents qui s’y trouvent.",
+            "arabic_explanation": "إن القرآن المقروء عليكم - أيها الناس - قرآن كريم؛ لما فيه من المنافع العظيمة."
+        },
+        {
+            "verse_number": 78,
+            "verse_text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+            "explanation": "Il est dans un Livre à l'abri des regards des gens et dans la Table Préservée.",
+            "arabic_explanation": "في كتاب مَصُون عن أعين الناس، وهو اللوح المحفوظ."
+        },
+        {
+            "verse_number": 79,
+            "verse_text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+            "explanation": "Seuls les anges purifiés de péchés et de défauts, le touchent.",
+            "arabic_explanation": "لا يمسّه إلا الملائكة المطهَّرون من الذنوب والعيوب."
+        },
+        {
+            "verse_number": 80,
+            "verse_text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+            "explanation": "Le Coran a été révélé par le Seigneur des créatures à Son Prophète Muħammad.",
+            "arabic_explanation": "مُنَزَّل من رب الخلائق على نبيه محمد صلى الله عليه وسلم."
+        },
+        {
+            "verse_number": 81,
+            "verse_text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+            "explanation": "Ô polythéistes, traitez-vous ces paroles de mensonge?",
+            "arabic_explanation": "أفبهذا الحديث أنتم - أيها المشركون - مكذبون غير مصدقين؟!"
+        },
+        {
+            "verse_number": 82,
+            "verse_text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+            "explanation": "Exprimez-vous votre reconnaissance à Allah pour vous avoir pourvus en bienfaits en proférant des mensonges sur Lui, attribuant la pluie à l’influence (`an-naw`u) d’une étoile lorsqu’ils disent « C’est l’influence de telle étoile qui nous a amené la pluie ».",
+            "arabic_explanation": "وتجعلون شكركم لله على ما رزقكم به من النعم أنكم تكذبون به، فتنسبون المطر إلى النَّوْء، فتقولون: مُطِرنا بنَوْء كذا ونَوْء كذا؟!"
+        },
+        {
+            "verse_number": 83,
+            "verse_text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+            "explanation": "Lorsque l’esprit remontera à la gorge",
+            "arabic_explanation": "فهلَّا إذا وصلت الروح الحلقوم."
+        },
+        {
+            "verse_number": 84,
+            "verse_text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+            "explanation": "qu’au même moment vous regardez la personne qui agonise devant vous,",
+            "arabic_explanation": "وأنتم في ذلك الوقت تنظرون المُحْتَضَر بين أيديكم."
+        },
+        {
+            "verse_number": 85,
+            "verse_text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+            "explanation": "Nous, par Notre connaissance, Notre pouvoir et Nos anges, sommes plus proches que vous de votre mort. Seulement, vous ne pouvez voir ces anges.",
+            "arabic_explanation": "و نحن بعلمنا وقدرتنا وملائكتنا أقرب إلى ميتكم منكم، ولكن لا تشاهدون هؤلاء الملائكة."
+        },
+        {
+            "verse_number": 86,
+            "verse_text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+            "explanation": "Si, comme vous le prétendez, vous ne serez pas ressuscités pour rendre compte de vos œuvres,",
+            "arabic_explanation": "فهلَّا - إن كنتم، كما تزعمون، غير مبعوثين لمجازاتكم على أعمالكم -"
+        },
+        {
+            "verse_number": 87,
+            "verse_text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+            "explanation": "pourquoi ne faites-vous pas revenir l’âme de votre mort si vous êtes véridiques? Or vous n’en avez pas le pouvoir.",
+            "arabic_explanation": "ترجعون هذه الروح التي تخرج من ميتكم إن كنتم صادقين؟! ولا تستطيعون ذلك."
+        },
+        {
+            "verse_number": 88,
+            "verse_text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+            "explanation": "Si ledit mort figure parmi ceux qui devancent les autres dans le bien,",
+            "arabic_explanation": "فأما إن كان الميت من السابقين إلى الخيرات."
+        },
+        {
+            "verse_number": 89,
+            "verse_text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+            "explanation": "il connaîtra une tranquillité jamais suivie de peine, une subsistance agréable, une miséricorde ainsi qu’un Jardin où il jouit de tout ce que son âme désire.",
+            "arabic_explanation": "فله راحة لا تعب بعدها، ورزق طيب، ورحمة، وله جنة يتنعم فيها بما تشتهيه نفسه."
+        },
+        {
+            "verse_number": 90,
+            "verse_text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+            "explanation": "Et si ledit mort est du nombre des gens de la droite,ne te soucies pas de son sort car il sera sain et sauf.",
+            "arabic_explanation": "90 - 91 - وأما إن كان الميت من أصحاب اليمين فلا تهتمّ لشأنهم، فلهم السلامة والأمن."
+        },
+        {
+            "verse_number": 91,
+            "verse_text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+            "explanation": "Et si ledit mort est du nombre des gens de la droite,ne te soucies pas de son sort car il sera sain et sauf.",
+            "arabic_explanation": "90 - 91 - وأما إن كان الميت من أصحاب اليمين فلا تهتمّ لشأنهم، فلهم السلامة والأمن."
+        },
+        {
+            "verse_number": 92,
+            "verse_text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+            "explanation": "Mais s’il est du nombre de ceux qui traitaient de mensonge ce que le Messager a apporté, de ceux qui s’étaient égarés du droit chemin,",
+            "arabic_explanation": "وأما إن كان الميت من المكذبين بما جاء به الرسول صلى الله عليه وسلم الضالين عن الصراط المستقيم."
+        },
+        {
+            "verse_number": 93,
+            "verse_text": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+            "explanation": "il sera accueilli par une eau bouillante qu’on lui servira",
+            "arabic_explanation": "فضيافته التي يستقبل بها ماء حارٌّ شديد الحرارة."
+        },
+        {
+            "verse_number": 94,
+            "verse_text": "وَتَصۡلِيَةُ جَحِيمٍ",
+            "explanation": "et il se consumera dans le Feu de l’Enfer.",
+            "arabic_explanation": "وله احتراق بنار الجحيم."
+        },
+        {
+            "verse_number": 95,
+            "verse_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+            "explanation": "Ô Messager, ce que Nous te narrons là est la vérité certaine et indubitable.",
+            "arabic_explanation": "إن هذا الذي قصصناه عليك - أيها الرسول - لهو حق اليقين الذي لا مِرْية فيه."
+        },
+        {
+            "verse_number": 96,
+            "verse_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+            "explanation": "Sanctifie donc le Nom de ton Eminent Seigneur et exclus toute déficience Le concernant.",
+            "arabic_explanation": "فنزِّه اسم ربك العظيم، وقدِّسْه عن النقائص."
+        }
+    ]
+}

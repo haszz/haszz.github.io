@@ -1,0 +1,456 @@
+{
+    "surah_name": "AL-ANFÂL",
+    "surah_number": 8,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
+            "explanation": "Ô Messager, tes Compagnons te demandent comment tu répartis le butin et au profit de qui reviennent ses parts?  Ô Messager, réponds-leur: Le butin appartient à Allah et à Son Messager et c’est à eux qu’il revient de décider comment en disposer et comment le partager. Vous n’êtes donc tenus que d’obéir et de vous soumettre. Craignez donc Allah, ô croyants, en vous conformant à Ses commandements et en délaissant Ses interdits. Rétablissez les liens qui se sont rompus entre vous en faisant preuve de bonne entente, d’amitié, d’un bon comportement et en pardonnant. Obéissez à Allah et à Son Messager si vous êtes véritablement croyants, puisque la foi exhorte à obéir et à ne pas désobéir. Cette question sur la répartition du butin fut posée par les Compagnons suite à la Bataille de Badr.",
+            "arabic_explanation": "يسألك أصحابك -أيها الرسول- عن الغنائم، كيف قِسْمَتُها؟ وعلى من تكون القسمة؟ قل - أيها الرسول - مجيبًا سؤالهم: الغنائم لله ورسوله، وحكمها لله ولرسوله في التصَرُّف والتوزيع، فما عليكم إلا الانقياد والاستسلام، فاتقوا الله - أيها المؤمنون - بامتثال أوامره واجتناب نواهيه، وأصلحوا ما بينكم من التقاطع والتدابر بالتواد والتواصل وحسن الخلق والعفو، والْزَمُوا طاعة الله وطاعة رسوله إن كنتم مؤمنين حقًّا؛ لأن الإيمان يبعث على الطاعة والبعد عن المعصية. وكان هذا السؤال بعد وقعة بدر."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَإِذَا تُلِيَتۡ عَلَيۡهِمۡ ءَايَٰتُهُۥ زَادَتۡهُمۡ إِيمَٰنٗا وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+            "explanation": "Les véritables croyants sont ceux qui, lorsque leur sont récités les versets d’Allah, méditent sur leur sens et voient leur foi augmenter. Ils ne s’en remettent qu’à leur Seigneur quand ils désirent obtenir quelques avantages et éloigner les préjudices.",
+            "arabic_explanation": "إنما المؤمنون حقًّا الذين إذا ذكر الله سبحانه وتعالى خافت قلوبهم؛ فانساقت قلوبهم وأبدانهم للطاعة، وإذا قُرِئَتْ عليهم آيات الله تدبروها فازدادوا إيمانًا إلى إيمانهم، وعلى ربهم وحده يعتمدون في جَلْب مصالحهم ودَفْع مفاسدهم."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+            "explanation": "Ils sont assidus dans leurs prières, qu’ils accomplissent de manière complète et à l’heure, et prélèvent de ce dont Nous les avons pourvus les dépenses obligatoires et recommandées.",
+            "arabic_explanation": "الذين يداومون على أداء الصلاة بصفتها التامة في أوقاتها، ومما رزقناهم يخرجون النفقات الواجبة والمستحبة."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُمۡ دَرَجَٰتٌ عِندَ رَبِّهِمۡ وَمَغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+            "explanation": "Ceux qui possèdent ces caractéristiques sont les véritables croyants puisqu’ils combinent les qualités apparentes de la foi et de l’Islam. Ils auront pour rétribution des degrés élevés auprès de leur Seigneur, un pardon de leurs péchés et les délices que leur réserve Allah.",
+            "arabic_explanation": "أولئك المتصفون بتلك الصفات هم المؤمنون حقًّا؛ لجمعهم بين خصال الإيمان والإسلام الظاهرة، وجزاؤهم منازل عالية عند ربهم، ومغفرة لذنوبهم ورزق كريم، وهو ما أعده الله لهم من النعيم."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "كَمَآ أَخۡرَجَكَ رَبُّكَ مِنۢ بَيۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِيقٗا مِّنَ ٱلۡمُؤۡمِنِينَ لَكَٰرِهُونَ",
+            "explanation": "De la même façon qu’Allah ne vous a pas chargés de partager le butin entre vous après que vous vous soyez querellés à ce sujet et qu’il en ait fait une prérogative incombant à Allah et à Son Messager, ton Seigneur t’ordonna ô Messager, par le biais de la Révélation de sortir de Médine afin d’aller à la rencontre des polythéistes, malgré la répulsion qu’exprimait un groupe de croyants qui ne voulaient pas sortir.",
+            "arabic_explanation": "كما أن الله سبحانه وتعالى انتزع منكم قسمة الغنائم بعد اختلافكم في قسمتها وتنازعكم فيها، وجعلها إليه وإلى رسوله صلى الله عليه وسلم، كذلك أَمَرَكَ ربك - أيها الرسول - بالخروج من المدينة للقاء المشركين بوحي أنزله عليك، مع كراهة طائفة من المؤمنين لذلك."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "يُجَٰدِلُونَكَ فِي ٱلۡحَقِّ بَعۡدَ مَا تَبَيَّنَ كَأَنَّمَا يُسَاقُونَ إِلَى ٱلۡمَوۡتِ وَهُمۡ يَنظُرُونَ",
+            "explanation": "Ô Messager, ce groupe de croyants négocient avec toi afin de ne pas combattre les polythéistes dès qu’ils ont compris que ce combat aura bien lieu. C’est comme si on les conduisait à la mort et qu’ils la voyaient de leurs propres yeux, tellement la répulsion qu’ils avaient de sortir combattre était intense. Ils ne s’étaient pas préparés au combat et n’avaient pas fait les préparatifs nécessaires.",
+            "arabic_explanation": "تُجَادِلُكَ - أيها الرسول - هذه الطائفة من المؤمنين في قتال المشركين بعدما اتضح لهم أنه واقع، كأنما يُسَاقون إلى الموت وهم ينظرون إليه عيانًا، وذلك لشدة كراهتهم للخروج للقتال؛ لأنهم لم يأخذوا له أهبته، ولم يعدوا له عدته."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "وَإِذۡ يَعِدُكُمُ ٱللَّهُ إِحۡدَى ٱلطَّآئِفَتَيۡنِ أَنَّهَا لَكُمۡ وَتَوَدُّونَ أَنَّ غَيۡرَ ذَاتِ ٱلشَّوۡكَةِ تَكُونُ لَكُمۡ وَيُرِيدُ ٱللَّهُ أَن يُحِقَّ ٱلۡحَقَّ بِكَلِمَٰتِهِۦ وَيَقۡطَعَ دَابِرَ ٱلۡكَٰفِرِينَ",
+            "explanation": "Ô vous les croyants qui tentez de négocier avec le Prophète, rappelez-vous lorsqu’Allah vous promit la victoire contre l’un des deux groupes de polythéistes: soit la caravane, dont vous convoitiez les richesses qu’elle transportait et que vous espériez vous les partager comme butin, soit le combat par les armes duquel vous sortiriez victorieux. Vous désiriez plutôt vous emparer de la caravane en raison de la facilité qu’offrait cette victoire, que vous pouviez remporter sans coup férir. Mais Allah désire faire triompher la vérité et vous ordonne de combattre afin que des puissants de Quraych soient tués et que soit capturé un grand nombre d’entre eux, et que la force de l’Islam se manifeste clairement.",
+            "arabic_explanation": "واذكروا - أيها المؤمنون المجادلون - إذ يعدكم الله أنه سيكون لكم الظفر بإحدى طائفتي المشركين، وهي إما العِير وما تحمله من أموال فتأخذونه غنيمة، وإما النفِير فتقاتلونهم وتُنْصَرُونَ عليهم، وتحبون أنتم أن تظفروا بالعِير لسهولة الاستيلاء عليها ويُسْرِه دون قتال، ويريد الله أن يحق الحق بأمركم بالقتال؛ لتقتلوا صناديد المشركين، وتأسروا كثيرًا منهم حتى تظهر قوة الإسلام."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "لِيُحِقَّ ٱلۡحَقَّ وَيُبۡطِلَ ٱلۡبَٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ",
+            "explanation": "Ceci, afin qu’Allah fasse triompher la vérité et accorde la victoire à l’Islam et à ses adeptes. Cette victoire prouvera la véracité de cette religion, invalidera le faux et prouvera sa fausseté. Même si les polythéistes détestent cela, Allah le mettra bel et bien en évidence.",
+            "arabic_explanation": "ليحق الله الحق بإظهار الإسلام وأهله، وذلك بما يظهره من الشواهد على صدقه، وليبطل سبحانه الباطل بما يظهر من البراهين على بطلانه، ولو كره المشركون ذلك، فالله مُظْهِره."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "إِذۡ تَسۡتَغِيثُونَ رَبَّكُمۡ فَٱسۡتَجَابَ لَكُمۡ أَنِّي مُمِدُّكُم بِأَلۡفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُرۡدِفِينَ",
+            "explanation": "Rappelez-vous le jour de la Bataille de Badr lorsque vous avez imploré le secours d’Allah contre votre ennemi.\nIl vous exauça en disant: Ô croyants, je vous aiderai en vous envoyant un renfort de mille anges se relayant les uns à la suite des autres.",
+            "arabic_explanation": "واذكروا يوم بدر حين طلبتم الغوث من الله بالنصر على عدوكم، فاستجاب الله لكم بأنه ممدكم - أيها المؤمنون - ومعينكم بألف من الملائكة، متتابعين يتبع بعضهم بعضًا."
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "وَمَا جَعَلَهُ ٱللَّهُ إِلَّا بُشۡرَىٰ وَلِتَطۡمَئِنَّ بِهِۦ قُلُوبُكُمۡۚ وَمَا ٱلنَّصۡرُ إِلَّا مِنۡ عِندِ ٱللَّهِۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+            "explanation": "Allah ne fit de ce renfort d’anges qu’une annonce réjouissante pour vous, ô croyants, afin que vous ayez le dessus sur votre ennemi. Ce renfort visait aussi à apaiser vos cœurs persuadés de triompher. En effet, la victoire n’est jamais due au nombre et à l’équipement mais au secours d’Allah. Allah est certes Tout Puissant dans Son Royaume, personne ne Lui tient tête. Il est Sage dans ce qu’Il prescrit et dans ce qu’Il prédestine.",
+            "arabic_explanation": "وما جعل الله الإمداد بالملائكة إلا بشارة لكم - أيها المؤمنون - بأنه ناصركم على عدوكم، ولتسكن قلوبكم موقنة بالنصر، وليس النصر بكثرة العَدَدِ، وتوافر العُدَدِ، وإنما النصر من عند الله سبحانه، إن الله عزيز في ملكه، لا يغالبه أحد، حكيم في شرعه وقَدَرِهِ."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "إِذۡ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةٗ مِّنۡهُ وَيُنَزِّلُ عَلَيۡكُم مِّنَ ٱلسَّمَآءِ مَآءٗ لِّيُطَهِّرَكُم بِهِۦ وَيُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّيۡطَٰنِ وَلِيَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَيُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ",
+            "explanation": "Ô croyants, rappelez-vous lorsqu’Allah fit en sorte que vous vous assoupissiez afin que vous vous sentiez en sécurité et ne ressentiez plus la peur que vous inspirait votre ennemi. Il fit descendre sur vous une pluie du Ciel afin de vous purifier de vos souillures, de vous défaire des insufflations de Satan, de raffermir vos cœurs et vos corps lorsque vous avez rencontré l’ennemi. Il a également raffermi vos pas en durcissant le sol sablonneux pour que vos pieds ne s’y enfoncent pas.",
+            "arabic_explanation": "اذكروا - أيها المؤمنون - إذ يُلْقِي الله النعاس عليكم أمنًا مما حصل لكم من الخوف من عدوكم، وينزل عليكم مطرًا من السماء؛ ليطهركم من الأحداث، وليزيل عنكم وساوس الشيطان، وليثبِّت به قلوبكم لتثبت أبدانكم عند اللقاء، وليثبِّت به الأقدام بتلْبِيد الأرض الرملية حتى لا تسيخ فيها الأقدام."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "إِذۡ يُوحِي رَبُّكَ إِلَى ٱلۡمَلَٰٓئِكَةِ أَنِّي مَعَكُمۡ فَثَبِّتُواْ ٱلَّذِينَ ءَامَنُواْۚ سَأُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ فَٱضۡرِبُواْ فَوۡقَ ٱلۡأَعۡنَاقِ وَٱضۡرِبُواْ مِنۡهُمۡ كُلَّ بَنَانٖ",
+            "explanation": "Lorsque ton Seigneur, ô Prophète, révéla ce qui suit aux anges qu’Il envoya en renfort aux croyants à Badr: Ô anges, Je suis avec vous, Je vous secourrai et vous soutiendrai. Renforcez donc la détermination des croyants à combattre leur ennemi. Je susciterai également une terreur terrible dans les cœurs de ceux qui mécroient. Ô croyants, frappez donc de vos sabres le cou des mécréants pour les tuer et frappez leurs articulations ainsi que leurs membres afin qu’ils ne puissent plus vous combattre.",
+            "arabic_explanation": "إذ يوحي ربك - أيها النبي - إلى الملائكة الذين أمد الله بهم المؤمنين في بدر: أني معكم - أيها الملائكة - بالنصر والتأييد، فَقَوُّوا عزائم المؤمنين على قتال عدوهم، سألقي في قلوب الذين كفروا الخوف الشديد؛ فاضربوا - أيها المؤمنون - أعناق الكافرين ليموتوا، واضربوا مفاصلهم وأطرافهم ليتعطلوا عن قتالكم."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۚ وَمَن يُشَاقِقِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+            "explanation": "Cette tuerie et ces mutilations que subissent les mécréants ne sont dus qu’à l’opposition qu’ils ont manifestée à Allah et à Son Messager. Ils ne se sont pas conformés à Leurs commandements ni n’ont délaissé Leurs interdits. Quiconque s’oppose à Allah et à Son Messager en ne leur obéissant pas, trouvera Allah terrible en châtiment dans ce bas monde. La mort et la captivité seront leur devenir, et dans l’au-delà ils seront châtiés par le Feu.",
+            "arabic_explanation": "ذلك الواقع بالكفار من القتل وضرب الأطراف سببه أنهم خالفوا الله ورسوله، فلم يأتمروا بما أمروا به، ولم ينتهوا عما نهوا عنه، ومن يخالف الله ورسوله في ذلك فإن الله شديد العقاب له في الدنيا بالقتل والأسر، وفي الآخرة بالنار."
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "ذَٰلِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَٰفِرِينَ عَذَابَ ٱلنَّارِ",
+            "explanation": "Ô opposants à Allah et à Son Messager, goûtez au châtiment qui vous a d’ores et déjà été annoncé dans ce bas monde et vous subirez le châtiment du Feu dans l’au-delà si vous mourrez fidèles à votre mécréance et ne renoncez pas à votre entêtement.",
+            "arabic_explanation": "ذلكم العذاب المذكور لكم - أيها المخالفون لله ورسوله - فذوقوه مُعَجَّلًا لكم في الحياة الدنيا، وفي الآخرة لكم عذاب النار إن متم على كفركم وعنادكم."
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمُ ٱلَّذِينَ كَفَرُواْ زَحۡفٗا فَلَا تُوَلُّوهُمُ ٱلۡأَدۡبَارَ",
+            "explanation": "Ô vous qui croyez en Allah et suivez Son Messager, lorsque vous affrontez les polythéistes en combat rapproché, ne les fuyez pas en leur tournant le dos, mais restez plutôt fermes face à eux et endurez patiemment cet affrontement car Allah vous secourt et vous soutient.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، إذا قابلتم المشركين في القتال متقاربين فلا تنهزموا عنهم، وتولوهم ظهوركم هاربين، ولكن اثبتوا في وجوههم، واصبروا على لقائهم، فالله معكم بنصره وتأييده."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "وَمَن يُوَلِّهِمۡ يَوۡمَئِذٖ دُبُرَهُۥٓ إِلَّا مُتَحَرِّفٗا لِّقِتَالٍ أَوۡ مُتَحَيِّزًا إِلَىٰ فِئَةٖ فَقَدۡ بَآءَ بِغَضَبٖ مِّنَ ٱللَّهِ وَمَأۡوَىٰهُ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+            "explanation": "Quiconque leur tourne le dos et les fuit méritera et récoltera la colère d’Allah, à moins que cette fuite soit un repli tactique qui a pour but de les surprendre en les réattaquant ou pour rallier un autre groupe de croyants. La demeure de celui qui fuit, sera l’Enfer dans l’au-delà. Et que ce qu’il récoltera est exécrable !",
+            "arabic_explanation": "ومن يولهم ظهره فارًّا منهم غير منعطف لقتالهم بأن يريهم الفَرَّ مكيدة منه، وهو يريد الكَرَّ عليهم، أو غير مُنضم إلى جماعة من المسلمين حاضرة يستنجد بها؛ فقد رجع بغضب من الله، واستحقه، ومقامه في الآخرة جهنم، وبئس المصير مصيره، وبئس المُنْقَلب مُنْقَلبه."
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "فَلَمۡ تَقۡتُلُوهُمۡ وَلَٰكِنَّ ٱللَّهَ قَتَلَهُمۡۚ وَمَا رَمَيۡتَ إِذۡ رَمَيۡتَ وَلَٰكِنَّ ٱللَّهَ رَمَىٰ وَلِيُبۡلِيَ ٱلۡمُؤۡمِنِينَ مِنۡهُ بَلَآءً حَسَنًاۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+            "explanation": "Ô croyants, ce n’est pas votre force et votre puissance qui a fait que vous ayez tué vos ennemis lors de la Bataille de Badr mais c’est grâce à Allah que vous avez réussi à les tuer. Ô Prophète, ce n’est pas toi qui as atteint les polythéistes lorsque tu as lancé sur eux une poignée de terre, mais c’est Allah qui a fait que cette poignée de terre atteigne sa cible.( ) En donnant la victoire aux croyants sur leur ennemi malgré leur faible nombre et le peu d’équipement qu’ils avaient, Allah les éprouva afin de connaitre ceux qui Lui sont reconnaissants.  Allah écoute vos invocations et vos paroles. Il connaît vos œuvres et sait ce qui est dans votre intérêt.",
+            "arabic_explanation": "فلم تقتلوا - أيها المؤمنون - يوم بدر المشركين بحولكم وقوتكم، ولكن الله أعانكم على ذلك، وما رميت - أيها النبي - المشركين حين رميتهم، ولكن الله هو الذي رماهم حين أوصل رميتك إليهم، وليختبر المؤمنين بما أنعم عليهم من إظهارهم على عدوهم مع ما هم فيه من قلة العَدَدِ والعُدَدِ ليشكروه، إن الله سميع لدعائكم وأقوالكم، عليم بأعمالكم، وبما فيه صلاحكم."
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "ذَٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَيۡدِ ٱلۡكَٰفِرِينَ",
+            "explanation": "Ce revers infligé aux polythéistes et la poignée de terre lancée dans leur direction qui a participé à leur défaite et à leur fuite, ainsi que le bienfait accordé aux croyants en les faisant triompher de leurs ennemis, tout cela provient d’Allah et Allah rend inefficace le stratagème que les mécréants ourdissent contre l’Islam.",
+            "arabic_explanation": "ذلك المذكور من قتل المشركين، ورميهم حتى انهزموا وولَّوا هاربين، والإنعام على المؤمنين بإظهارهم على عدوهم؛ هو من الله، والله مُضْعِف كيد الكافرين الذين يكيدونه للإسلام."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡـٔٗا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ",
+            "explanation": "Ô polythéistes, vous qui demandiez qu’Allah abatte son châtiment et Sa colère sur les transgresseurs injustes, Allah a certes accédé à votre demande en vous infligeant une punition qui sera une leçon pour les pieux. Si vous cessez de formuler cette demande, cela est meilleur pour vous car il se peut qu’Il vous accorde un délai et ne hâte pas Sa vengeance contre vous. Si malgré tout vous la formulez de nouveau et reprenez le combat contre les croyants, Nous vous ferons de nouveau subir ce châtiment et Nous secourrons les croyants. Ni votre effectif ni vos alliés même nombreux et bien équipés, ne vous seront d’une quelconque utilité contre un faible nombre de croyants car Allah est avec eux, les secourt et les soutient. Or celui avec qui Allah est ne peut être vaincu.",
+            "arabic_explanation": "إن تطلبوا - أيها المشركون - أن يوقع الله عذابه وبأسه على الظالمين المعتدين فقد أوقع الله عليكم ما طلبتم، فأنزل بكم ما كان نكالًا لكم وعبرة للمتقين، وإن تكفوا عن طلب ذلك فهو خير لكم، فربما أمهلكم ولم يعجل انتقامه منكم، وإن تعودوا إلى طلبه وإلى قتال المؤمنين نَعُد بإيقاع العذاب عليكم وبنصر المؤمنين، ولن تغني عنكم جماعتكم ولا أنصاركم ولو كانت كثيرة العَدَدِ والعُدَدِ مع قلة المؤمنين، ولأن الله مع المؤمنين بالنصر والتأييد، ومن كان الله معه فلا غالب له."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَوَلَّوۡاْ عَنۡهُ وَأَنتُمۡ تَسۡمَعُونَ",
+            "explanation": "Ô vous qui croyez en Allah et suivez Son Messager, obéissez à Allah et obéissez à Son Messager en vous conformant à Ses commandements et en délaissant Ses interdits et ne vous détournez pas de lui en désobéissant à Ses ordres et en commettant Ses interdits, alors que vous sont récités les versets d’Allah et que vous les écoutez.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، أطيعوا الله وأطيعوا رسوله بامتثال أمره واجتناب نهيه، ولا تعرضوا عنه بمخالفة أمره وإتيان نهيه، وأنتم تسمعون آيات الله تُقرأ عليكم."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "وَلَا تَكُونُواْ كَٱلَّذِينَ قَالُواْ سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُونَ",
+            "explanation": "Ô croyants, ne soyez pas comme les hypocrites et les polythéistes qui, lorsqu’on leur récite les versets d’Allah, disent: Nos oreilles ont entendu ce qui nous a été récité du Coran. Seulement, ils n’écoutent pas pour méditer et en déduire des enseignements… Dommage, car cela rendrait cette écoute bénéfique pour eux.",
+            "arabic_explanation": "ولا تكونوا - أيها المؤمنون - مثل المنافقين والمشركين الذين إذا تُلِيت عليهم آيات الله قالوا: سمعنا بآذاننا ما يتلى علينا من القرآن، وهم لا يسمعون سماع تدبر واتعاظ؛ فينتفعوا بما سمعوه."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "۞ إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلصُّمُّ ٱلۡبُكۡمُ ٱلَّذِينَ لَا يَعۡقِلُونَ",
+            "explanation": "Pour Allah, les pires des créatures marchant sur la surface de la Terre sont les sourds qui n’écoutent pas de bonne foi la vérité, et les muets qui ne la disent pas. Ceux-là ne comprennent rien des commandements et interdits prescrit par Allah.",
+            "arabic_explanation": "إن شر من يَدِبّ على وجه الأرض من الخلق عند الله هم الصُّمُّ الذين لا يسمعون الحق سماع قَبول، البُكْم الذين لا ينطقون، فهم الذين لا يدركون عن الله أوامره ولا نواهيه."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "وَلَوۡ عَلِمَ ٱللَّهُ فِيهِمۡ خَيۡرٗا لَّأَسۡمَعَهُمۡۖ وَلَوۡ أَسۡمَعَهُمۡ لَتَوَلَّواْ وَّهُم مُّعۡرِضُونَ",
+            "explanation": "Si Allah avait reconnu en ces polythéistes dénégateurs quelque bien, Il leur aurait fait écouter le Coran de manière à ce que leur écoute soit bénéfique pour eux et aurait fait qu’ils comprennent les arguments et les preuves qu’il  contient. Seulement, Il ne reconnut aucun bien en eux. Et s’Il leur avait imposé et décrété qu’ils écoutent, leur entêtement les aurait empêchés de croire.",
+            "arabic_explanation": "ولو علم الله أن في هؤلاء المشركين المكذبين خيرًا لأسمعهم سماعًا ينتفعون به، ويتعقَّلون عنده الحجج والبراهين، ولكنه علم أنه لا خير فيهم، ولو أنه سبحانه أسمعهم - على سبيل الفرض والتقدير - لتولوا عن الإيمان عنادًا، وهم معرضون."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱسۡتَجِيبُواْ لِلَّهِ وَلِلرَّسُولِ إِذَا دَعَاكُمۡ لِمَا يُحۡيِيكُمۡۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَحُولُ بَيۡنَ ٱلۡمَرۡءِ وَقَلۡبِهِۦ وَأَنَّهُۥٓ إِلَيۡهِ تُحۡشَرُونَ",
+            "explanation": "Ô vous qui croyez en Allah et suivez Son Messager, répondez favorablement à Allah et à Son Messager lorsque celui-ci vous appelle à la vérité, en obéissant à ce qu’Allah et Son Messager ordonnent et en délaissant ce qu’Ils interdisent. Soyez convaincus qu’Allah a le pouvoir sur toute chose. Il a ainsi entre autres le pouvoir de s’interposer entre vous et la vérité que vous refusez, ne vous permettant alors pas de la suivre lorsque vous le voudrez. Empressez-vous donc d’y souscrire et soyez certains que c’est vers Allah Seul que vous serez rassemblés le Jour de la Résurrection et qu’Il vous rétribuera pour les œuvres que vous aurez accomplies dans ce bas monde.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، استجيبوا لله ولرسوله بالانقياد لما أمرا به والاجتناب لِمَا نهيا عنه، إذا دعاكم لِمَا فيه حياتكم من الحق، وأيقنوا أن الله قادر على كل شيء، فهو قادر أن يحول بينكم وبين الانقياد للحق إذا أردتموه بعد رفضكم له، فبادروا إليه، وأيقنوا أنكم إلى الله وحده تحشرون يوم القيامة، فيجازيكم على أعمالكم التي عملتموها في الدنيا."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "وَٱتَّقُواْ فِتۡنَةٗ لَّا تُصِيبَنَّ ٱلَّذِينَ ظَلَمُواْ مِنكُمۡ خَآصَّةٗۖ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+            "explanation": "Ô croyants, prenez garde à un châtiment qui ne s’abat pas seulement sur les désobéissants parmi vous mais sur tous sans distinction. Ceci aura lieu lorsque l’injustice sera maitre et qu’elle ne sera pas reformée. Soyez persuadés qu’Allah punit durement ceux qui lui désobéissent. Prenez donc garde à ne pas lui désobéir.",
+            "arabic_explanation": "واحذروا - أيها المؤمنون - عذابًا لا ينال العاصي منكم وحده، بل يناله وينال غيره، وذلك حين يظهر الظلم فلا يُغَيَّرُ، وأَيْقِنُوا أن الله قوي العقاب لمن عصاه؛ فاحذروا من معصيته."
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "وَٱذۡكُرُوٓاْ إِذۡ أَنتُمۡ قَلِيلٞ مُّسۡتَضۡعَفُونَ فِي ٱلۡأَرۡضِ تَخَافُونَ أَن يَتَخَطَّفَكُمُ ٱلنَّاسُ فَـَٔاوَىٰكُمۡ وَأَيَّدَكُم بِنَصۡرِهِۦ وَرَزَقَكُم مِّنَ ٱلطَّيِّبَٰتِ لَعَلَّكُمۡ تَشۡكُرُونَ",
+            "explanation": "Ô croyants, rappelez-vous lorsque vous étiez peu nombreux à la Mecque et que ses habitants vous persécutaient et vous dominaient. Vous redoutiez que vos ennemis ne vous saisissent soudainement mais Allah vous donna un asile où vous réfugier –Médine. Son secours vous renforça contre vos ennemis lors des combats –comme à Badr– et Il vous fit don de bonnes choses comme de pouvoir vous partager les butins que vous preniez à vos ennemis. Allez-vous être reconnaissants pour les bienfaits qu’Allah vous accorde? Il vous en accordera plus encore, mais si vous Le reniez, Il vous les retirera et vous châtiera.",
+            "arabic_explanation": "واذكروا - أيها المؤمنون - حين كنتم في مكة قليلي العدد، يستضعفكم أهلها، ويقهرونكم، تخافون أن يأخذكم أعداؤكم بسرعة، فضمكم الله إلى مأوى تأوون إليه وهو المدينة، وقَوَّاكم بالنصر على أعدائكم في مواطن الحرب التي منها بدر، ورزقكم من الطيبات، ومن جملتها الغنائم التي أخذتموها من أعدائكم، لعلكم تشكرون لله نعمه، فيزيدكم منها، ولا تكفرونها فيسلبها منكم، ويعذبكم."
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَخُونُواْ ٱللَّهَ وَٱلرَّسُولَ وَتَخُونُوٓاْ أَمَٰنَٰتِكُمۡ وَأَنتُمۡ تَعۡلَمُونَ",
+            "explanation": "Ô vous qui croyez en Allah et suivez son Messager, ne trahissez pas Allah et Son Messager en vous abstenant de vous conformer à ses commandements et en commettant Ses interdits. Ne trahissez pas la religion et les dépôts que l’on vous confie, alors que vous savez que vous commettez une trahison. Vous feriez alors partie des traîtres.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، لا تخونوا الله والرسول بترك الامتثال للأوامر وعدم اجتناب النواهي، ولا تخونوا ما ائْتُمِنْتُم عليه من الدين وغيره، وأنتم تعلمون أن ما قمتم به خيانة؛ فتكونوا من الخائنين."
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "وَٱعۡلَمُوٓاْ أَنَّمَآ أَمۡوَٰلُكُمۡ وَأَوۡلَٰدُكُمۡ فِتۡنَةٞ وَأَنَّ ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ",
+            "explanation": "Ô croyants, sachez que vos biens et vos enfants ne sont qu’une épreuve et un test de la part d’Allah. Faites attention, car ceux-ci pourraient vous détourner d’œuvrer pour l’au-delà et vous faire commettre des trahisons. Sachez qu’il y a auprès d’Allah une immense récompense. Ne la manquez donc pas en ne vous préoccupant pas seulement de vos richesses et de vos enfants et en ne commettant aucun acte de trahison à cause d’eux.",
+            "arabic_explanation": "واعلموا - أيها المؤمنون - أن أموالكم وأولادكم إنما هي ابتلاء من الله لكم واختبار، فقد تصدُّكم عن العمل للآخرة، وتحملكم على الخيانة، واعلموا أن الله عنده ثواب عظيم، فلا تُفَوِّتُوا عليكم هذا الثواب بمراعاة أموالكم وأولادكم والخيانة من أجلهم."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تَتَّقُواْ ٱللَّهَ يَجۡعَل لَّكُمۡ فُرۡقَانٗا وَيُكَفِّرۡ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيَغۡفِرۡ لَكُمۡۗ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+            "explanation": "Ô vous qui croyez en Allah et suivez Son Messager, sachez que si vous craignez Allah, vous conformez à Ses commandements et délaissez ses interdits, Il vous accordera la faculté de discerner le vrai du faux, que vous ne confondrez plus alors. En outre, Il effacera les mauvaises œuvres que vous aurez commises et pardonnera vos péchés. Allah est le Détenteur de la grâce suprême et l’une des expressions de cette grâce est le Paradis qu’Il a préparé à l’intention de Ses serviteurs pieux.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، اعلموا أنكم إن تتقوا الله بامتثال أوامره واجتناب نواهيه يجعل لكم ما تُفرِّقون به بين الحق والباطل، فلا يَلْتَبِسان عليكم، ويَمْحُ عنكم ما اجترحتموه من السيئات، ويغفر لكم ذنوبكم، والله ذو الفضل العظيم، ومن فضله العظيم جنته التي أعدها للمتقين من عباده."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+            "explanation": "Ô Messager, rappelle-toi lorsque les polythéistes se sont ligués et ont complotés contre toi afin de te capturer, te tuer ou t’exiler vers un autre pays. Ils manigancent contre toi, mais Allah fait en sorte que leur manigance se retourne contre eux. Allah élabore en effet des stratagèmes et nul n’est meilleur que Lui dans ce domaine.",
+            "arabic_explanation": "واذكر - أيها الرسول - حين تَمَالأ عليك المشركون ليكيدوا لك بحبسك أو بقتلك أو نفيك من بلدك إلى بلد غيره، ويكيدونك ويرد الله كيدهم عليهم، ويمكر الله، والله خير الماكرين."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا قَالُواْ قَدۡ سَمِعۡنَا لَوۡ نَشَآءُ لَقُلۡنَا مِثۡلَ هَٰذَآ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+            "explanation": "Lorsque Nos versets leur sont récités, ils disent en faisant preuve d’un refus entêté et en dédaignant la vérité: Nous avons déjà entendu cela auparavant. Si nous voulions réciter quelque chose de semblable à ce Coran, nous pourrions le faire, mais ce Coran n’est que mythes anciens et nous n’y croirons pas.",
+            "arabic_explanation": "وإذا قُرِئت عليهم آياتنا قالوا عنادًا للحق وترفُّعًا عليه: قد سمعنا مثل هذا من قبل، لو نشاء قول مثل هذا القرآن لقلناه، ما هذا القرآن الذي سمعناه إلا أكاذيب الأولين؛ فلن نؤمن به."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "وَإِذۡ قَالُواْ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَيۡنَا حِجَارَةٗ مِّنَ ٱلسَّمَآءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِيمٖ",
+            "explanation": "Ô Messager, rappelle-toi lorsque les polythéistes dirent: Ô Allah, si ce que Muħammad apporte est la vérité, fais alors tomber du Ciel sur nous des pierres qui nous anéantissent ou abats sur nous un châtiment terrible. Ils exagérèrent dans la dénégation et le déni en disant cela.",
+            "arabic_explanation": "واذكر - أيها الرسول - إذ قال المشركون: اللَّهُمَّ إن كان ما جاء به محمد حقًّا فأسقط علينا حجارة من السماء تهلكنا، أو ائتنا بعذاب شديد. قالوا ذلك مبالغة في الجحود والإنكار."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ",
+            "explanation": "Allah ne châtiera pas ton peuple, que ses membres soient musulmans ou de futurs musulmans( ), en les exterminant alors que tu vis parmi eux. Ta présence parmi eux les met à l’abri du châtiment. Allah ne les châtiera pas non plus alors qu’ils implorent le pardon d’Allah pour leurs péchés.",
+            "arabic_explanation": "وما كان الله ليعذب أمتك - سواء من كان منهم من أمة الاستجابة أو من أمة الدعوة - بعذاب يستأصلهم وأنت - يا محمد - حي موجود بين ظهرانيهم، فوجودك بينهم أمان لهم من العذاب، وما كان الله معذبهم وهم يستغفرون الله من ذنوبهم."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+            "explanation": "Pour quelle raison le châtiment sera-t-il éloigné d'eux alors qu’ils ont commis ce qui impose d’être châtiés comme d’interdire aux gens d’accomplir la circumambulation [autour de la Ka’ba] et de prier dans la Maison Sacrée? Les polythéistes ne sont pas les alliés d’Allah… Seuls les pieux, qui le craignent, se conforment à Ses commandements et délaissent Ses interdits, sont Ses alliés. Or, la plupart des polythéistes croient être les alliés d’Allah alors que ce n’est pas le cas.",
+            "arabic_explanation": "وأي شيء يمنع من عذابهم وقد ارتكبوا ما يوجب عذابهم من منعهم الناس عن المسجد الحرام أن يطوفوا به أو يُصلُّوا فيه؟ وما كان المشركون أولياء الله، فليس أولياءَ الله إلا المتقون الذين يتقونه بامتثال أوامره واجتناب نواهيه، ولكن أكثر المشركين لا يعلمون حين ادعوا أنهم أولياؤه، وهم ليسوا بأوليائه."
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَيۡتِ إِلَّا مُكَآءٗ وَتَصۡدِيَةٗۚ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+            "explanation": "La prière des polythéistes près de la Maison Sacrée n’est faite que de sifflements et de battements de mains. Ô polythéistes, le jour de la Bataille de Badr, vous goûterez à la mort et à la captivité pour avoir mécru en Allah et avoir traité Son Messager de menteur.",
+            "arabic_explanation": "وما كان صلاة المشركين عند المسجد الحرام إلا صَفِيرًا وتَصْفِيقًا، فذوقوا - أيها المشركون - العذاب بالقتل والأسر يوم بدر بسبب كفركم بالله، وتكذيبكم لرسوله."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ يُنفِقُونَ أَمۡوَٰلَهُمۡ لِيَصُدُّواْ عَن سَبِيلِ ٱللَّهِۚ فَسَيُنفِقُونَهَا ثُمَّ تَكُونُ عَلَيۡهِمۡ حَسۡرَةٗ ثُمَّ يُغۡلَبُونَۗ وَٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ جَهَنَّمَ يُحۡشَرُونَ",
+            "explanation": "Ceux qui mécroient en Allah et dépensent de leurs richesses afin d’empêcher les gens d’accéder à la religion d’Allah, n’atteindront pas cette finalité malgré ces dépenses et ce qu’ils appellent de leurs vœux ne se réalisera pas. Or, la conséquence de ces dépenses, sera qu’ils se plaindront de les avoir vainement perdues et ne pas avoir atteint le but pour lequel elles ont été faites. Et par la suite, ils seront vaincus par les musulmans. Ceux qui mécroient en Allah seront poussés vers l’Enfer le Jour de la Résurrection et ils y entreront afin d’y demeurer éternellement.",
+            "arabic_explanation": "إن الذين كفروا بالله ينفقون أموالهم لمنع الناس عن دين الله، فسينفقونها ولن يتحقق لهم ما أرادوا، ثم تكون عاقبة إنفاقهم لأموالهم ندامة؛ لفواتها وفوات المقصود من إنفاقها، ثم يُغْلَبُونَ بانتصار المؤمنين عليهم، والذين كفروا بالله يُسَاقون إلى جهنم يوم القيامة، فيدخلونها خالدين فيها مخلدين."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "لِيَمِيزَ ٱللَّهُ ٱلۡخَبِيثَ مِنَ ٱلطَّيِّبِ وَيَجۡعَلَ ٱلۡخَبِيثَ بَعۡضَهُۥ عَلَىٰ بَعۡضٖ فَيَرۡكُمَهُۥ جَمِيعٗا فَيَجۡعَلَهُۥ فِي جَهَنَّمَۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+            "explanation": "Les mécréants qui dépensent leurs richesses afin d’éloigner les gens du sentier d’Allah seront poussés vers l’Enfer afin qu’Allah sépare le camp impur des mécréants du camp pur des croyants et afin qu’Il amoncelle toutes les personnes, les œuvres et les biens qui sont impurs, en un tas qu’Il jettera dans le Feu de l’Enfer. Voilà les perdants qui auront, le Jour de la Résurrection, mené leurs propres personnes et leurs familles à la perdition.",
+            "arabic_explanation": "يُسَاق هؤلاء الكفار الذين ينفقون أموالهم للصد عن سبيل الله إلى نار جهنم ليفصل الله فريق الكفار الخبيث عن فريق المؤمنين الطيب، وليجعل الخبيث من الأشخاص والأعمال والأموال بعضه فوق بعض متراكبًا متراكمًا، فيجعله في نار جهنم، أولئك هم الخاسرون؛ لأنهم خسروا أنفسهم وأهليهم يوم القيامة."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "قُل لِّلَّذِينَ كَفَرُوٓاْ إِن يَنتَهُواْ يُغۡفَرۡ لَهُم مَّا قَدۡ سَلَفَ وَإِن يَعُودُواْ فَقَدۡ مَضَتۡ سُنَّتُ ٱلۡأَوَّلِينَ",
+            "explanation": "Ô Messager, dis à ceux parmi les tiens qui mécroient en Allah et en Son Messager: S’ils cessent de mécroire en Allah et en Son Messager et d’éloigner de Son sentier ceux qui croient en Lui, alors Il leur pardonnera leurs péchés passés. En effet, la conversion à l’Islam efface les péchés passés. En revanche, s’ils retournent à leur mécréance alors Allah a, de tout temps, hâté la punition de ceux qui ne croient pas et persistent dans leur mécréance.",
+            "arabic_explanation": "قل - أيها الرسول - للذين كفروا بالله وبرسوله من قومك: إن يكفُّوا عن كفرهم بالله وبرسوله، وعن صدهم عن سبيل الله من آمن به؛ يغفر الله لهم ما قد سبق من ذنوبهم، فالإسلام يهدم ما قبله، وإن يعودوا إلى كفرهم فقد سبقت سُنَّة الله في الأولين أنهم إذا كذبوا واستمروا على كفرهم عاجلهم بالعقوبة."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ كُلُّهُۥ لِلَّهِۚ فَإِنِ ٱنتَهَوۡاْ فَإِنَّ ٱللَّهَ بِمَا يَعۡمَلُونَ بَصِيرٞ",
+            "explanation": "Ô croyants, combattez vos ennemis, les mécréants, afin qu’il n’y ait plus de polythéisme, qu’on n’éloigne plus les musulmans de la religion d’Allah et que la religion et l’obéissance soient dues à Allah Seul, sans que rien ne Lui soit associé. Si les mécréants cessent d’être des polythéistes et d’éloigner les gens de l’Islam, laissez-les alors, car Allah connait leurs œuvres et rien ne Lui en échappe.",
+            "arabic_explanation": "وقاتلوا - أيها المؤمنون - أعداءكم من الكفار حتى لا يكون شرك ولا صد للمسلمين عن دين الله، ويكون الدين والطاعة لله وحده لا شريك له فيها، فإن انتهى الكفار عما كانوا عليه من الشرك والصد عن سبيل الله فدعوهم، فإن الله مطلع على أعمالهم، لا تخفى عليه خافية."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "وَإِن تَوَلَّوۡاْ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+            "explanation": "S’ils tournent le dos à l’ordre qu’on leur donne d’arrêter de mécroire et de cesser d’éloigner les gens du sentier d’Allah, soyez persuadés ô croyants, qu’Allah vous secourra contre eux. Existe-t-il meilleur Maître que Lui pour celui qui Le prend pour maître et existe-t-il meilleur Secoureur que Lui pour celui à qui Il accorde Son secours? En effet, celui avec lequel Il s’allie réussit, et celui qu’Il secourt sort victorieux.",
+            "arabic_explanation": "وإن انصرفوا عما أُمِرُوا به من الانتهاء عن الكفر والصد عن سبيل الله، فَأَيْقِنُوا - أيها المؤمنون - أن الله ناصركم عليهم، نعم المولى لمن والاه، ونعم الناصر لمن نصره، فمن والاه فاز، ومن نصره انتصر."
+        },
+        {
+            "verse_number": 41,
+            "verse_text": "۞ وَٱعۡلَمُوٓاْ أَنَّمَا غَنِمۡتُم مِّن شَيۡءٖ فَأَنَّ لِلَّهِ خُمُسَهُۥ وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ وَمَآ أَنزَلۡنَا عَلَىٰ عَبۡدِنَا يَوۡمَ ٱلۡفُرۡقَانِ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+            "explanation": "Ô croyants, sachez que tout ce que vous prenez de force aux mécréants, en luttant pour la cause d’Allah, doit être divisé en cinq parts dont quatre seront remises aux combattant. La dernière doit être à son tour partagé en cinq: une part revenant à Allah et à Son Messager, qui sera dévolue aux affaires publiques des musulmans, une part revenant aux proches du Prophète, le clan des Banû Hâchim et des Banû al-Muṭṭalib, une part revenant aux orphelins, une part revenant aux pauvres et aux indigents et une part revenant aux voyageurs en détresse. Ceci, si vous croyez en Allah et en ce que Nous avons révélé à Notre serviteur le jour de la Bataille de Badr.  Allah sépara ce jour-là le vrai du faux lorsqu’Il vous fit triompher de vos ennemis. Allah, Celui qui vous a fait bénéficier de Son secours, a pouvoir sur toute chose.",
+            "arabic_explanation": "واعلموا - أيها المؤمنون - أن ما أخذتم من شيء من الكفار قهرًا في الجهاد في سبيل الله فإنه يقسم خمسة أخماس، أربعة أخماس منها تقسم على المجاهدين، والخمس الباقي يقسم خمسة أقسام: قسم لله ورسوله يصرف في المصارف العامة للمسلمين، وقسم لقرابة النبي صلى الله عليه وسلم من بني هاشم وبني المطلب، وقسم لليتامى، وقسم للفقراء والمساكين، وقسم للمسافرين الذين انقطعت بهم السبل، إن كنتم آمنتم بالله، وبما أنزلنا على عبدنا محمد صلى الله عليه وسلم يوم بدر الذي فَرَّق الله به بين الحق والباطل حين نصركم على أعدائكم، والله الذي نصركم قدير على كل شيء."
+        },
+        {
+            "verse_number": 42,
+            "verse_text": "إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡيَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِي ٱلۡمِيعَٰدِ وَلَٰكِن لِّيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗا لِّيَهۡلِكَ مَنۡ هَلَكَ عَنۢ بَيِّنَةٖ وَيَحۡيَىٰ مَنۡ حَيَّ عَنۢ بَيِّنَةٖۗ وَإِنَّ ٱللَّهَ لَسَمِيعٌ عَلِيمٌ",
+            "explanation": "Rappelez-vous lorsque vous étiez sur le versant proche de la vallée donnant sur la route menant à Médine et que les polythéistes étaient sur le versant éloigné donnant sur la route menant à la Mecque, alors que la caravane Quraychite était dans le creux de la vallée sur la route menant au littoral de la Mer Rouge. Si vous et les mécréants, vous étiez donnés rendez-vous à Badr, vous ne vous seriez pas présentés mais Allah vous a réunis sans que vous ne vous soyez donnés rendez-vous, afin qu’ait lieu une affaire qui devait s’accomplir: secourir les musulmans, abandonner les mécréants à leur sort, renforcer Sa religion et humilier le polythéisme. Il fallait que meurent ceux parmi eux qui devaient mourir, après que leur soit explicité l’argument d’Allah  par la victoire des musulmans malgré l’infériorité de leur nombre et de leur équipement, et que vivent ceux parmi eux qui devaient vivre. Ainsi, plus personne n’aura d’excuses à opposer à Allah. Allah entend les paroles et connaît les agissements de tous. Rien ne Lui en échappe et Il les rétribuera en conséquence.",
+            "arabic_explanation": "واذكروا حين كنتم بالجانب الأدنى من الوادي مما يلي المدينة، والمشركون بالجانب الأقصى منه مما يلي مكة، والعِير في مكان أسفل منكم مما يلي ساحل البحر الأحمر، ولو تواعدتم أنتم والمشركون على أن تلتقوا في بدر لخالف بعضكم بعضًا، ولكنه سبحانه جمع بينكم في بدر على غير تواعد؛ ليُتِمّ أمرًا كان مفعولًا وهو نصر المؤمنين، وخذلان الكافرين، وإعزاز دينه وإذلال الشرك؛ ليموت من مات منهم بعد قيام الحجة عليه بنصر المؤمنين عليهم مع قلة عَدَدهم وعُدَّتهم، ويعيش من عاش عن بينة وحجة أظهرها الله له، فلا يبقى لأحد على الله حجة يحتج بها، والله سميع لأقوال الجميع، عليم بأفعالهم، لا يخفى عليه منها شيء، وسيجازيهم عليها."
+        },
+        {
+            "verse_number": 43,
+            "verse_text": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+            "explanation": "Ô Messager, rappelle-toi des bienfaits d’Allah dont toi et les croyants avez bénéficiez, lorsqu’en rêve, Il te montra les polythéistes peu nombreux et que tu annonças cette vision aux croyants. Ils devinrent alors optimistes et leur détermination à affronter l’ennemi s’accrut. Si Allah t’avait montré en rêve que les polythéistes étaient nombreux, la détermination de tes Compagnons se serait affaiblie et ils auraient eu peur de les combattre, mais Allah empêcha cela et les préserva de l’échec en les montrant peu nombreux à Son Messager. Il est Celui qui connaît le mieux ce que renferment les cœurs et ce que dissimulent les âmes.",
+            "arabic_explanation": "اذكر - أيها الرسول - من نعم الله عليك وعلى المؤمنين إذ أراك الله المشركين في منامك قليلي العدد، فأطلعت المؤمنين على ذلك فاستبشروا به خيرًا، وقويت عزائمهم على لقاء عدوهم وقتاله، ولو أنه سبحانه أراك المشركين في منامك كثيرًا لضعفت عزائم أصحابك، وخافوا القتال، ولكنه سَلَّم من ذلك، فعصمهم من الفشل، فقلَّلهم في عين رسوله صلى الله عليه وسلم، إنه عليم بما تنطوي عليه القلوب، وبما تخفيه النفوس."
+        },
+        {
+            "verse_number": 44,
+            "verse_text": "وَإِذۡ يُرِيكُمُوهُمۡ إِذِ ٱلۡتَقَيۡتُمۡ فِيٓ أَعۡيُنِكُمۡ قَلِيلٗا وَيُقَلِّلُكُمۡ فِيٓ أَعۡيُنِهِمۡ لِيَقۡضِيَ ٱللَّهُ أَمۡرٗا كَانَ مَفۡعُولٗاۗ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+            "explanation": "Ô croyants, rappelez-vous lorsqu’Allah vous fit voir les polythéistes peu nombreux au moment de leur rencontre, ce qui vous a enhardi à les attaquer. De même, il fit en sorte que vous leur paressiez peu nombreux et eux aussi s’enhardirent à vous attaquer et à ne pas faire volteface. Ceci, afin que s’accomplisse une affaire décidée et qu’Allah se venge des polythéistes. Que leur destinée soit la mort et la captivité et que les croyants soient victorieux et triomphent de leurs ennemis. C’est vers Allah Seul que revient toute chose. Il rétribuera les fautifs pour leur faute et les bienfaisants pour leur bienfaisance.",
+            "arabic_explanation": "واذكروا - أيها المؤمنون - إذ يريكم الله المشركين حين التقيتم بهم قليلًا، فجرأكم على الإقدام على قتالهم، ويقللكم في أعينهم فيتقدمون لقتالكم، ولا يفكرون في الرجوع ليقضي الله أمرًا كان مفعولًا بالانتقام من المشركين بالقتل والأسر، والإنعام على المؤمنين بالنصر والظفر بالأعداء، وإلى الله وحده ترجع الأمور، فيجازي المسيء على إساءته، والمحسن على إحسانه."
+        },
+        {
+            "verse_number": 45,
+            "verse_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+            "explanation": "Ô vous qui croyez en Allah et suivez Son Messager, soyez fermes et ne faiblissez pas lorsque vous affrontez un groupe de mécréants. Evoquez et invoquez Allah abondamment car Il est le Seul capable de vous secourir contre eux, vous permettre d’obtenir ce que vous recherchez et vous épargner de ce que vous redoutez.",
+            "arabic_explanation": "يا أيها الذين آمنوا بالله واتبعوا رسوله، إذا واجهتم جماعة من الكفار فاثبتوا عند لقائهم ولا تجبنوا، واذكروا الله كثيرًا وادعوه، فهو القادر على نصركم عليهم؛ رجاء أن يُنِيلكم ما تطلبون، ويجنبكم ما تحذرون."
+        },
+        {
+            "verse_number": 46,
+            "verse_text": "وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ وَلَا تَنَٰزَعُواْ فَتَفۡشَلُواْ وَتَذۡهَبَ رِيحُكُمۡۖ وَٱصۡبِرُوٓاْۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
+            "explanation": "En toute situation, obéissez par la parole et par les actes à Allah et à Son Messager. Ne divergez pas entre vous car la divergence vous affaiblira, vous rendra lâches et anéantira votre force. Soyez patients lorsque vous affrontez vos ennemis car Allah secourt, soutient et aide les endurants. Celui avec qui Allah est sera indubitablement vainqueur et victorieux.",
+            "arabic_explanation": "والزموا طاعة الله وطاعة رسوله في أقوالكم وأفعالكم وجميع أحوالكم، ولا تختلفوا في الرأي؛ فإن الاختلاف سبب لضعفكم وجبنكم، وذهاب قوتكم، واصبروا عند لقاء عدوكم، إن الله مع الصابرين بالنصر والتأييد والعون، ومن كان الله معه فهو الغالب والمنتصر لا محالة."
+        },
+        {
+            "verse_number": 47,
+            "verse_text": "وَلَا تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِم بَطَرٗا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۚ وَٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطٞ",
+            "explanation": "Ne soyez pas comme les polythéistes qui sortirent de la Mecque en manifestant de l’orgueil et de l’ostentation devant les gens, les détournant de la religion d’Allah par l’interdiction qu’ils leur imposaient de s’y convertir. Allah est au fait de ce qu’ils commettent. Rien de leurs œuvres ne Lui échappe et Il les rétribuera en conséquence.",
+            "arabic_explanation": "ولا تكونوا مثل المشركين الذين خرجوا من مكة كِبْرًا ومراءاة للناس، ويصدون الناس عن دين الله، ويمنعونهم من الدخول فيه، والله بما يعملون محيط، لا يخفى عليه شيء من أعمالهم، وسيجازيهم عليها."
+        },
+        {
+            "verse_number": 48,
+            "verse_text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+            "explanation": "Ô croyants, rappelez-vous qu’un des bienfaits d’Allah sur vous est que Satan embellit aux polythéistes leurs œuvres, les encourage à affronter les musulmans et leur leur dit: Personne ne vous vaincra aujourd’hui car je vous secourrai et vous protègerai contre votre ennemi. Puis lorsque les deux camps se firent face, le camp des croyants accompagnés des anges présents pour les secourir et le camp des polythéistes accompagnés de Satan prêt à les abandonner, Satan s’enfuit alors et dit aux polythéistes: Je me désavoue de ce que vous faites car je vois que des anges sont venus secourir les croyants et je crains qu’Allah ne m’anéantisse. La punition d’Allah est terrible et personne n’est capable de la supporter.",
+            "arabic_explanation": "واذكروا - أيها المؤمنون - من نعم الله عليكم أن حسَّن الشيطان للمشركين أعمالهم، فشجعهم على ملاقاة المسلمين وقتالهم، وقال لهم: لا غالب لكم اليوم، وإني ناصركم، ومُجِيركم من عدوكم، فلما الْتقى الفريقان: فريق المؤمنين معهم الملائكة ينصرونهم، وفريق المشركين معهم الشيطان الذي سيخذلهم؛ ولَّى الشيطان هاربًا، وقال للمشركين: إني بريء منكم، إني أرى الملائكة الذين جاؤوا لنصرة المؤمنين، إني أخاف أن يهلكني الله، والله شديد العقاب، فلا يقدر على تحمل عقابه أحد."
+        },
+        {
+            "verse_number": 49,
+            "verse_text": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+            "explanation": "Rappelez-vous lorsque les hypocrites et ceux dont la foi est faible dirent: Ces musulmans sont trompés par leur religion qui leur promet la victoire sur leurs ennemis malgré d’une part, l’infériorité de leur effectif et de leur équipement, et d’autre part, la supériorité de l’effectif de leurs ennemis et de leur équipement. Ces gens ne comprennent pas que celui qui ne s’en remet qu’à Allah et croit en la promesse qu’Il lui a faite d’accorder la victoire à ceux qui ne s’en remettent qu’à Lui, Allah le soutiendra et ne l’abandonnera jamais quel que soit l’état de faiblesse dans lequel il se trouve. Allah est Puissant et personne ne Lui tient tête. Il est aussi Sage dans ce qu’Il prédestine et ce qu’Il prescrit.",
+            "arabic_explanation": "اذكروا إذ يقول المنافقون وضعفة الإيمان: خدع هؤلاء المسلمين دينُهُم الذي يعدهم بالنصر على أعدائهم مع قلة العَدد وضعف العُدَّة، وكثرة عدد أعدائهم وقوة عتادهم، ولم يُدْرِكْ هؤلاء أن من يعتمد على الله وحده ويثق بما وعد به من النصر فإن الله ناصره، ولن يخذله مهما كان ضعفه، والله عزيز لا يغالبه أحد، حكيم في قدره وشرعه."
+        },
+        {
+            "verse_number": 50,
+            "verse_text": "وَلَوۡ تَرَىٰٓ إِذۡ يَتَوَفَّى ٱلَّذِينَ كَفَرُواْ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+            "explanation": "Ô Messager, si tu voyais ceux qui ont mécru en Allah et en Ses messagers, quand les anges saisissent et extirpent leurs âmes en frappant leurs visages lorsqu’ils viennent à eux par devant et en frappant leurs postérieurs lorsqu’ils viennent à eux par derrière, et leur disent: Ô mécréants, goûtez au châtiment ardent. Si tu voyais cela, tu serais certainement témoin d’une scène tragique.",
+            "arabic_explanation": "ولو تشاهد - أيها الرسول - الذين كفروا بالله وبرسله حين تقبض الملائكة أرواحهم، وتنتزعها وهم يضربون وجوههم إذا أقبلوا، ويضربون أدبارهم إذا ولوا هاربين، ويقولون لهم: ذوقوا - أيها الكافرون - العذاب المحرق، لو تشاهد ذلك لشاهدت أمرًا عظيمًا."
+        },
+        {
+            "verse_number": 51,
+            "verse_text": "ذَٰلِكَ بِمَا قَدَّمَتۡ أَيۡدِيكُمۡ وَأَنَّ ٱللَّهَ لَيۡسَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+            "explanation": "Ce châtiment douloureux au moment de saisir vos âmes, ô mécréants, ainsi que le châtiment ardent qui vous attend dans vos tombes et dans l’au-delà, est dû à ce que vous avez fait de vos propres mains dans ce bas monde.\nEn effet, Allah n’est pas injuste avec les gens. Il juge plutôt entre eux avec équité car Il est l’Arbitre Equitable.",
+            "arabic_explanation": "ذلك العذاب المؤلم عند قبض أرواحكم - أيها الكفار -، والعذاب المحرق في قبوركم وفي الآخرة، سببه ما كسبت أيديكم في الدنيا، فالله لا يظلم الناس، وإنما يحكم بينهم بالعدل فهو الحَكَم العدل."
+        },
+        {
+            "verse_number": 52,
+            "verse_text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ",
+            "explanation": "Ce châtiment ne s’abat pas que sur ces mécréants, c’est une loi établie par Allah qui s’appliquera à tous les mécréants en tout lieu et en toute époque. Ainsi, ce même châtiment s’abattit sur les gens de Pharaon et les peuples qui les ont précédés lorsqu’ils mécrurent aux signes d’Allah. Allah les a alors saisis pour leurs péchés d’une manière qui sied à un Dieu Tout Puissant et Tout Déterminant (du nom d’Allah `al-muqtadiru) et fit que s’abatte sur eux Son châtiment. Allah est Fort et ne peut être vaincu ni défait. Il est aussi terrible en châtiment avec celui qui Lui désobéit.",
+            "arabic_explanation": "وليس هذا العذاب النازل بهؤلاء الكافرين خاصًّا بهم، بل هو سُنَّة الله التي أمضاها على الكافرين في كل زمان ومكان، فقد أصاب آل فرعون والأمم من قبلهم حين كفروا بآيات الله سبحانه، فأخذهم الله بسبب ذنوبهم أخذ عزيز مقتدر، فأنزل بهم عقابه، إن الله قوي لا يُقهَر ولا يُغلَب، شديد العقاب لمن عصاه."
+        },
+        {
+            "verse_number": 53,
+            "verse_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ لَمۡ يَكُ مُغَيِّرٗا نِّعۡمَةً أَنۡعَمَهَا عَلَىٰ قَوۡمٍ حَتَّىٰ يُغَيِّرُواْ مَا بِأَنفُسِهِمۡ وَأَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+            "explanation": "Ce châtiment terrible ne s’abat sur un peuple et Allah ne retire à ce peuple un bienfait que lorsqu’il passe d’un état de foi, de droiture et de gratitude vers un état malintentionné fait de mécréance en Allah, de désobéissance et d’ingratitude. Allah entend les paroles de Ses serviteurs, connaît leurs agissements et rien ne Lui en échappe.",
+            "arabic_explanation": "ذلك العقاب الشديد بسبب أن الله إذا أنعم على قوم نعمة من عنده لم ينزعها منهم حتى يغيروا أنفسهم من حالها الطيب من الإيمان والاستقامة وشكر النعم إلى حال سيئة من الكفر بالله ومعصيته وكفران نعمه، وأن الله سميع لأقوال عباده، عليم بأفعالهم، لا يخفى عليه منها شيء."
+        },
+        {
+            "verse_number": 54,
+            "verse_text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِـَٔايَٰتِ رَبِّهِمۡ فَأَهۡلَكۡنَٰهُم بِذُنُوبِهِمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَۚ وَكُلّٞ كَانُواْ ظَٰلِمِينَ",
+            "explanation": "Le cas de ces mécréants est semblable à celui d’autres, à l’image de Pharaon et des peuples dénégateurs, qui l’ont précédé. Ils démentirent les signes de leurs Seigneur et Allah les anéantit pour les actes de désobéissance qu’ils commettaient. En effet, Allah a anéanti les gens de Pharaon en les noyant dans la mer, et les gens de Pharaon comme les peuples qui les ont précédés étaient des gens injustes car ils mécroyaient en Allah et étaient des polythéistes. Ceci rendit le châtiment qu’Allah fit s’abattre sur eux inévitable.",
+            "arabic_explanation": "شأن هؤلاء الكافرين كشأن غيرهم ممن كفر بالله مثل آل فرعون والأمم المكذبة من قبلهم، كذبوا بآيات ربهم، فأهلكهم الله بسبب ما ارتكبوه من المعاصي، وأهلك الله آل فرعون بالغرق في البحر، وكلٌّ من آل فرعون والأمم من قبلهم كانوا ظالمين بسبب كفرهم بالله وشركهم به، فاستوجبوا بذلك عقابه سبحانه، فأوقعه عليهم."
+        },
+        {
+            "verse_number": 55,
+            "verse_text": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمۡ لَا يُؤۡمِنُونَ",
+            "explanation": "Les pires créatures marchant sur Terre sont ceux qui mécroient en Allah et en Ses messagers. Ils ne croiront pas même s’ils recevaient un à un nos signes à cause de leur obstination. Ainsi,  la raison, l’ouïe et la vue qui leur ont été données afin qu’ils en usent pour trouver la guidée ne fonctionnent pas chez eux.",
+            "arabic_explanation": "إن شَرَّ من يَدِبُّ على الأرض هم الذين كفروا بالله وبرسله، فهم لا يؤمنون ولو جاءتهم كل آية؛ لإصرارهم على الكفر، فقد تعطلت فيهم وسائل الهداية من عقل وسمع وبصر."
+        },
+        {
+            "verse_number": 56,
+            "verse_text": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
+            "explanation": "Ceux avec qui tu as conclu des traités et des pactes, à l’image des Banû Qurayẓah, qui ne cessent de revenir sur ce dont ils se sont engagés avec toi, ne craignent pas Allah, ne respectent donc pas les pactes qu’ils passent, ni se conforment aux engagements qu’ils prennent.",
+            "arabic_explanation": "الذين عقدت معهم العهود والمواثيق - كبني قريظة -، ثم ينقضون ما عاهدتهم عليه في كل مرة، وهم لا يخافون الله، فلا يوفون بعهودهم، ولا يلتزمون بالمواثيق المأخوذة عليهم."
+        },
+        {
+            "verse_number": 57,
+            "verse_text": "فَإِمَّا تَثۡقَفَنَّهُمۡ فِي ٱلۡحَرۡبِ فَشَرِّدۡ بِهِم مَّنۡ خَلۡفَهُمۡ لَعَلَّهُمۡ يَذَّكَّرُونَ",
+            "explanation": "Ô Messager, si tu affrontes au combat ces gens, inflige-leur le pire des châtiments afin que cela dissuade ceux qui leur ressemblent de te combattre et de monter tes ennemis contre toi.",
+            "arabic_explanation": "فإن قابلت - أيها الرسول - هؤلاء الناقضين لعهودهم في الحرب فنكِّل بهم أشد تَنْكِيل حتى يسمع بذلك غيرهم، لعلهم يعتبرون بحالهم، فيهابون قتالك ومظاهرة أعدائك عليك."
+        },
+        {
+            "verse_number": 58,
+            "verse_text": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
+            "explanation": "Ô Messager, si tu redoutes que te soit déloyale une tribu avec laquelle tu as conclu un traité ou qu’elle viole ses engagements, fais-lui savoir que le pacte signé avec elle est caduc et ne l’attaque pas avant de l’en informer car sinon, ce serait une trahison. Or Allah n’aime pas les traîtres, Il les déteste même. Prends donc garde à ne trahir personne.",
+            "arabic_explanation": "وإن خفت - أيها الرسول - من قوم عاهدتهم غشًّا ونقضًا للعهد بأمارة تظهر لك فأعلمهم بطَرْحِ عهدهم حتى يستووا معك في العلم بذلك، ولا تباغتهم قبل إعلامهم، فإن مباغتتهم قبل إعلامهم من الخيانة، والله لا يحب الخائنين، بل يمقتهم، فاحذر أنت من الخيانة."
+        },
+        {
+            "verse_number": 59,
+            "verse_text": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُواْ سَبَقُوٓاْۚ إِنَّهُمۡ لَا يُعۡجِزُونَ",
+            "explanation": "Que les mécréants ne pensent pas qu’ils échapperont au châtiment d’Allah. En effet, ils n’y échapperont jamais et y goutterons bel et bien.",
+            "arabic_explanation": "ولا يظنن الذين كفروا أنهم فاتوا عقاب الله وأفلتوا منه، إنهم لا يفوتونه ولا يفلتون من عقابه، بل هو مدركهم ولاحق بهم."
+        },
+        {
+            "verse_number": 60,
+            "verse_text": "وَأَعِدُّواْ لَهُم مَّا ٱسۡتَطَعۡتُم مِّن قُوَّةٖ وَمِن رِّبَاطِ ٱلۡخَيۡلِ تُرۡهِبُونَ بِهِۦ عَدُوَّ ٱللَّهِ وَعَدُوَّكُمۡ وَءَاخَرِينَ مِن دُونِهِمۡ لَا تَعۡلَمُونَهُمُ ٱللَّهُ يَعۡلَمُهُمۡۚ وَمَا تُنفِقُواْ مِن شَيۡءٖ فِي سَبِيلِ ٱللَّهِ يُوَفَّ إِلَيۡكُمۡ وَأَنتُمۡ لَا تُظۡلَمُونَ",
+            "explanation": "Ô musulmans, préparez-vous et équipez-vous de ce dont vous pouvez, comme armes et chevaux destinés à la lutte pour la cause d’Allah, afin de terroriser les mécréants, vos ennemis et les ennemis d’Allah, qui sont à l’affût de la moindre occasion pour vous faire tomber. Vous terroriserez également d’autres gens que vous ne connaissez pas et dont vous ne connaissez pas l’hostilité qu’ils vous vouent secrètement. Seul Allah les connaît et sait ce qu’ils dissimulent en eux. Que vous dépensiez peu ou beaucoup de vos richesses, Allah vous les restituera dans ce bas monde et vous accordera dans l’au-delà sa pleine récompense sans aucun manquement. Empressez-vous donc de dépenser pour Sa cause.",
+            "arabic_explanation": "وأعدُّوا - أيها المؤمنون - ما قدرتم على إعداده من العدد والعدة؛ كالرمي، وأعدوا لهم ما حبستم من الخيل في سبيل الله، تُخوِّفون أعداء الله وأعداءكم من الكافرين الذين يتربصون بكم الدوائر، وتُخوِّفون به قومًا آخرين، لا تعلمونهم، ولا تعلمون ما يضمرون لكم من عداوة، بل الله وحده هو الذي يعلمهم، ويعلم ما يضمرون في أنفسهم، وما تنفقوا من مال قلَّ أو كثر يخلفه الله عليكم في الدنيا، ويعطكم ثوابه كاملًا غير منقوص في الآخرة، فبادروا إلى الإنفاق في سبيله."
+        },
+        {
+            "verse_number": 61,
+            "verse_text": "۞ وَإِن جَنَحُواْ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+            "explanation": "S’ils penchent pour la paix et l’arrêt des hostilités, aie le même penchant ô Messager puis conclus un traité avec eux, en t’en remettant à Allah et en plaçant ta confiance en Lui. Il est certes Celui qui ne t’abandonnera jamais. Il entend les paroles qu’ils prononcent, connaît leurs intentions et leurs agissements.",
+            "arabic_explanation": "وإن مالوا إلى الصلح وتَرْكِ قتالك، فَمِلْ - أيها الرسول - إليه، وعاهدهم، واعتمد على الله، وثق به، فلن يخذلك، إنه هو السميع لأقوالهم، العليم بنياتهم وأفعالهم."
+        },
+        {
+            "verse_number": 62,
+            "verse_text": "وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ",
+            "explanation": "Si le penchant qu’ils ont pour la paix et la cessation des hostilités a pour but de te tromper, ô Messager, qu’ils se préparent à te combattre car Allah te suffit pour contrer leur ruse et leur tromperie. Il est Celui qui te secourt Lui-même et te fait bénéficier du secours des Migrants et des Partisans.",
+            "arabic_explanation": "وإن قصدوا بميلهم للصلح وترك القتال أن يخدعوك - أيها الرسول - بذلك ليستعدوا لقتالك، فإن الله كافيك مكرهم وخداعهم، هو الذي قَوَّاك بنصره، وقَوَّاك بنصر المؤمنين لك من المهاجرين والأنصار."
+        },
+        {
+            "verse_number": 63,
+            "verse_text": "وَأَلَّفَ بَيۡنَ قُلُوبِهِمۡۚ لَوۡ أَنفَقۡتَ مَا فِي ٱلۡأَرۡضِ جَمِيعٗا مَّآ أَلَّفۡتَ بَيۡنَ قُلُوبِهِمۡ وَلَٰكِنَّ ٱللَّهَ أَلَّفَ بَيۡنَهُمۡۚ إِنَّهُۥ عَزِيزٌ حَكِيمٞ",
+            "explanation": "Il a aussi uni les cœurs des croyants par lesquels Il t’a secouru après qu’ils aient été dispersés. Si tu avais dépensé toutes les richesses de la Terre afin d’unir leurs cœurs dispersés, tu n’aurais pas réussi mais Allah Seul les a unis. Il est Puissant dans Son Royaume et personne ne Lui tient tête. Il est également Sage dans ce qu’Il décide, ce qu’Il gère et ce qu’Il prescrit.",
+            "arabic_explanation": "وجمع بين قلوب المؤمنين الذين نصرك بهم بعد أن كانت متفرقة، لو أنفقت ما في الأرض من مال لتجمع بين قلوبهم المتفرقة ما جمعت بينها، لكن الله وحده جمع بينها، إنه عزيز في ملكه لا يغالبه أحد، حكيم في قدره وتدبيره وشرعه."
+        },
+        {
+            "verse_number": 64,
+            "verse_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+            "explanation": "Ô Prophète, Allah te suffit contre les maux de tes ennemis et suffit également aux croyants qui t’accompagnent. Place donc ta confiance en Allah et remets t’en à Lui.",
+            "arabic_explanation": "يا أيها النبي إن الله كافيك شر أعدائك، وكافي المؤمنين معك، فثق بالله واعتمد عليه."
+        },
+        {
+            "verse_number": 65,
+            "verse_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
+            "explanation": "Ô Prophète, exhorte les croyants à combattre en renforçant leur détermination et en les motivant. Ô croyants, vingt combattants endurants au combat viendront à bout de deux cent mécréants. Cent de ces mêmes combattants viendront à bout de mille mécréants. Les mécréants ne comprennent pas que la loi établie par Allah est qu’Il secourt Ses alliés et vainc Ses ennemis. Ils ne comprennent pas non plus quelle est la finalité du combat puisqu’ils combattent pour avoir le dessus dans ce bas monde.",
+            "arabic_explanation": "يا أيها النبي حُثَّ المؤمنين على القتال، وحُضَّهم عليه بما يقوي عزائمهم وينشط هممهم، إن يكن منكم - أيها المؤمنون - عشرون صابرون على مقاتلة الكفار يغلبوا مئتين من الكفار، وإن تكن منكم مئة صابرة يغلبوا ألفًا من الكافرين؛ ذلك بأن الكافرين قوم لا يفهمون سُنَّة الله بنصر أوليائه، ودَحْر أعدائه، ولا يدركون المقصود من القتال، فهم يقاتلون من أجل العلو في الدنيا."
+        },
+        {
+            "verse_number": 66,
+            "verse_text": "ٱلۡـَٰٔنَ خَفَّفَ ٱللَّهُ عَنكُمۡ وَعَلِمَ أَنَّ فِيكُمۡ ضَعۡفٗاۚ فَإِن يَكُن مِّنكُم مِّاْئَةٞ صَابِرَةٞ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُمۡ أَلۡفٞ يَغۡلِبُوٓاْ أَلۡفَيۡنِ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+            "explanation": "Ô croyants, Allah a décidé de rendre votre charge moins pesante car Il connaît votre faiblesse. L’alléger est une indulgence de Sa part envers vous. Il vous impose désormais d’être ferme face à deux combattants mécréants au lieu de dix. Ainsi, avec la permission d’Allah, cent combattants endurants parmi vous viendront à bout de deux cent mécréants et mille de ces mêmes combattants viendront à bout de deux mille mécréants. Le soutien et le secours d’Allah sont réservés aux endurant.",
+            "arabic_explanation": "الآن خفف الله عنكم - أيها المؤمنون - لما علمه من ضعفكم، فخفف عنكم لطفًا منه بكم، فأوجب على الواحد منكم أن يثبت أمام اثنين من الكفار بدل عشرة منهم، فإن يكن منكم مئة صابرة على قتال الكفار يغلبوا مئتين، وإن يكن منكم ألف صابرون يغلبوا ألفين من الكفار بإذن الله، والله مع الصابرين من المؤمنين بالتأييد والنصر."
+        },
+        {
+            "verse_number": 67,
+            "verse_text": "مَا كَانَ لِنَبِيٍّ أَن يَكُونَ لَهُۥٓ أَسۡرَىٰ حَتَّىٰ يُثۡخِنَ فِي ٱلۡأَرۡضِۚ تُرِيدُونَ عَرَضَ ٱلدُّنۡيَا وَٱللَّهُ يُرِيدُ ٱلۡأٓخِرَةَۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ",
+            "explanation": "Il ne convient pas à un prophète de capturer des mécréants qui le combattent avant d’en avoir tué un grand nombre afin qu’une grande terreur soit ressentie dans leurs cœurs et qu’ils ne le combattent plus. En capturant des combattants mécréants lors de la Bataille de Badr, vous espériez que des rançons vous soient versées, ô croyants. Or Allah désire pour vous l’au-delà que l’on gagne en faisant triompher la religion et en la rendant plus forte. Allah est Puissant dans Son Être, Ses attributs et Sa domination, et personne ne Lui tient tête. Il est également Sage dans ce qu’Il décide et prescrit.",
+            "arabic_explanation": "ما ينبغي لنبي أن يكون له أسرى من الكفار الذين يقاتلونه حتى يُكْثِر القتل فيهم؛ ليدخل الرعب في قلوبهم حتى لا يعودوا إلى قتاله، تريدون - أيها المؤمنون - باتخاذ أسرى بدر أخذ الفداء، والله يريد الآخرة التي تُنَال بنصر الدين وإعزازه، والله عزيز في ذاته وصفاته وقهره، لا يغالبه أحد، حكيم في قدره وشرعه."
+        },
+        {
+            "verse_number": 68,
+            "verse_text": "لَّوۡلَا كِتَٰبٞ مِّنَ ٱللَّهِ سَبَقَ لَمَسَّكُمۡ فِيمَآ أَخَذۡتُمۡ عَذَابٌ عَظِيمٞ",
+            "explanation": "Si un Décret et le Destin d’Allah ne vous avaient déclaré le butin licite et permit de rançonner afin de libérer les prisonniers que vous détenez, un châtiment terrible d’Allah se serait abattu sur vous pour vous être permis de dépenser du butin et des rançons avant qu’une révélation d’Allah ne vous y autorise.",
+            "arabic_explanation": "لولا كتاب من الله سبق به قضاؤه وقدره أنه أحل لكم الغنائم، وأباح لكم فداء الأسرى لأصابكم عذاب شديد من الله بسبب ما أخذتم من الغنيمة والفداء من الأسرى قبل نزول وحي من الله بإباحة ذلك."
+        },
+        {
+            "verse_number": 69,
+            "verse_text": "فَكُلُواْ مِمَّا غَنِمۡتُمۡ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+            "explanation": "Ô croyants, dépensez de ce vous avez pris aux mécréants comme butin, celui-ci vous est en effet licite et craignez Allah, en vous conformant à Ses commandements et en délaissant Ses interdits. Allah pardonne et est miséricordieux avec Ses serviteurs croyants.",
+            "arabic_explanation": "فكلوا - أيها المؤمنون - مما أخذتم من الكفار من غنيمة فهو حلال لكم، واتقوا الله بامتثال أوامره واجتناب نواهيه، إن الله غفور لعباده المؤمنين، رحيم بهم."
+        },
+        {
+            "verse_number": 70,
+            "verse_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+            "explanation": "Ô Prophète, dis ce qui suit aux polythéistes que vous avez fait prisonniers lors de la Bataille de Badr: Si Allah sait que vos cœurs renferment du bien et une bonne intention, Il vous donnera mieux que ce qui vous a été pris comme rançon. Ne soyez donc pas tristes pour ce que l’on vous a pris. De plus, Il vous pardonnera vos péchés car Allah pardonne à ceux de Ses serviteurs qui se repentent et est miséricordieux avec eux. Cette promesse d’Allah se réalisa au profit d’Al-'Abbâs l’oncle paternel du Prophète et au profit d’autres anciens mécréants qui se convertirent à l’Islam.",
+            "arabic_explanation": "يا أيها النبي، قل لمن وقع في أيديكم من أسرى المشركين الذين أسرتموهم يوم بدر: إن يعلم الله في قلوبكم قصد الخير، وصلاح النية يعطكم خيرًا مما أُخِذ منكم من الفداء، فلا تحزنوا على ما أُخِذ منكم منه، ويغفر لكم ذنوبكم، والله غفور لمن تاب من عباده، رحيم به، وقد تحقق وعد الله للعباس عم النبي صلى الله عليه وسلم وغيره ممن أسلم."
+        },
+        {
+            "verse_number": 71,
+            "verse_text": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+            "explanation": "Ô Muħammad, si en prononçant les bonnes paroles qu’ils t’adressent, leur but est de te trahir sache qu’ils ont trahi Allah auparavant. Allah t’a alors secouru contre eux: un certain nombre d’entre eux furent tués et d’autres furent capturés. Qu’ils s’attendent donc au même sort s’ils récidivent. Allah connaît le mieux Ses créatures et ce qui les rend meilleures. Il est également Sage dans Sa gestion.",
+            "arabic_explanation": "وإن يقصدوا - يا محمد - خيانتك بما يُظْهِرون لك من القول فقد خانوا الله من قبل، وقد نصرك الله عليهم، فَقُتِل منهم من قُتِل وأُسِر من أُسِر، فلينتظروا مثل ذلك إن عادوا، والله عليم بخلقه وبما يصلحهم، حكيم في تدبيره."
+        },
+        {
+            "verse_number": 72,
+            "verse_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ وَٱلَّذِينَ ءَامَنُواْ وَلَمۡ يُهَاجِرُواْ مَا لَكُم مِّن وَلَٰيَتِهِم مِّن شَيۡءٍ حَتَّىٰ يُهَاجِرُواْۚ وَإِنِ ٱسۡتَنصَرُوكُمۡ فِي ٱلدِّينِ فَعَلَيۡكُمُ ٱلنَّصۡرُ إِلَّا عَلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٞۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
+            "explanation": "Ceux qui croient en Allah, accordent du crédit à Son Messager, mettent en pratique Sa religion, migrent d’une terre de mécréance vers une terre d’Islam ou dans un lieu où ils peuvent adorer Allah en toute sécurité, luttent pour la cause d’Allah en dépensant de leurs richesses et en sacrifiant leurs vies afin que la parole d’Allah soit celle qui a le dessus, ainsi que ceux qui ont hébergés ces migrants dans leurs demeures et les ont secourus ; tous ces migrants et ceux, parmi les gens du pays, qui les ont aidés, sont les alliés les uns des autres dans le secours et l’assistance qu’ils se prêtent mutuellement. Quant à ceux qui croient en Allah et ne migrent pas d’une terre de mécréance vers une terre d’Islam, vous n’avez pas à les secourir et à les protéger, ô croyants, avant qu’ils ne migrent pour la cause d’Allah. Si les mécréants les oppriment et qu’ils vous demandent secours, secourrez-les contre leurs ennemis, à moins qu’il n’y ait un pacte entre vous et leurs ennemis, alors vous ne pouvez violer ce pacte. Allah voit ce que vous faites. Rien ne Lui échappe de vos œuvres et Il vous rétribuera en conséquence.",
+            "arabic_explanation": "إن الذين آمنوا بالله وصدقوا رسوله وعملوا بشرعه، وهاجروا من بلد الكفر إلى بلد الإسلام، أو إلى مكان يعبدون الله فيه آمنين، وجاهدوا ببذل أموالهم وبذل أنفسهم لإعلاء كلمة الله، والذين أنزلوهم في منازلهم، ونصروهم - أولئك المهاجرون والذين نصروهم من أهل الدار بعضهم أولياء بعض في النصرة والمعونة، والذين آمنوا بالله ولم يهاجروا من بلد الكفر إلى بلد الإسلام ليس عليكم - أيها المؤمنون - أن تنصروهم وتحموهم حتى يهاجروا في سبيل الله، وإن ظلمهم الكفار فطلبوا منكم النصر فانصروهم على عدوهم، إلا إذا كان بينكم وبين عدوهم عهد لم ينقضوه، والله بما تعملون بصير، لا يخفى عليه شيء من أعمالكم، وسيجازيكم عليها."
+        },
+        {
+            "verse_number": 73,
+            "verse_text": "وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ",
+            "explanation": "Ceux qui mécroient en Allah, leur mécréance les unit et ils se portent mutuellement secours. Qu’aucun croyant ne s’allie donc à eux. Si vous ne vous alliez pas aux croyants et n’êtes pas hostiles aux mécréants, il y aura des troubles parmi les croyants car ils ne trouveront personne parmi leurs frères en religion pour les secourir et l’éloignement des gens du sentier d’Allah causera une grande corruption sur Terre.",
+            "arabic_explanation": "والذين كفروا بالله يجمعهم الكفر، فيناصر بعضهم بعضًا، فلا يواليهم مؤمن، إن لم توالوا المؤمنين وتعادوا الكافرين تكن فتنة للمؤمنين حيث لم يجدوا من يناصرهم من إخوانهم في الدين، ويكن فساد في الأرض عظيم بالصد عن سبيل الله."
+        },
+        {
+            "verse_number": 74,
+            "verse_text": "وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+            "explanation": "Ceux qui croient en Allah et migrent pour Sa cause ainsi que ceux qui, pour Allah, hébergent les Migrants et les soutiennent, ceux-là ont véritablement la foi et la rétribution qu’ils recevront d’Allah est le pardon de leurs péchés et un pourvoi généreux de Sa part, qui est leur entrée au Paradis.",
+            "arabic_explanation": "والذين آمنوا بالله وهاجروا في سبيله، والذين آووا المهاجرين في سبيل الله ونصروهم، أولئك هم المتصفون بصفة الإيمان حقًّا، وجزاؤهم من الله مغفرة لذنوبهم، ورزق كريم منه، وهو الجنة."
+        },
+        {
+            "verse_number": 75,
+            "verse_text": "وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ",
+            "explanation": "Ceux qui, après leurs prédécesseurs Migrants et Partisans, croient puis migrent d’une terre de mécréance vers une terre d’Islam et luttent pour la cause d’Allah afin que Sa parole soit la plus haute et que la parole des mécréants soit la plus basse, ceux-là, ô croyants, prétendent aux mêmes droits que vous et sont soumis aux mêmes obligations. Cependant, Allah décrète que ceux qui sont liés par un lien de parenté héritent en priorité les uns des autres, le lien de parenté prévalant sur celui de la foi et de la Migration contrairement à ce qui était en vigueur précédemment. Allah est Omniscient, rien ne Lui échappe, et Il prescrit à Ses serviteurs ce qu’Il leur sait bénéfique.",
+            "arabic_explanation": "والذين آمنوا من بعد إيمان السابقين إلى الإسلام من المهاجرين والأنصار، وهاجروا من بلد الكفر إلى بلد الإسلام، وجاهدوا في سبيل الله لتكون كلمة الله هي العليا وكلمة الذين كفروا السفلى، أولئك منكم - أيها المؤمنون -، لهم ما لكم من الحقوق، وعليهم ما عليكم من الواجبات، وأصحاب القرابة في حكم الله بعضهم أولى ببعض في الإرث من التوارث بالإيمان والهجرة الذي كان موجودًا سابقًا، إن الله بكل شيء عليم، لا يخفى عليه شيء، فهو يعلم ما يصلح لعباده، فيشرعه لهم."
+        }
+    ]
+}

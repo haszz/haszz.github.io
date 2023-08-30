@@ -1,0 +1,60 @@
+{
+    "surah_name": "AL-HOUMAZAH",
+    "surah_number": 104,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ",
+            "explanation": "Que celui qui calomnie et diffame les gens soit honni et châtié.",
+            "arabic_explanation": "وبال وشدة عذاب لكثير الاغتياب للناس، والطعن فيهم."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+            "explanation": "Il amasse des richesses et les compte, n'ayant que cela comme préoccupation,",
+            "arabic_explanation": "الذي همّه جمع المال وإحصاؤه، لا همَّ له غير ذلك."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+            "explanation": "et croit que les richesses qu’il amasse le sauveront de la mort et le feront vivre éternellement dans le bas monde.",
+            "arabic_explanation": "يظن أن ماله الذي جمعه سينجيه من الموت، فيبقى خالدًا في الحياة الدنيا."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+            "explanation": "Il n’en sera pas comme se l’imagine cet ignorant. Il sera assurément jeté dans le Feu de l’Enfer qui brise et détruit tout ce qui y est jeté.",
+            "arabic_explanation": "ليس الأمر كما تصوّر هذا الجاهل، ليطرحنّ في نار جهنم التي تدق وتكسر كل ما طُرِح فيها لشدة بأسها."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+            "explanation": "Ô Messager, sais-tu ce qu’est ce Feu qui détruit tout ce qui y est jeté?",
+            "arabic_explanation": "وما أعلمك - أيها الرسول - ما هذه النار التي تحطم كل ما طُرِح فيها؟!"
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+            "explanation": "C’est le Feu attisé d’Allah",
+            "arabic_explanation": "إنها نار الله المستعرة."
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+            "explanation": "qui traverse les corps des gens jusqu’à leurs cœurs.",
+            "arabic_explanation": "التي تنفذ من أجسام الناس إلى قلوبهم."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+            "explanation": "Il se refermera sur les suppliciés",
+            "arabic_explanation": "إنها على المُعَذَّبين فيها مغلقة."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+            "explanation": "en longues colonnes de flammes afin qu’ils n’en sortent plus.",
+            "arabic_explanation": "بعَمَد ممتدة طويلة حتى لا يخرجوا منها."
+        }
+    ]
+}

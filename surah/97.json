@@ -1,0 +1,36 @@
+{
+    "surah_name": "AL-QADR",
+    "surah_number": 97,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+            "explanation": "Nous avons fait descendre la totalité du Coran vers le Ciel le plus bas et Nous avons commencé à le révéler au Prophète la Nuit du Destin (laylatu l-qadri) du mois de Ramadan.",
+            "arabic_explanation": "إنا أنزلنا القرآن جملة إلى السماء الدنيا كما ابتدأنا إنزاله على النبي صلى الله عليه وسلم في ليلة القدر من شهر رمضان."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ",
+            "explanation": "Ô Prophète, connais-tu le bien et la bénédiction qu’il y a dans cette nuit?",
+            "arabic_explanation": "وهل تدري - أيها النبي - ما في هذه الليلة من الخير والبركة؟!"
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+            "explanation": "Cette nuit contient un bien immense puisqu’elle est meilleure que mille mois, pour ceux qui la veillent en accomplissant des adorations qu’ils mettent en dépôt auprès d’Allah.",
+            "arabic_explanation": "هذه الليلة ليلة عظيمة الخير، فهي خير من ألف شهر لمن قامها إيمانًا واحتسابًا."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+            "explanation": "Les anges et Gabriel descendent durant cette nuit avec la permission de leur Seigneur et transmetttent tout décret qu’Allah émet pour l’année: subsistance, décès, naissance ou autre.",
+            "arabic_explanation": "تنزل الملائكة وينزل جبريل عليه السلام فيها بإذن ربهم سبحانه بكلّ أمر قضاه الله في تلك السنة رزقًا كان أو موتًا أو ولادة أو غير ذلك مما يقدره الله."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+            "explanation": "Cette nuit est toute bénie depuis son commencement jusqu’à sa fin à l’aube.",
+            "arabic_explanation": "هذه الليلة المباركة خير كلها من ابتدائها حتى نهايتها بطلوع الفجر."
+        }
+    ]
+}

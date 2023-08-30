@@ -1,0 +1,42 @@
+{
+    "surah_name": "AL-KÂFIROUN",
+    "surah_number": 109,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+            "explanation": "Ô Messager, dis: Ô vous qui mécroyez en Allah,",
+            "arabic_explanation": "قل - أيها الرسول -: يا أيها الكافرون بالله."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+            "explanation": "je n’adore pas ni n’adorerai les idoles que vous adorez,",
+            "arabic_explanation": "لا أعبد في الحال ولا في المستقبل ما تعبدون من الأصنام."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+            "explanation": "et vous n’adorez pas Celui que j’adore, c’est-à-dire Allah Seul.",
+            "arabic_explanation": "ولا أنتم عابدون ما أعبده أنا؛ وهو الله وحده."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+            "explanation": "Je ne suis pas un adorateur des idoles que vous adorez,",
+            "arabic_explanation": "ولا أنا عابد ما عبدتم من الأصنام."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+            "explanation": "ni vous, n’adorez Celui que j’adore, c’est-à-dire Allah Seul.",
+            "arabic_explanation": "ولا أنتم عابدون ما أعبده أنا، وهو الله وحده."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+            "explanation": "Vous avez votre religion que vous avez inventée et j’ai ma religion qu’Allah m’a révélée.",
+            "arabic_explanation": "لكم دينكم الذي ابتدعتموه لأنفسكم، ولي ديني الذي أنزله الله عليّ."
+        }
+    ]
+}

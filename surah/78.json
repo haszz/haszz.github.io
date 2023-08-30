@@ -1,0 +1,246 @@
+{
+    "surah_name": "AN-NABA’",
+    "surah_number": 78,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "عَمَّ يَتَسَآءَلُونَ",
+            "explanation": "A propos de quoi, ces polythéistes s’interrogent-ils mutuellement après qu’Allah leur eut envoyé Son Messager?",
+            "arabic_explanation": "عن أي شيء يتساءل هؤلاء المشركون بعدما بعث الله إليهم رسوله صلى الله عليه وسلم؟!"
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+            "explanation": "Ils s’interrogent mutuellement au sujet de l’éminente nouvelle: ce Coran révélé à leur Messager et qui contient la nouvelle de la Ressuscitation.",
+            "arabic_explanation": "يسأل بعضهم بعضًا عن الخبر العظيم، وهو هذا القرآن المنزل على رسولهم المتضمن لخبر البعث."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+            "explanation": "Ils attribuent à ce Coran des qualificatifs divergents: magie, poésie, divination ou mythes anciens.",
+            "arabic_explanation": "هذا القرآن الذي اختلفوا فيما يصفونه به؛ من كونه سحرًا أو شعرًا أو كهانة أو أساطير الأولين."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "كَلَّا سَيَعۡلَمُونَ",
+            "explanation": "Il n’en est pas comme ils le prétendent. Ces dénégateurs connaîtront la conséquence funeste de leur démenti.",
+            "arabic_explanation": "ليس الأمر كما زعموا، سيعلم هؤلاء المكذبون بالقرآن عاقبة تكذيبهم السيئة."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
+            "explanation": "Ensuite, cette conséquence funeste leur apparaîtra avec évidence.",
+            "arabic_explanation": "ثم سيتأكد لهم ذلك."
+        },
+        {
+            "verse_number": 6,
+            "verse_text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+            "explanation": "N’avons-Nous pas fait de la Terre une étendue propice à leur installation et à leur vie?",
+            "arabic_explanation": "ألم نُصَيِّر الأرض مُمَهَّدة لهم صالحة لاستقرارهم عليها؟!"
+        },
+        {
+            "verse_number": 7,
+            "verse_text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+            "explanation": "Et les montagnes, n’en avons-Nous pas fait des piquets qui l’empêchent de tanguer?",
+            "arabic_explanation": "وجعلنا الجبال عليها بمنزلة أوتاد تمنعها من الاضطراب."
+        },
+        {
+            "verse_number": 8,
+            "verse_text": "وَخَلَقۡنَٰكُمۡ أَزۡوَٰجٗا",
+            "explanation": "Ô gens, Nous avons fait de vous deux catégories: les mâles et les femelles.",
+            "arabic_explanation": "وخلقناكم - أيها الناس - أصنافًا: منكم الذُّكران والإناث."
+        },
+        {
+            "verse_number": 9,
+            "verse_text": "وَجَعَلۡنَا نَوۡمَكُمۡ سُبَاتٗا",
+            "explanation": "Nous avons fait de votre sommeil un arrêt de vos activités, afin que vous vous reposiez.",
+            "arabic_explanation": "وجعلنا نومكم انقطاعًا عن النشاط لتستريحوا."
+        },
+        {
+            "verse_number": 10,
+            "verse_text": "وَجَعَلۡنَا ٱلَّيۡلَ لِبَاسٗا",
+            "explanation": "Nous avons fait de la nuit un voile pour vous, par son obscurité qui vous couvre à l’image d’un vêtement qui couvre votre intimité.",
+            "arabic_explanation": "وجعلنا الليل ساترًا لكم بظلمته مثل اللباس الذي تسترون به عوراتكم."
+        },
+        {
+            "verse_number": 11,
+            "verse_text": "وَجَعَلۡنَا ٱلنَّهَارَ مَعَاشٗا",
+            "explanation": "Nous avons fait du jour une période propice à la recherche de la nourriture et de la subsistance.",
+            "arabic_explanation": "وجعلنا النهار ميدانًا للكسب والبحث عن الرزق."
+        },
+        {
+            "verse_number": 12,
+            "verse_text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+            "explanation": "Nous avons bâti au-dessus de vous sept Cieux solidement et fermement constitués.",
+            "arabic_explanation": "وبنينا فوقكم سبع سماوات متينة البناء محكمة الصنع."
+        },
+        {
+            "verse_number": 13,
+            "verse_text": "وَجَعَلۡنَا سِرَاجٗا وَهَّاجٗا",
+            "explanation": "Nous avons fait du Soleil une lampe très incandescente et lumineuse.",
+            "arabic_explanation": "وصيَّرنا الشمس مصباحًا شديد الاتقاد والإنارة."
+        },
+        {
+            "verse_number": 14,
+            "verse_text": "وَأَنزَلۡنَا مِنَ ٱلۡمُعۡصِرَٰتِ مَآءٗ ثَجَّاجٗا",
+            "explanation": "Nous avons fait descendre une pluie abondante, provenant de nuages chargés d’eau.",
+            "arabic_explanation": "وأنزلنا من السحب التي حان لها أن تمطر ماءً كثير الانصباب."
+        },
+        {
+            "verse_number": 15,
+            "verse_text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+            "explanation": "Afin que Nous fassions pousser par cette eau, des variétés de grains et de plantes",
+            "arabic_explanation": "لنخرج به أصناف الحَب، وأصناف النبات."
+        },
+        {
+            "verse_number": 16,
+            "verse_text": "وَجَنَّٰتٍ أَلۡفَافًا",
+            "explanation": "ainsi que des vergers luxuriants à la végétation dense.",
+            "arabic_explanation": "ونخرج به بساتين مُلْتَفَّة من كثرة تداخل أغصان أشجارها."
+        },
+        {
+            "verse_number": 17,
+            "verse_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+            "explanation": "Le Jour où on tranchera entre les créatures est un rendez-vous fixé qui ne sera pas reporté.",
+            "arabic_explanation": "إن يوم الفصل بين الخلائق كان موعدًا محددًا بوقتٍ لا يتخلّف."
+        },
+        {
+            "verse_number": 18,
+            "verse_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+            "explanation": "Le Jour où l’Ange soufflera pour la seconde fois dans la Trompe, vous viendrez ô gens groupes après groupes.",
+            "arabic_explanation": "يوم ينفخ الملك في القرن النفخة الثانية، فتأتون - أيها الناس - جماعات جماعات."
+        },
+        {
+            "verse_number": 19,
+            "verse_text": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتۡ أَبۡوَٰبٗا",
+            "explanation": "Le Ciel sera alors ouvert et sera constellée de portes.",
+            "arabic_explanation": "وفُتِحت السماء فصار لها فتوح وشقوق مثل الأبواب المفتحة."
+        },
+        {
+            "verse_number": 20,
+            "verse_text": "وَسُيِّرَتِ ٱلۡجِبَالُ فَكَانَتۡ سَرَابًا",
+            "explanation": "Les montagnes seront déplacées jusqu’à ce qu’elles deviennent poussière éparpillés et disparaissent telles un mirage.",
+            "arabic_explanation": "وجُعِلت الجبال تسير حتى تتحول هباءً منثورًا، فتصير مثل السراب."
+        },
+        {
+            "verse_number": 21,
+            "verse_text": "إِنَّ جَهَنَّمَ كَانَتۡ مِرۡصَادٗا",
+            "explanation": "L’Enfer demeure aux aguets",
+            "arabic_explanation": "إن جهنم كانت راصدة مُرْتَقِبة."
+        },
+        {
+            "verse_number": 22,
+            "verse_text": "لِّلطَّٰغِينَ مَـَٔابٗا",
+            "explanation": "afin d’accueillir les injustes dont ce sera le refuge.",
+            "arabic_explanation": "للظالمين مرجعًا يرجعون إليه."
+        },
+        {
+            "verse_number": 23,
+            "verse_text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+            "explanation": "Ils y séjourneront un temps interminable,",
+            "arabic_explanation": "ماكثين فيها أزمنة ودهورًا لا نهاية لها."
+        },
+        {
+            "verse_number": 24,
+            "verse_text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+            "explanation": "n’y savourant ni air frais allégeant la chaleur du Feu ni ne goûtant à une boisson agréable.",
+            "arabic_explanation": "لا يذوقون فيها هواءً باردًا يبرد حر السعير عنهم، ولا يذوقون فيها شرابًا يُتَلذَّذ به."
+        },
+        {
+            "verse_number": 25,
+            "verse_text": "إِلَّا حَمِيمٗا وَغَسَّاقٗا",
+            "explanation": "Ils n’y seront abreuvés que d’une eau bouillante et d’une mixture faite du pus des gens de l’Enfer,",
+            "arabic_explanation": "لا يذوقون إلا ماءً شديد الحرارة، وما يسيل من صديد أهل النار."
+        },
+        {
+            "verse_number": 26,
+            "verse_text": "جَزَآءٗ وِفَاقًا",
+            "explanation": "en guise de rétribution équitable pour leur mécréance et leur égarement passés.",
+            "arabic_explanation": "جزاءً موافقًا لما كانوا عليه من الكفر والضلال."
+        },
+        {
+            "verse_number": 27,
+            "verse_text": "إِنَّهُمۡ كَانُواْ لَا يَرۡجُونَ حِسَابٗا",
+            "explanation": "Dans le bas monde, ils ne redoutaient pas de rendre des comptes à Allah dans l’au-delà, car ils ne croyaient pas à la Ressuscitation. En effet, s’ils redoutaient la Ressuscitation, ils auraient cru en Allah et auraient accompli de bonnes œuvres.",
+            "arabic_explanation": "إنهم كانوا في الدنيا لا يخافون محاسبة الله إياهم في الآخرة؛ لأنهم لا يؤمنون بالبعث، فلو كانوا يخافون البعث لآمنوا بالله، وعملوا صالحًا."
+        },
+        {
+            "verse_number": 28,
+            "verse_text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+            "explanation": "Ils traitaient de mensonges Nos versets révélés à Notre Messager.",
+            "arabic_explanation": "وكذبوا بآياتنا المنزلة على رسولنا تكذيبًا."
+        },
+        {
+            "verse_number": 29,
+            "verse_text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+            "explanation": "Toutes leurs œuvres, Nous les avons dénombrées et les avons consignées dans leurs registres.",
+            "arabic_explanation": "وكل شيء من أعمالهم ضبطناه وعددناه، وهو مكتوب في صحائف أعمالهم."
+        },
+        {
+            "verse_number": 30,
+            "verse_text": "فَذُوقُواْ فَلَن نَّزِيدَكُمۡ إِلَّا عَذَابًا",
+            "explanation": "Ô tyrans, goûtez donc à ce châtiment permanent, Nous ne ferons qu’ajouter châtiment sur votre châtiment.",
+            "arabic_explanation": "فذوقوا - أيها الطغاة - هذا العذاب الدائم، فلن نزيدكم إلا عذابًا على عذابكم."
+        },
+        {
+            "verse_number": 31,
+            "verse_text": "إِنَّ لِلۡمُتَّقِينَ مَفَازًا",
+            "explanation": "Ceux qui craignent leur Seigneur en se conformant à Ses commandements et en renonçant à Ses interdits obtiendront un lieu où ils remporteront ce qu’ils désirent. Il s’agit du Paradis",
+            "arabic_explanation": "إن للمتقين ربهم بامتثال أوامره واجتناب نواهيه، مكانَ فوزٍ يفوزون فيه بمطلوبهم وهو الجنة."
+        },
+        {
+            "verse_number": 32,
+            "verse_text": "حَدَآئِقَ وَأَعۡنَٰبٗا",
+            "explanation": "S’y trouveront des jardins et des vignes,",
+            "arabic_explanation": "بساتين وأعنابًا."
+        },
+        {
+            "verse_number": 33,
+            "verse_text": "وَكَوَاعِبَ أَتۡرَابٗا",
+            "explanation": "de belles femmes aux seins arrondis du même jeune âge,",
+            "arabic_explanation": "وناهدات مستويات السن."
+        },
+        {
+            "verse_number": 34,
+            "verse_text": "وَكَأۡسٗا دِهَاقٗا",
+            "explanation": "ainsi qu’une coupe de vin débordante.",
+            "arabic_explanation": "وكأس خمر ملأى."
+        },
+        {
+            "verse_number": 35,
+            "verse_text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا كِذَّٰبٗا",
+            "explanation": "Dans le Paradis, ils n’entendront ni paroles futiles ni mensonges et de plus, ils ne se démentiront pas les uns les autres.",
+            "arabic_explanation": "لا يسمعون في الجنة كلامًا باطلًا، ولا يسمعون كذبًا، ولا يكذب بعضهم بعضًا."
+        },
+        {
+            "verse_number": 36,
+            "verse_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+            "explanation": "Tout cela figure parmi ce qu’Allah attribuera à titre de faveur et de don abondant",
+            "arabic_explanation": "كل ذلك مما منحهم الله مِنَّة وعطاء منه كافيًا."
+        },
+        {
+            "verse_number": 37,
+            "verse_text": "رَّبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلرَّحۡمَٰنِۖ لَا يَمۡلِكُونَ مِنۡهُ خِطَابٗا",
+            "explanation": "provenant du Seigneur des Cieux, de la Terre et de ce qui se trouve entre les deux. Le Tout Miséricordieux du bas monde et de l'au-delà, et ceux qui peuplent les Cieux et la Terre ne le questionnent que s’Il les y autorise.",
+            "arabic_explanation": "رب السماوات والأرض ورب ما بينهما، رحمن الدنيا والآخرة، لا يملك جميع من في الأرض أو السماء أن يسألوه إلا إذا أذن لهم."
+        },
+        {
+            "verse_number": 38,
+            "verse_text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+            "explanation": "Ce Jour-là, Gabriel et les autres anges se dresseront en rangs et ne parleront pour intercéder, qu’avec l’autorisation du Tout Miséricordieux et à condition qu’ils disent une vérité, comme la formule de proclamation de l’Unicité d’Allah par exemple.",
+            "arabic_explanation": "يوم يقوم جبريل والملائكة مُصْطفِّين، لا يتكلمون بشفاعة لأحد إلا من أذن له الرحمن أن يشفع، وقال سدادًا ككلمة التوحيد."
+        },
+        {
+            "verse_number": 39,
+            "verse_text": "ذَٰلِكَ ٱلۡيَوۡمُ ٱلۡحَقُّۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+            "explanation": "Ce qui vous est décrit là est le Jour qui aura indubitablement lieu. Quiconque cherche à échapper au châtiment d’Allah de ce Jour, qu’il s’en donne la possibilité en accomplissant de bonnes œuvres qui satisfont son Seigneur.",
+            "arabic_explanation": "ذلك الموصوف لكم هو اليوم الذي لا ريب أنه واقع، فمن شاء النجاة فيه من عذاب الله فليتخذ سبيلًا إلى ذلك من الأعمال الصالحة التي ترضي ربه."
+        },
+        {
+            "verse_number": 40,
+            "verse_text": "إِنَّآ أَنذَرۡنَٰكُمۡ عَذَابٗا قَرِيبٗا يَوۡمَ يَنظُرُ ٱلۡمَرۡءُ مَا قَدَّمَتۡ يَدَاهُ وَيَقُولُ ٱلۡكَافِرُ يَٰلَيۡتَنِي كُنتُ تُرَٰبَۢا",
+            "explanation": "Certes Nous vous avons avertis, ô gens, d’un châtiment qui arrivera bientôt. Le jour ou l’homme regardera ce qu’il a accompli en ce bas monde, le mécréant dira, espérant que ses paroles feront cesser le châtiment: Si seulement j’étais devenu poussière, comme les animaux à qui on ordonne de devenir poussière le Jour de la Résurrection.",
+            "arabic_explanation": "إنا حذّرناكم - أيها الناس - عذابًا قريبًا يحصل، يوم ينظر المرء ما قدم من عمله في الدنيا، ويقول الكافر متمنيًا الخلاص من العذاب: يا ليتني صرت ترابًا مثل الحيوانات عندما يقال لها يوم القيامة: كوني ترابًا."
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "surah_name": "AL-MASAD",
+    "surah_number": 111,
+    "verses": [
+        {
+            "verse_number": 1,
+            "verse_text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+            "explanation": "Que les mains de `Abû Lahab, l’oncle paternel du Prophète, soient perdues pour ses agissements, puisqu’il persécutait le Prophète, et qu’il soit déçu.",
+            "arabic_explanation": "خسرت يدا عم النبي صلى الله عليه وسلم أبي لهب بن عبد المطلب بخسران عمله؛ إذ كان يؤذي النبي صلى الله عليه وسلم، وخاب سعيه."
+        },
+        {
+            "verse_number": 2,
+            "verse_text": "مَآ أَغۡنَىٰ عَنۡهُ مَالُهُۥ وَمَا كَسَبَ",
+            "explanation": "En quoi sa fortune et sa progéniture lui ont-été utiles? Ils n’ont pas éloigné de lui le châtiment ni ne lui ont attiré la miséricorde.",
+            "arabic_explanation": "أيّ شيء أغنى عنه ماله وولده؟ لم يدفعا عنه عذابًا، ولم يجلبا له رحمة."
+        },
+        {
+            "verse_number": 3,
+            "verse_text": "سَيَصۡلَىٰ نَارٗا ذَاتَ لَهَبٖ",
+            "explanation": "Le Jour de la Résurrection, il sera introduit dans un Feu qui flambe dont il endurera la chaleur.",
+            "arabic_explanation": "سيدخل يوم القيامة نارًا ذات لهب، يقاسي حرّها."
+        },
+        {
+            "verse_number": 4,
+            "verse_text": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+            "explanation": "Son épouse `Umm Jamîl, qui persécutait le Prophète en jetant des épines sur son chemin, y sera également introduite.",
+            "arabic_explanation": "وستدخلها زوجته أم جميل التي كانت تؤذي النبي صلى الله عليه وسلم بإلقاء الشوك في طريقه."
+        },
+        {
+            "verse_number": 5,
+            "verse_text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+            "explanation": "Elle aura à son cou une corde solidement tressée qui servira à la traîner vers le Feu.",
+            "arabic_explanation": "في عنقها حبل مُحْكَم الفَتْل تساق به إلى النار."
+        }
+    ]
+}
